@@ -5,6 +5,7 @@
 
 ## Set-up
 1. [Data Cleaning and Management Using Python](https://nyu-dataservices.github.io/python-cleaning/)
+2. [How to Write Good Documentation](https://www.freecodecamp.org/news/how-to-write-good-documentation/)
 
 ## Data collection
 1. 
