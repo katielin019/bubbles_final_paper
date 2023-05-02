@@ -1,0 +1,10 @@
+# References
+## Background
+1. [Top-rated United States television programs by season | Wikipedia](https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_by_season)
+2. [Flynn effect | Wikipedia](https://en.wikipedia.org/wiki/Flynn_effect)
+
+## Set-up
+1. [Data Cleaning and Management Using Python](https://nyu-dataservices.github.io/python-cleaning/)
+
+## Data collection
+1. 
