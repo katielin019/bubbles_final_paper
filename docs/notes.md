@@ -14,3 +14,5 @@
     - From [the-seinfeld-chronicles](https://github.com/4m4n5/the-seinfeld-chronicles) on GitHub
 - [How To Web Scrape Wikipedia Using Python, Urllib, Beautiful Soup and Pandas](https://alanhylands.com/how-to-web-scrape-wikipedia-python-urllib-beautiful-soup-pandas/)
     - For scraping series metadata
+- Search: "csv data to python dictionary"
+    - [Creating a dictionary from a csv file? | StackOverflow](https://stackoverflow.com/questions/6740918/creating-a-dictionary-from-a-csv-file)
