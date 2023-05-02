@@ -16,3 +16,8 @@
     - For scraping series metadata
 - Search: "csv data to python dictionary"
     - [Creating a dictionary from a csv file? | StackOverflow](https://stackoverflow.com/questions/6740918/creating-a-dictionary-from-a-csv-file)
+### 05:19 PM
+- I got the data I wanted by scraping Wikipedia and then narrowed down my list to a total of 43 tv shows
+- Now, I want to try web scraping to get show transcripts (which I'll then have to clean)
+    - [Star Trek webscraping script](https://github.com/BirkoRuzicka/Star-Trek-Transcripts/blob/main/StarTrek_webscraping.py)
+    - [scraping a website that requires you to scroll down | StackOverflow](https://stackoverflow.com/questions/45620396/scraping-a-website-that-requires-you-to-scroll-down)
