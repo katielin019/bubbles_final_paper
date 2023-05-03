@@ -30,3 +30,5 @@
     - Using [Star_Trek_Scripts/scrape.py](https://github.com/GJBroughton/Star_Trek_Scripts/blob/master/scrape.py) to help with test transcript retrieval
 - Got script text!! [Super helpful link](https://proxyway.com/knowledge-base/how-to-get-text-from-div-using-beautifulsoup)
     - Now I need to write the script to clean text and figure out how I want to approach structuring the text data :/
+### 09:57 PM
+- Got the script working for cleaning the text and got the export stuff working too. Now I just need to figure out what's happening with the weird formatting and fix it...
