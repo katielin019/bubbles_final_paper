@@ -46,3 +46,16 @@
     6. Make a new dataframe that has every single show, its start and end date, seasons 1-n, and the average entropy for a given season.
     7. Make a new dataframe that calculates the average entropy per show.
     8. Plot things
+### Wed May 3
+#### 01:03 PM
+- Since my last update, I've gotten a sizable chunk of work done.
+    - Last night/early this morning, I separated all of the shows by decade to make the data a little bit easier to process instead of trying to handle all 43 shows at once
+    - Today, I processed the decade files into dataframes, used those dataframes to get individual episode data for each show, and wrote a function to scrape transcripts from the episode data
+    - In the past hour or so, I scraped all of the transcripts for shows that began airing in the 1960s
+- I found a [repo](https://github.com/creyD/entro.py) that calculates the Shannon Entropy of a given string or file
+    - I had a little trouble figuring out the installation process at first, but [this guide](https://adamj.eu/tech/2019/03/11/pip-install-from-a-git-repository/) was super helpful!
+- After my 373 team meeting, I'm gonna take a quick break and then install the entropy calculator and test it out with a function that will parse txt files with a season's worth of episode transcripts into their individual episodes
+    - I also need to have a function that will impute the respective entropies of each episode into the dataframe for each decade
+    - Later, once I repeat this process for each decade, I'll append each dataframe (including some sort of date/year markers)
+#### 03:43 PM
+- Installed the entro.py package! Gonna test it out in a sec
