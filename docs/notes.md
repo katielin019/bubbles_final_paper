@@ -32,3 +32,17 @@
     - Now I need to write the script to clean text and figure out how I want to approach structuring the text data :/
 ### 09:57 PM
 - Got the script working for cleaning the text and got the export stuff working too. Now I just need to figure out what's happening with the weird formatting and fix it...
+- For removing character names [link](https://stackoverflow.com/questions/49281051/removing-capital-letters-from-a-python-string)
+### 11:09 PM
+- I want to be done for the evening. I'm fuckin exhausted, man.
+- Things I need to do tomorrow:
+    1. Write a function to split a string into its sentences and place each sentence inside an array. Then, use that array to write to a .txt file with one sentence per line.
+    2. See if this text file has a different entropy than the unformatted one (has extra whitespace and no line breaks).
+    3. Write a function to add season and episode data separately to each dataframe. Then write the lambda function to apply this to all dataframes in datadict. Save this new datadict as a new pickle.
+    4. Iterating through each show, group the dataframe by seasons and run a "get episode transcript" script for each episode of the season.
+        - Also!!! Need to go through each show and write tiny individual scripts to clean specific text anomalies.
+    5. Iterating through each show, run a lambda function to calculate the entropy for each individual epsiode.
+        - (It might be helpful if I could get the air date for each episode, but that's a bells and whistles add-on)
+    6. Make a new dataframe that has every single show, its start and end date, seasons 1-n, and the average entropy for a given season.
+    7. Make a new dataframe that calculates the average entropy per show.
+    8. Plot things
