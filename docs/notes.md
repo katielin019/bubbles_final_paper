@@ -27,3 +27,6 @@
 - Saved the dfdict to a pickle in case something happens and my shit gets lost
 - Don't think I need [this](https://towardsdatascience.com/scraping-from-all-over-wikipedia-4aecadcedf11) anymore
 - Now I need to actually scrape every single episode and then clean its text and then calculate its entropy... rip
+    - Using [Star_Trek_Scripts/scrape.py](https://github.com/GJBroughton/Star_Trek_Scripts/blob/master/scrape.py) to help with test transcript retrieval
+- Got script text!! [Super helpful link](https://proxyway.com/knowledge-base/how-to-get-text-from-div-using-beautifulsoup)
+    - Now I need to write the script to clean text and figure out how I want to approach structuring the text data :/
