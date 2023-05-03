@@ -21,3 +21,9 @@
 - Now, I want to try web scraping to get show transcripts (which I'll then have to clean)
     - [Star Trek webscraping script](https://github.com/BirkoRuzicka/Star-Trek-Transcripts/blob/main/StarTrek_webscraping.py)
     - [scraping a website that requires you to scroll down | StackOverflow](https://stackoverflow.com/questions/45620396/scraping-a-website-that-requires-you-to-scroll-down)
+### 08:15 PM
+- Used BeautifulSoup to get all of the episode urls and id's for every show
+    - [BeautifulSoup | Dev Cheatsheets](https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/python/libraries/beautifulsoup.html)
+- Saved the dfdict to a pickle in case something happens and my shit gets lost
+- Don't think I need [this](https://towardsdatascience.com/scraping-from-all-over-wikipedia-4aecadcedf11) anymore
+- Now I need to actually scrape every single episode and then clean its text and then calculate its entropy... rip
