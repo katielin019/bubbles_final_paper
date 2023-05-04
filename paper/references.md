@@ -9,3 +9,6 @@
 
 ## Data collection
 1. 
+
+## Data cleaning
+1. [Split text into sections using python regex | StackOverflow](https://stackoverflow.com/questions/21065588/split-text-into-sections-using-python-regex)

@@ -59,3 +59,6 @@
     - Later, once I repeat this process for each decade, I'll append each dataframe (including some sort of date/year markers)
 #### 03:43 PM
 - Installed the entro.py package! Gonna test it out in a sec
+- (04:32 PM) Still working on trying to test it out. I have to split the season files into individual episodes first.
+    - Just hit a breakthrough though, thanks to [this post](https://pynative.com/python-regex-split/), among others
+    - I think it should nearly be smooth sailing from here in terms of being able to test the entropy calculator
