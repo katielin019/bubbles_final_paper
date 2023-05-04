@@ -11,4 +11,5 @@
 1. 
 
 ## Data cleaning
-1. [Split text into sections using python regex | StackOverflow](https://stackoverflow.com/questions/21065588/split-text-into-sections-using-python-regex)
+1. [How can I split a text into sentences? | StackOverflow](https://stackoverflow.com/questions/4576077/how-can-i-split-a-text-into-sentences/31505798#31505798)
+2. [Split text into sections using python regex | StackOverflow](https://stackoverflow.com/questions/21065588/split-text-into-sections-using-python-regex)
