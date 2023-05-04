@@ -27,6 +27,22 @@ def calcEntropy(string):
 
     return -entropy, alphabet
 
+# Calculates the entropy of a given string and returns only its entropy (as measured in bits)
+def getEntropy(string):
+    alphabet, alphabet_size, entropy = {}, 0, 0
+
+    for char in string:
+        if char in alphabet:
+            alphabet[char] += 1
+        else:
+            alphabet[char] = 1
+        alphabet_size += 1
+
+    for char in alphabet:
+        alphabet[char] = alphabet[char] / alphabet_size
+        entropy += alphabet[char] * math.log(alphabet[char], 2)
+
+    return -entropy
 
 # Outputs a given entropy including the original text and the alphabet with probabilities
 def printEntropy(original, entropy, alphabet, simple):
