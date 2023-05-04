@@ -76,7 +76,7 @@ parser.add_argument('--simple', nargs='?', type=bool, default=False, help='Deter
 parser.add_argument('--lower', nargs='?', type=bool, default=False, help='Converts given strings or textfiles to lowercase before calculating.')
 parser.add_argument('--upper', nargs='?', type=bool, default=False, help='Converts given strings or textfiles to uppercase before calculating.')
 parser.add_argument('--squash', nargs='?', type=bool, default=False, help='Removes all whitespaces before calculating.')
-args = parser.parse_args()
+args, unknown = parser.parse_known_args()
 
 # Prepares the queue of different strings
 queue = []

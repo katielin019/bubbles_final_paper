@@ -64,3 +64,5 @@
     - I think it should nearly be smooth sailing from here in terms of being able to test the entropy calculator
 #### 08:13 PM
 - Took a solid break and am almost ready to jump back in... gonna quickly test one other season corpus to make sure everything is functioning correctly.
+#### 10:08 PM
+- May have fixed an import problem for the damn entropy calculator which keeps giving me all sorts of errors and bugs. Thank you, [StackOverflow](https://stackoverflow.com/questions/48796169/how-to-fix-ipykernel-launcher-py-error-unrecognized-arguments-in-jupyter). You are literally the most crucial thing holding this project together
