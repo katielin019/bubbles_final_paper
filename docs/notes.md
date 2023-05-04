@@ -69,3 +69,6 @@
 ### Thu May 4
 #### 01:26 AM
 - Had to do some unfortunate reformatting and editing, but [this post](https://stackoverflow.com/questions/13250046/how-to-keep-leading-zeros-in-a-column-when-reading-csv-with-pandas) was a lifesaver
+#### 11:25 AM
+- Gonna try something with conditional entropy to see if I get anything interesting
+    - Using [this](https://pit-claudel.fr/clement/blog/an-experimental-estimation-of-the-entropy-of-english-in-50-lines-of-python-code/) and [this](http://datasciencepadawan.blogspot.com/2015/03/computing-text-conditional-entropy-with.html?m=1) as a starting point

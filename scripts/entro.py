@@ -102,3 +102,32 @@ for string in queue:
 
     a, b = calcEntropy(string)
     printEntropy(string, a, b, args.simple)
+
+# Calculating the conditional entropy of a text
+# Source: http://datasciencepadawan.blogspot.com/2015/03/computing-text-conditional-entropy-with.html?m=1
+
+def ngram_list(text, n):
+    ngram = []
+    count = 0
+    for token in text[:len(text)-n+1]:
+        ngram.append(text[count:count+n])
+        count = count + 1
+    return ngram
+
+def ngram_counts(text, n):
+    ngram_dict = {}
+    ngram_arr = ngram_list(text, n)
+
+    for item in ngram_arr:
+        ngram_dict[' '.join(item)] = (ngram_dict[' '.join(item)] + 1) if ' '.join(item) in ngram_dict else 1
+    return ngram_dict
+
+def conditional_entropy(data):
+    unigram = ngram_counts(data, 1)
+    bigram = ngram_counts(data, 2)
+    N = sum(unigram.values())
+    H = 0
+
+    for key in bigram.keys():
+        H -= bigram[key] / (1.0 * N) * math.log(bigram[key] / (1.0 * unigram[key.split(' ')[1]]), 2)
+        return H
