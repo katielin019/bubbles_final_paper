@@ -131,3 +131,13 @@ def conditional_entropy(data):
     for key in bigram.keys():
         H -= bigram[key] / (1.0 * N) * math.log(bigram[key] / (1.0 * unigram[key.split(' ')[1]]), 2)
         return H
+
+def experimental_entropy(data):
+    unigram = ngram_counts(data, 2)
+    bigram = ngram_counts(data, 3)
+    N = sum(unigram.values())
+    H = 0
+
+    for key in bigram.keys():
+        H -= bigram[key] / (1.0 * N) * math.log(bigram[key] / (1.0 * unigram[key.split(' ')[1]]), 2)
+        return H
