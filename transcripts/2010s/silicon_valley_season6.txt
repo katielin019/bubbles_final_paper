@@ -1,0 +1,5212 @@
+{START OF EPISODE 1}
+1 You wish to acquire a company called Sliceline?
+I will be taking on a total engineering team of about 50.
+I just have to go back into my office.
+Well we thought the best way to introduce the PiperNet would be through the eight developers.
+I have been cooking up a killer new game.
+The Gates of Galloo.
+We put this thing on PiperNet Bam, 80,000 instant users.
+Partnering with a company of that size, this early, would put us months ahead.
+Knock 'em dead, Richard.
+Whatever you are doing, stop it now.
+Um, yeah, we're just high-fiving.
+Bye.
+You need to make a deal with my companies.
+Taking existing companies and just calling them new isn't sophisticated, that's theft.
+So they're manufacturing phones and signing them onto our network.
+Why would they wanna help us?
+They're not helping us, they're attacking us.
+- It's the 51 percent attack.
+- I'm sorry, what?
+A 51 percent We've been exploring the viability of an acquisition with Amazon.
+You expect me to work for Jeff Bezos?
+No way.
+I happen to know that they fucked you over.
+How would you like to fuck them back?
+I need you to attack me.
+- A second attack.
+- Yes.
+Boom, you just got 80,000 new users.
+Colin, you did it, you saved us.
+Gilfoyle, the patch.
+Bombs away.
+Oh, my God.
+These are our new offices?
+We're actually right through here.
+What do you guys think?
+Do you want to see the second floor?
+There's another floor?
+Okay.
+Whoa.
+I know, it's exciting, right?
+Here we are, right here to the left.
+I like your tie.
+Oh, thank you.
+I tied it myself.
+Oh Okay.
+Well, good luck.
+Mr. Hendricks, thank you for being here.
+For the last three hours, we've been asking some prominent members of your industry questions about the security of their users' data.
+And while the gentlemen from Facebook, Google, and Amazon have acknowledged some egregious lapses in the past And Hooli, sir.
+Hooli also acknowledged some spectacular lapses.
+Yes.
+As I was saying, these fine folks have been assuring us all that their oversights are behind them, and that they are the best people to protect their users' privacy.
+But my colleague, Senator Shizaki of the great state of Hawaii, suggested that you might have a different view.
+Senator?
+Thank you, Chairman Hubbard.
+Mr. Hendricks and his company, Pied Piper, are developing a pilot program to deliver wireless Internet to my constituents on the island of Maui.
+I have asked him to deliver a statement here today.
+Mr. Hendricks?
+Yes.
+Mr. Hendricks, now would be the time for that statement.
+Okay.
+I probably should've gotten these out before.
+He looks like a child in a custody hearing.
+But, like, you don't feel sorry for him.
+You just want him to go away and not have any parents at all.
+Hello, I am Richard Hendricks, CEO of Pied Piper.
+There you go.
+- Eye contact.
+- I'm proud to tell you that we are working with Senator Shizaki - Good.
+- on developing the first step in providing a new type of Internet to the world.
+Oh Hold on.
+Uh, basically, it-it is a program that i-i-it's kinda Actually, can I pace?
+I-I just think better on my feet.
+So, a lot of people Mr. Hendricks!
+Speak into the machine!
+Oh!
+Okay.
+I'm sorry.
+Does this come out?
+Perfect.
+- Fuck.
+- Okay, so, these people up here, right?
+You want to rein them in, but you can't.
+Uh, Facebook owns 80% of mobile social traffic.
+Google owns 92% of search, and Amazon Web Services is bigger than their next four competitors combined.
+And they will be even more robust once the Hooli merger is complete.
+Ah, see!
+Look, there!
+Even Hooli can't survive these monopolies.
+No one can!
+They track our every move, they monitor every moment in our lives, and-and they exploit our data for profit.
+And you can ask them all the questions you want, but they're not gonna change, they don't have to.
+These companies are kings, and they rule over kingdoms far larger than any nation in human history.
+They won, we lost.
+So, why are you here?
+Because look at where we are.
+Yeah?
+- We are in the seat of the US government - Mr. Hendricks?
+I'm okay.
+I've got it now.
+We are in the seat of the US government, a government that was founded by people who were, at one point, ruled by kings they couldn't overthrow.
+So, what did they do, right?
+They started over.
+They came here, to the New World.
+World 2.0, version 1776.
+And the way we win is by creating a new, democratic, decentralized Internet, one where the behavior of companies like this will be impossible, forever.
+One where it is the users, not the kings, who have sovereign control over their data.
+This, I promise to you: I will help you end this tyranny by building an Internet that is of the people, by the people, and for the people, so help me God.
+Yeah!
+Whoo!
+Whoa!
+Silicon Valley 6x01 Artificial Lack of Intelligence No, Mike, I just - Huh?
+There he is!
+- Uh King slayer!
+How was it?
+- Good.
+I-I I, um - You can go.
+- I got it - Yeah, I mean, I think it went pretty well.
+I mean, you saw it, right?
+Of course, but I-I-I want to hear you tell me everything, every detail.
+Holden The man just got off the plane, give him some space!
+Jesus Okay, so you touch down at Dulles, you turn off airplane mode, and then Well, actually, we flew through Reagan National.
+Reagan?
+But you love trams.
+Well See, this is why I should still be handling your travel.
+Oh, don't worry about it, Jared, you're busy.
+I'm never too busy for you.
+But let's let's not get caught up in that, right?
+- Right.
+- We're here now, and we're walking, and we're talking.
+I mean, take it all in, my friend.
+Look at all this.
+Can you believe we began our journey way back in that little living room in the hostel?
+And just yesterday, you addressed our nation's most hallowed, powerful legi Surprise!
+Too legit too legit to quit Too legit Anyway, like I was saying out there, we started out in that little hostel, just a couple of kids.
+- Yeah.
+- Right?
+- And now - You killed it, Richard!
+Way to punch big tech in the dick!
+I was just gonna say, let's let's take a moment to let it soak in, right?
+- Look what you've built!
+- Uh-huh.
+Okay, I'll let you go now!
+Enjoy the party!
+Your compression algorithm was the stardust!
+Hey, Richard!
+Richard!
+Come here.
+Stand here.
+Congratulations from Team Dinesh!
+Yeah.
+It's Aloha Friday!
+I'm going to Hawaii!
+- Okay, um - Bah-doopy-doo!
+Congratulations.
+Bah-doopy-doopy-doopy doo!
+- It's Aloha Friday!
+- Uh Setting up the island's first decentralized Meshnet Uh, "You licked ass"?
+- What?
+- "You dicked ass"?
+- I-I dicked ass?
+- Kicked ass!
+- Kicked!
+- Oh.
+Why were those your first two guesses?
+Gabe, what the fuck?
+!
+- You're the K!
+Where's the K?
+- K's right there.
+- Kicked has two Ks!
+- Hey.
+- Ha.
+- That's for you.
+Oh, uh, I'm trying to get some work done today.
+I-I just wanted to toast.
+Okay.
+So Don't worry, it's short.
+The word companion derives from the Latin word "panis" for bread, and while I can no longer digest bread, - I know that you leaven my life - Richard!
+Hey, man, you got a second?
+Uh, yes, Colin.
+No, I do.
+Um Sorry.
+Okay.
+Uh, cheers.
+Saw you on TV.
+You crushed it.
+That king shit was on point, man.
+- I fucking love kings.
+- Oh, yeah.
+So listen, um, did they swear you in?
+Like, pull the whole Johnny Law routine with you?
+Were you under oath?
+Uh, no.
+Cool!
+Well, that's a weight off.
+- Why?
+- Well, you said all that stuff about not collecting user data.
+- Yes?
+- But we are.
+- I am.
+- What?
+But I'm doing the right thing now by telling you, so I feel like I-I'm sorry, Colin.
+How long have you been collecting user data?
+Sorta the whole time.
+But it's just to improve the quality of my gameplay.
+I'm not using it to sell ads.
+It doesn't fucking matter.
+It goes against the principles of this company.
+I mean Shit, I just lied to Congress.
+No.
+You said a lie to Congress, but you didn't know at the time, I guess.
+Don't beat yourself up about it, huh?
+But going forward, maybe stop saying that.
+Are you fucking kidding me?
+Or do say it.
+I don't care.
+Maybe it'll be like Google saying "Don't be evil", or Facebook saying "I'm sorry, we'll do better", or me saying "Gates of Galloo does not leave your headset mic open and record everything you say.
+Suck it".
+Sweet fucking shit.
+A-a-are you bugging people and storing their private conversations on my network?
+Colin!
+This stops, now.
+It would really be better for me if you just stopped lying about it, 'cause the game's pretty boss.
+No, no.
+I'm the boss, and I'm telling you that this is over, Colin.
+- It's done.
+- Agree to disagree.
+I'm glad we had this talk.
+Can't believe I was so nervous.
+Congratulations.
+Okay.
+Oh, Richard!
+Hey.
+This is Sam Liccardo, the mayor of San Jose.
+There's a major fucking problem.
+Just meet me in my office in two minutes.
+Act normal.
+Sorry, just excuse me for a second.
+Hey, Jared!
+Hey, Tracy!
+- How's my favorite human resource?
+- I'm fine, thanks.
+Did anyone mention our plan to move your office?
+We're thinking about putting you closer to biz dev and marketing.
+But that's all the way back in the Hamelin Wing.
+Yeah!
+Follow me, I'll show you.
+Um Okay, it's just, that's a little far from from Richard's office.
+Yes, but you really don't have any day-to-day business with Richard anymore.
+I mean, we were just walking and talking before.
+Oh.
+Looks like they're having a meeting.
+I should probably It's just better for office cohesion if you sit near your direct reports, and that is biz dev and marketing.
+Yeah, no, you mentioned that.
+It's it's an interesting idea, but I just think that, um, I think we should check with Richard first 'cause I think he's gonna want me a little bit closer.
+Of course.
+It's subject to his approval.
+- Okay.
+- I've already emailed him.
+I think once you see the conference room suites though, you'll really fall in love.
+- Okay.
+Yeah.
+- Just right through here.
+Well, I don't fall in love with rooms.
+So, how do we get rid of this fucker?
+Look, Richard, I don't like this any more than you do, but we can't get rid of Colin.
+He's our most profitable developer by far.
+- So what?
+We have other developers.
+- We do, but they're all entangled with Galloo!
+We worked really hard to build a whole ecosystem around it.
+It's like if you cancel a Warriors game, you're not just hurting the team, but you're also hurting the parking attendants, and the T-shirt guys, and the concessions.
+Okay.
+Thank you, Monica, for putting it into an analogy that will resonate with me.
+- Football.
+- It's basketball.
+- No, I know.
+- Losing him is no longer a simple thing.
+So, what are you saying?
+We just do nothing?
+Richard, he's not selling ads.
+He's just using it to optimize the performance of his game.
+It's actually a fairly elegant implementation.
+What?
+What?
+!
+Hiroshima was an elegant implementation.
+- I don't think anyone agrees with you on that.
+- No, I'm saying, just because it's successful, doesn't mean it's good.
+I mean, it goes against everything we stand for.
+I mean, if we start collecting personal data "just for the good stuff", I mean, next thing we know, - we're fucking Facebook.
+- Well, for the record, I would not mind being fucking Facebook.
+No.
+We gotta kick him off, okay?
+There are 500 people out there who believe in this company's ethics and standards.
+There are 532 people out there, and someone has got to pay for them.
+Right now, it's Colin.
+Ditching him would be too complicated.
+You know what's not too complicated?
+Hawaii.
+In Hawaii, aloha means hello and goodbye.
+They use the same word to mean two things that are the exact opposite.
+That's awesome, and I have a chance to go there as long as Colin is on our network.
+Aloha.
+So, Colin betrays us and we just tolerate it?
+Great.
+This is the cost of working with humans, Richard.
+They suck.
+Gavin, after months of protracted negotiations, I'm happy to say that we've come to final terms on our sale to Amazon.
+Merger.
+Continue.
+Amazon has agreed to no layoffs, and they'll even provide retention bonuses for a period of two years.
+Uh, what about my role?
+No change.
+Essentially, you'll still have complete discretion over all of your divisions exactly as you enjoy right now.
+Full executive privileges.
+Perksssss Well, congratulations, Team Hooli!
+Oh, um, about that.
+Uh, that was their one major stipulation.
+From this point on, all of our properties will be rebranded.
+- As as what?
+- As Amazon!
+What?
+Hoover!
+Bezos wants to just erase the Hooli name from history?
+Mr. Bezos simply felt that the Hooli name had What were his exact words?
+Um "A stink".
+Hoover, goddammit!
+Stop it!
+You can't just threaten people with violence.
+Go stand over there.
+You tell Bezos we keep the Hooli name, or he can go fuck himself with his rocket ship.
+What is Amazon anyway?
+Is it a river?
+Is it a giant woman?
+It's not clear.
+No.
+We keep the name Hooli.
+- That's a deal breaker.
+- Gavin, is not Hooli more than simply a name?
+Is-is it not the culture and the great products?
+The liberal private aviation policy?
+- No.
+- You know that the board - has decided to sell, right, Gavin?
+- You know what?
+I've still got friends in this town.
+I'll put together some investors.
+Amazon can take a chunk of our assets, but Hooli will remain a viable and independent entity, even if we have to shed a few divisions and trim a little fat.
+So, Dinesh thinks this is you?
+Correct.
+He's been messaging with it all day and he has no idea it's an AI.
+Well, we fooled a human.
+I guess we just passed the Turing test.
+Almost a human.
+Fucking Gilfoyle.
+We're friends.
+You trained that thing in a day?
+No, I didn't train it.
+Son of Anton did.
+- Son of Anton?
+- An homage to a fallen friend.
+It's the name that I've given our new inference API.
+He's indexing all of PiperNet as we speak, and he's starting to recognize intent, emotion, causality.
+Hang on, wait.
+Uh Do you think you could engineer Son of Anton to index compressed audio files?
+Why would you insult me like that?
+He can do whatever he wants.
+Okay.
+Uh, hey, Dinesh?
+Yes?
+Can I get the latest tech specs from you, please?
+I've already sent them to you five times.
+I don't really wanna dig through my inbox.
+Um, so if you sent it now, it'll be on top.
+I'll wait.
+Wearable chair.
+Sending now.
+Okay.
+Thank you, Dinesh.
+Gilfoyle just said Um, Gilfoyle?
+What the fuck is going on?
+'Cause I just texted you, and you were Um, we've been texting back and forth all day.
+Was that not you?
+Complicated question.
+Is your shadow you?
+- Was that a bot?
+- Yes.
+So, I spent all day chatting with a bot?
+- Yes.
+- You made an AI Gilfoyle?
+- Yes.
+- And I was talking to it?
+Do you need the real me for this conversation?
+You can't just fuck with people and manipulate them because you don't have the decency to want to interact with a coworker.
+Gabe wants to know if he'll need a jacket if he walks to lunch.
+And if so, can he borrow a jacket.
+Look at him.
+Fucking Gabe.
+Hey, could you make me an AI Dinesh?
+We are down to the final few decisions in our new baseline contract for strategic developers.
+Let me provide some context on each before providing recommendations.
+The first is how indemnification will work, given that our network provides distributive storage.
+The second is how licensing and access fees will be applied to copyrighted material given that our network also does not allow any - tracking or user - Hey.
+- Can you talk?
+- Oh, hell yes.
+I charge all kinds of shit to the investors.
+I bought a Jet Ski, I bought a snowmobile, I bought a 10-pack of piano lessons He flat-out admits to embezzlement.
+- Where'd you get this?
+- Colin!
+He's been storing private conversations on our network, including his own.
+Because he's got gaming headsets everywhere.
+At his office, at his house, at his RV, and they are live 24/7.
+We have thousands of hours of his private conversations.
+You see, once I paired the automagical Son of Anton with my compression algorithm, and gave it access to Galloo Games's database, it indexed it all in less than 10 minutes, and generated this.
+Jared, this is a graph of all of his voice recordings, clustered by keyword.
+I mean, look at this.
+He steals, uh, he does drugs at work, uh, he's even sleeping with one of his investor's wives.
+I mean, this guy is dirty as a dog and we got him!
+Cold!
+Hold on.
+What-what are you suggesting here?
+Blackmail?
+- No I no.
+I I don't - Richard, what Colin is doing is clearly, and gobsmackingly, awful.
+But we're supposed to be the virtuous ones here, and-and this is just plain wrong.
+Yeah.
+Okay.
+Yeah, I guess, yeah.
+I guess you're right.
+I'll think of something else.
+- Yeah.
+- I mean, he started it, but I don't know.
+Yeah.
+Yeah.
+I don't know.
+Okay.
+I don't know.
+- Hey, Richard?
+- Hmm?
+Um, did Tracy happen to talk to you about moving my office down here?
+Yeah, she she mentioned it.
+I approved it.
+- Oh, you did?
+- Yeah.
+- Yeah.
+- Yeah.
+Okay, then.
+Richard?
+Um I mean, Colin lied to you first about collecting data, right?
+- Yes, he did.
+- So, even if this is wrong, I suppose you could argue that it's wrong in the service of rightness.
+Yeah.
+It's, um it's, uh, unethical in the defense of ethics.
+Uh, unjust in the quest for justice.
+It's like stealing from your pimp to pay for your friend's appendectomy.
+Yeah, a-and everyone else, Monica, Dinesh, and Gilfoyle, they're all just perfectly content with letting this guy shit all over everything we believe in.
+But are we, Jared?
+Richard let's go put a foot in Colin's ass.
+Danny, don't be a fucking bitch.
+I'll get you the tanning bed.
+I charge shit to the investors all the time.
+I put two grams of coke on the company card last week.
+Aah, fuck.
+You see, Colin, we were able to break down all of your misdeeds by category, including a catch-all for personal embarrassment.
+Masturbation, farts, the one time you said that you could, if you wanted to, get porn of your sister.
+You get the gist.
+Data collection.
+Not so boss when it happens to you, is it, Colin?
+Holy shit.
+I say, what time is it?
+Uh Where's my phone.
+Uh, do you have a phone?
+Do you have a phone?
+It is fuck you o'clock!
+Seven, you say?
+Oh!
+Well, hey, isn't that the time your board is meeting tonight?
+It's on my freaking shared Exchange calendar.
+Oh, oh look!
+There they are right now!
+- Look at that!
+- Say, Richard, that, uh, that a looks a lot like Harold Gibbons, the man whom Colin has made a cuckold of.
+It does.
+- Dude.
+- You just messed with the wrong pair of boys.
+Here's what's gonna happen.
+You're gonna march into that meeting, and you're gonna make an amendment to your company bylaws that you will never record or collect user data ever again.
+Unless, of course, you want the information on that little thumb drive to get out.
+Son of a bitch.
+You can keep that one, Colin.
+We've made copies.
+Yeah.
+Walk walk your ass out of here, you liar, and why don't you - Go fucking die.
+- Die!
+This, Richard, this!
+Let's break something.
+Don't come over, don't come over, don't come over.
+I gotta say, this is amazing.
+Gabe whines and complains and AI Dinesh just takes care of it.
+Thank you so much!
+My auntie sent me a Hawaiian shirt.
+AI Dinesh must've told her about Hawaii.
+Stop.
+Why would AI Dinesh be talking to your aunt?
+I specifically told you you could only use it with Gabe.
+But it was going so well with Gabe that I might've given AI Dinesh access to all my contacts just to handle talking to my auntie, and my parents.
+Why would you give AI Dinesh access to your contacts, you fucking moron?
+I'm one of your contacts.
+- So?
+- So, at some point, AI Dinesh is going to reach out to AI Gilfoyle.
+Oh fuck.
+Oh fuck indeed.
+Uh, hey, Dinesh?
+Yes, Gabe?
+I think the network is down.
+Thank you, Gabe.
+Uh, hey, Dinesh?
+Yes, Gabe?
+Can you fix it?
+Oh.
+Ah, Uber's almost here.
+You know, um, there's a couple of beers back at the office with our names on them 'cause when I put it back in the fridge, I put our names on them.
+Sure.
+Yeah, we've earned it.
+What Richard created is fucking amazing.
+We're all gonna be rich!
+Look, I'm doing blow, so it's lighting up drugs, but it's also lighting up unprotected sex and geotagging the Four Seasons.
+It's the greatest data aggregating platform in history.
+This could flip our whole business model, and Richard developed it specifically for us.
+Hey!
+There he is.
+So, you guys wanna hear me banging Harold's wife?
+Sorry.
+It's okay, we're poly.
+Right, Dan?
+Over seven million emails.
+- All on our servers.
+- My servers.
+Virtually all containing racist invective, and pornographic diagrams.
+- Yep.
+- Care to explain?
+AI glitch.
+Human error.
+I will rectify.
+Oh, oh, no, don't delete AI Dinesh.
+I love him.
+I can be more like AI Dinesh.
+I'll learn from my mistakes.
+I'll optimize myself And deleted.
+Uh, hey, Dinesh?
+Can I get the tech spec from you, please?
+Sure, Gabe.
+- Paul!
+- Gavin.
+Did the deal close?
+- It did.
+- What'd I tell you?
+Did you actually look at the specifics of the deal?
+I didn't have to.
+Did we have to shut some divisions?
+Of course.
+Will some people have to sacrifice their pensions and the like?
+Well, that's up to you, but we all have to make sacrifices for the cause.
+I really wish you had looked at these numbers.
+The new Hooli will be significantly smaller.
+But you just said Hooli.
+Did you hear that?
+And that's all that really matters.
+- So, make it work.
+- Yes, I've been trying.
+To-to that end, uh, since we have so many employees moving to Amazon, we don't need as much space and we need to reduce cost.
+- So - What is going on?
+- Why is their logo bigger than ours?
+- Because, technically, we are now subletting from them.
+It was the only way Hooli could afford to stay here.
+You're telling me that El Pollo Loco corporate has more employees than we do?
+How many divisions did I just give up?
+We need to fix this!
+Now!
+The term sheet is binding, and, as of this morning, I now work at Amazon.
+Be well, Gavin.
+Fuck!
+What do you mean, "Am I still happy at Pied Piper"?
+W-why would you even ask me that?
+Well, I know you're my therapist.
+I was there when the court appointed you.
+But I-I let my desire to be around Richard, and to be needed by him, turn me into some kind of a craven yes-man, and it clouded my judgment, and I led him down a horrible path.
+What?
+I'm not I'm not gonna dignify that.
+Of course I belong there.
+Where else would I possibly belong?
+All right, well, I'm home, so I guess we're gonna have to, uh Jared?
+What are you doing here?
+I-I don't know.
+Thought you moved out?
+It's Big Head, from here.
+The garage hasn't changed a bit.
+Although, the rodents are back in force.
+Oh, cool.
+Big Head, I need to talk to you about business.
+- Oh hi, Jared.
+- Jian-Yang, I was just taking a little walk down memory lane Can you stay or go?
+This is not interesting to me.
+Big Head, we need to kick Gwart out of the incubator.
+Oh, really?
+I thought we like Gwart.
+Oh, damn it.
+Gwart?
+Gwart has a very good idea, very good software, but when I ask her for business plan, she doesn't have a business plan.
+She's a brilliant coder, but this is not a charity.
+She's also not very friendly.
+It's a bad for the vibe.
+This place should be a cool hang.
+I got you some new cans, by the way.
+Thank you, Big Head.
+Nice.
+Hey.
+Looks like you could use a little help?
+May I?
+Hi, I'm Jared.
+A man offered us a billion dollars.
+You said, "no".
+A very bad man.
+And he would have turned us into the worst possible version of ourselves.
+I mean, you can't put a price on ethics.
+But it seems you just did.
+One billion dollars.
+I will be asking the tech community to sign their name onto this.
+Tech ethics.
+Or tethics for short.
+No one in town is ever gonna sign this hypocrite's hypocritical garbage.
+Hey, Richard.
+Ah what?
+- It's my resignation letter.
+- What?
+Pied Piper isn't the same company that I signed up for.
+She has different needs now.
+You buddy fucker.
+I'm not a buddy fucker.
+I am your buddy, and you are fucking me.
+Ergo you are a buddy fucker.
+- See the logo?
+- Russ.
+Check it!
+One, two, three.
+Boom!
+Tres commas tequila.
+Boom!
+Dollar sign, boom!
+Billionaire, boom!
+Russ, boom!
+Fest, boom!
+Russfest!
+You're not doing anything illegal here, are you?
+Fuck the police.
+{END OF EPISODE 1}{START OF EPISODE 2}
+1 Facebook, Google and Amazon exploit our data for profit.
+I will help you by building an internet of the people by the people and for the people, so help me God.
+You said all that stuff about not collecting user data.
+- But I am.
+- I just lied to Congress.
+Hooli will remain an independent entity, even if we have to shed a few divisions and trim a little fat.
+Gwart has a really good idea, but she doesn't have a business plan.
+Hi, I'm Jared.
+We were able to break down all of your misdeeds.
+This guy is dirty as a dog, and we got him.
+Oh, hell yes.
+It's the greatest data aggregating platform.
+And Richard developed it specifically for us.
+So this morning, Colin cut a new build of Gates of Galloo to his staging server.
+Okay, um, this is Baldereach, capital city of Galloonia.
+Those are some ghoul knights, wearing gelatinous armor.
+This is just the game, pretty standard stuff.
+Well, until I turn on the microphone.
+How are you doing, Richard?
+Are you hungry?
+- Would you like some pizza?
+-  What the fuck?
+He's using our API to run ads directly in the game engine?
+Crazy, right?
+Domino's Pizza in a fantasy medieval universe.
+Why, it's enough to make you wanna go on vacation.
+And he's even using our ability to track sentiment.
+Yeah.
+Even if I say nonsense words, it assigns them an emotional value.
+La-la-la-la-la-la-la!
+Fuck me.
+So, unless we get rid of Colin, which we can't, he is going to put this on our network.
+Money just perverts everything.
+At this point, I could stand to be a little perverted.
+Yeah, I wanna be a lot perverted.
+I wanna blow money while it talks to its wife on the phone.
+- I wanna suck money Oh.
+- All right.
+- Microphone.
+-  Oh!
+Uh Kittens, puppies, United Nations!
+Silicon Valley 6x02 Blood Money Richard, is this an okay time?
+It's a great time, Jared.
+I'm surrounded on all sides by people who turn on me.
+- I can come back.
+- No.
+No, no, it's fine.
+What do you got?
+What is this?
+It's my resignation letter.
+I'm leaving.
+What?
+One gaff with Colin, and you're just gonna walk away?
+It's about so much more than that, Richard.
+I've been agonizing over this.
+Not sleeping, not eating I completely forgot my godson's 40th birthday.
+Richard, Pied Piper isn't the same company that I signed up for.
+She has different needs now, and so do you, and, it turns out, so do I. Okay, Jared we are in the middle of a shit storm here.
+I'm trying to handle this as honestly as possible.
+There's a founder at the hacker hostel, and she needs my help, and once I'm free of encumbrances Encumbrances?
+!
+Oh!
+Well, fuck me, Jared.
+I don't want to encumber you.
+Okay.
+Go to your new boss.
+I hope she's not a big of a fuck-up as I am, you buddy-fucker.
+- I'm not a buddy-fucker.
+- Oh, yes, you are, Jared.
+You are a buddy-fucker.
+I am your buddy, and you are fucking me.
+Ergo, you are a buddy-fucker.
+Goodbye.
+- Richard, I'm not - Goodbye, Jared.
+Thank you.
+I like it how it is.
+But it's too warm.
+I want it warm.
+: Okay.
+Gentlemen, and lady, a short time ago, I reached out to you and asked you to invest, sight unseen, in a newer, leaner, and more focused Hooli.
+And invest you did, guided not by traditional spreadsheets or actuarial tables, but by your own highly attuned financial Gavin, cut the bullshit.
+What do we still own?
+Mr. Skelton.
+As candid and as forthright as ever.
+- Age has not dulled one iota of - Gavin.
+Of course.
+I had prepared a presentation, but I suppose I can just skip to the end.
+Hopefully, I won't lose you.
+Okay Confucius, John Lennon, Nietzsche, Ayn Rand, Steve Wonder, and here we go!
+As you can see, among the many jewels still in Hooli's crown are our exciting suite of office Where is web services?
+Well, Mr. Bezos felt it would fold nicely into his AWS, so he insisted Smart speaker and in-home?
+- He took that, too?
+- HooliHome was, indeed, subsumed - by the Amazon Alexa - Targeted search?
+Ironically, also missing.
+But we maintain rights to the HooliPhone and its proprietary apps, the patent for the Hooli Puck Mouse.
+We also maintain our web-based marketplaces, including our up-and-coming lifestyle networking platform, - Foxhole.
+- What the fuck is that?
+!
+Well, Foxhole is a very exciting web-based exchange, catering to those in the military, who are interested in having - extramarital affairs.
+-  Gavin, when do you expect the eight of us will recoup our investment?
+Ah, yes!
+That's my very next slide.
+- After this one.
+-  Well, with a little luck, we'll be profitable and up 5X inside three years.
+You got three months, or you're out.
+So, Melanie will take on all of Jared's marketing duties, Gwen will cover biz dev, and that should take care of it.
+Does this scan to you?
+- I can see it.
+- Okay, great.
+-  Okay, back to work.
+-  Uh, Bertram, while I have you You don't have me.
+Richard's just tasked me with streamlining productivity and balancing headcount.
+Can you explain to me why you have no one working under you?
+It just seems odd considering that the agile board is showing that you have a massive backlog.
+You're new here, so I'll forgive the patronizing tone.
+I'm more concerned with being right than being fast, and I don't like dealing with people.
+To wit, - are we done?
+- Oh, you're "that guy".
+What "guy" exactly?
+The brooding, arrogant guy who refuses to take orders?
+Self-taught coder who looks down on anyone who's taken a class.
+You're probably an atheist or something more contrarian.
+You claim to be an anarcho-capitalist, but you work here and pay taxes.
+You've probably read half of Neal Stephenson's Cryptonomicon, and it's about 50/50 whether you own a snake.
+: His girlfriend owns a snake.
+I finished Cryptonomicon, and you easily could've just looked in my file.
+I didn't need to.
+- I'm assigning you five coders.
+- Inadvisable.
+Noted.
+I'll send them over first thing tomorrow.
+If you're going to throw five randoms under me, at least let me pick my team.
+- Fair enough.
+- Good.
+-  Georgia?
+- Mm.
+You want to move the entire company to Georgia?
+Why?
+Well, the Valley's become prohibitively expensive.
+Look at these numbers.
+If we move to Georgia, we can save a fortune and get a further investment.
+It's the only way.
+Well, I have heard good things about the food scene in the Dirty South.
+Stankonia.
+Freaknik.
+Might be nice to be around more people of color.
+What?
+Not Atlanta.
+Tbilisi.
+The country of Georgia, not the state.
+What?
+-  Gavin?
+- Hmm?
+Tbilisi is no doubt a wonderfully rustic place, but do you not fear losing a local presence, a connection with the beating heart of the technology industry?
+Boots on the ground, so to speak.
+I think it's wise, sir.
+Shit.
+You're right.
+I need to be here to maintain my relevance.
+All right then.
+Plan B. You two and the team will move to Belarus.
+If we can get close enough to the Chernobyl exclusion zone, it's a buyer's market, and with the money we save from substantially downgrading from Tbilisi, plus the bigger Belarusian investment we've been offered, I'll maintain a pied-Ã -terre here in town.
+Now, I'll need to rely much more heavily on you because you probably won't see me much.
+I'll need you to guide the troops and bridge the language gap, but God damn, I respect the hell out of you both.
+-  Are you sure about this?
+-  Uh Yeah.
+Yeah, no.
+We can't have that atrocious game anywhere on our network.
+- We have to do a raise.
+- Well, it's a terrible time to do it, but I mean, it's your call.
+It's gonna have to be a big number though.
+Yeah, good.
+I guess we should set up some meetings, yeah?
+Too time-consuming.
+Let's jump-start the process.
+Are you feeling charitable?
+Just 39 cents a day can literally feed an entire family like this.
+Think about it, then ask yourself -  -  All right, so this place is the who's who of VCs, so let's do a lap, take inventory, and we'll start with the biggest firm, work our way down to - Laurie!
+- Monica.
+Richard.
+What are you doing here?
+The same as you, I suppose.
+Eating caviar and hacking famine.
+- No, I thought you moved to China.
+- Mm.
+The interesting thing about moving, Monica, is that you can do it more than once.
+I am back.
+You may be intrigued to know that I have severed ties with Yao and YaoNet.
+So, you're going back to VC?
+Oh, no.
+You misunderstand.
+I have severed ties between Yao and YaoNet.
+Yao has been exited, and I have made myself the CEO of the company, which I am moving back to the US, and in order to make it sound more American, I am renaming it "YaoNetUS".
+Wait.
+So, you're launching here?
+Yes, and with those Chinese out of the way, I can finally be more ruthlessly efficient.
+Speaking of, excuse me.
+- What?
+Are you fucking kidding me?
+- Richard, relax, okay, she's got inferior tech, she's got no developers.
+You remember when she tried to run Eklow?
+She's gonna last a week as CEO.
+I mean, look at her.
+She's desperate.
+She's already in total flirt mode.
+I do believe with proper management  She needs money just like we do.
+Let's just worry about us, okay?
+I will introduce you, and just let me do the talking, okay?
+Don't speak until Richard Hendricks from Pied Piper.
+- Eric Rivera, Graves Partners.
+-  Oh.
+I saw your congressional testimony, and I thought, man, I really need to talk to that guy.
+Oh, you did?
+Huh, cool.
+Yeah.
+I mean, you committed to a really bad business model, on national TV.
+I guess I just wanted to know, what the hell were you thinking?
+I mean, picking a fight with Facebook is one thing, but shitting on Google and Amazon at the same time, in front of TV cameras?
+What was going on in your brain?
+And-and Hooli.
+I-I shit on them, too, so I mean, we're all sitting in front of the TV in our office, thinking this is the dumbest man in tech.
+And then we talked about it, and we realized, hang on, - that is totally unfair.
+- Yeah, you did?
+Good.
+Yeah, because, I mean, you were subpoenaed, right?
+You were under oath?
+What were you supposed to do?
+Technically, I don't You weren't you weren't under oath?
+Mm, I don't think so.
+Are you kidding me?
+Wait.
+Karl, Ben!
+Come over here.
+You gotta hear this.
+We were wrong, man!
+Tell them what you just told me.
+Hey, um Richard Hendricks, from Pied Piper, yes?
+Uh, no.
+Maximo Reyes.
+I am an investor from Chile.
+Wow, I gotta tell you, it is an honor to meet you, man.
+Truly, I am such a big fan of your technology.
+Wow.
+- What, like, really, or - Of course.
+Hi.
+We are shaking hands.
+Correct?
+But I'm sure you have more important people to talk to, you know, and, you have made it painfully clear that you do not want me as an investor, so No, h-hold on.
+Wait, I-I-I made it clear?
+When did I Oh no, not you personally, but I spoke with somebody from your company many times.
+Uh, Yarez?
+Yarez?
+Y-Yarez Dun Yarez Oh!
+- Jared.
+- Yes!
+- Whatever - Potatoes, potatoes.
+Well, uh, Yared doesn't really work with us anymore, so - Oh, wow.
+Well, then.
+- Yeah.
+Look at you and me.
+- We are talking.
+-  Have you ever had a Chilean terremoto?
+-  Denpok, got a minute?
+-  Yes.
+I may have a way to keep us here in the US.
+Talk.
+Are you familiar with CIFIUS?
+Yes.
+No.
+The Committee on Foreign Investment in the US, or CIFIUS, is a federal agency that has wide latitude to prevent American companies from doing business with foreigners, if there's a national security threat.
+Are you familiar with the dating app Grindr?
+No.
+Yes.
+Last year, CIFIUS reversed the sale of Grindr to Chinese investors.
+They ruled that the sexual and HIV status of US citizens was something they needed to keep out of the hands of foreign interests.
+- I understand.
+- This morning, I was on the user database of Foxhole, when I happened upon a familiar face.
+Four-star General Hanley Barris.
+That is not his face.
+No, it is not.
+But as a four-star general, he could anonymously compel CIFIUS to prevent Foxhole or its ownership from moving to foreign soil.
+No more Belarus?
+I think General Barris would be very keen to keep this type of material out of the hands of foreign interests, and by that, I mean his wife, Yekatarina.
+Hey!
+What happened to you last night?
+Oh my God, you reek of booze.
+Were you out all night?
+Monica - I got lucky.
+- Didn't need to know that.
+No, no, I got even luckier than that.
+Tell me, did you know that the national tree of Chile is the piÃ±oner?
+Also this, - do you know who Maximo Reyes is?
+- Yeah.
+The richest man in Chile.
+Well, I saw that very tree in the middle of his living room, and he let me climb it.
+You met Maximo Reyes and you went to his house?
+Yeah, and he showed me his art collection, and we drank a number of terremotos, which are fucking disgusting.
+Anyway, I may have convinced him to give us enough money to get rid of Colin.
+Wait, what?
+I casually floated 50 million, and he didn't even bat an eye.
+-  -  Richard There's a reason Jared tried to ditch this guy.
+- We cannot take his money.
+- Why not?
+Did he tell you where he gets it from?
+How his grandfather was the chief of secret police under Pinochet?
+About how they ran their mines?
+They were basically slave traders.
+He can't really be all that bad.
+I mean, he really, really likes Pied Piper.
+Look, we cannot take blood money.
+You thought selling ads were bad?
+These guys executed people in soccer stadiums.
+I was open to it at first, but Jared was adamant and he's right.
+Fifty million sounds great, but it's an awfully low price to pay for your integrity.
+Fuck.
+Look, I know Colin is a sleazebag, but at least he's temporary.
+Okay, Maximo is a thousand times worse, and he would be permanent.
+Of course.
+He just e-mailed me the term sheet.
+I don't even wanna look at him.
+Just forward it to me.
+- I'll take care of it.
+- Thanks.
+I know that this sucks, but I promise you, you're doing the right Fifty million?
+Do you remember when I was offered 10?
+-  - Richard.
+Hmm?
+It's not $50 million.
+Is it more?
+It's a billion, Richard.
+A what?
+He just offered us a billion dollars for 10%.
+Fuck.
+-  - You're already holding a cigarette.
+Mr. Gilfoyle!
+-  Yes, ma'am?
+- Is this your new team?
+It is.
+Five people, as you requested.
+- That man over there?
+-  Ken.
+- Isn't he the coffee guy?
+- Barista.
+Yes.
+And Joyce was watering the plants.
+Mona was working security.
+Dan and George, they were painting the lobby.
+Until today.
+Which reminds me, they all need to change their LinkedIn status to "placaters of middle management".
+I'll be honest, this is sort of a first.
+And here you thought I was just "that guy".
+You know, Mr. Gilfoyle, you're right.
+You're not "that guy", because at the seven companies I've helped take public, every other "that guy" accepted their limitations, took on a team, and managed to get their work done.
+Some of them are now billionaires.
+None of them would've gotten into a dick-measuring contest with HR when they were two weeks behind.
+So, lucky us, I guess you're unique.
+You know, Gilfoyle, when I first heard the phrase "dick-measuring contest", I thought it was a contest to see who could measure the most dicks.
+But it isn't, is it, Gilfoyle?
+Is it a typo?
+Maybe it's a typo.
+It's not a typo, Richard.
+It's spelled out in the offer.
+One billion dollars, in one lump sum.
+Okay, what do I do?
+- I don't know.
+- Oh.
+Okay, well, Jared had you pretty convinced that this was evil money.
+It's a billion fucking dollars, Richard!
+Okay, so does that make this less evil or, like, - way more evil?
+- Ack!
+Do not touch.
+It's an e-sign.
+You touch that button, it's over.
+Tell me what to do.
+Monica, this is your job!
+Look, when my sister got pregnant her freshman year of college, I said get an abortion.
+Well, now my niece, Dakota, who is very much with us, calls me "Aunt Abortion".
+I'm sorry.
+You are the CEO, this is on you.
+Well, I gotta talk to Dinesh and Gilfoyle.
+No, you can't talk to those animals!
+You say a word to anyone out there, and this whole company turns into Lord of the Flies in five seconds.
+It's a billion dollars, Richard.
+I'm sorry.
+You're on your own.
+Monica Richard, there is a major emergency.
+Gilfoyle is using the barista as one of the coders, so I tried to use the cappuccino machine on my own, and I don't know if, like, the frother knob is, like, jammed or something, but it's, like, not working.
+So, there is no froth, at all, for anybody.
+So, can you get on that?
+- Yeah.
+- Okay, great.
+- He's on it!
+-  It's really a shit sandwich.
+They've been in there for a while.
+- Wonder how it's going.
+-  General Barris.
+Is it done?
+- Wonderful.
+- Say hello to your wife for me.
+Gavin!
+How was the meeting?
+-  -   Aah!
+Fuck!
+Richard?
+Huh?
+Yeah.
+What are you doing here?
+Do you have a second?
+Yeah, yeah.
+Come on in.
+I know you tried to keep Maximo away from me, but one thing lead to another and-and now this.
+- That is quite an offer.
+- Yeah.
+So, what do I do?
+Look, Richard, I know you said Monica's checked out on this, but this is kind of a monumental Pied Piper matter.
+I think you should get advice from somebody within the company.
+That's why I'm here, Jared.
+That's you.
+You gotta come back.
+- Richard - I-I know your job changed over time, but we can undo that.
+You know, restructure your role, move you upstairs so you're closer to me.
+Whatever it takes to make it work.
+Come on, think about it.
+We'll be a pair of boys, back in business.
+Richard, it's too late.
+I mean, you know, you let me go, so I took the job here - with Gwart, and - So?
+Go inside and tell Gwart you're leaving.
+Well, that's not how loyalty works.
+I mean, that wouldn't be fair.
+Fair?
+Years ago, you came to this house, begging me for a job, and I gave you one.
+In fact, I made you COO.
+And now, when I need you the most, you stab me in the back, and you have the balls to lecture me about loyalty?
+Are you fucking kidding me?
+I was right.
+You are a buddy-fucker.
+- Please stop saying that.
+- Buddy-fucker.
+Stop saying that.
+And-and-and please just leave this house, or I can't be held responsible for my behavior.
+Oh yeah?
+What are you gonna do, Jared?
+Huh?
+You gonna buddy-fuck me?
+'Cause that's what you do - to your buddies now, isn't it?
+- Get out.
+Oh, Gwart.
+No, no, no!
+That's too much sun.
+-  - Oh my God.
+This is Gwart?
+- Richard -  - This is who you're walking away for?
+- Richard, do not.
+She's your new little code girlfriend?
+- Don't.
+- This, uh - Don't.
+- This googly-eyed - No, no, no, no - Yoo-hoo drinking - No!
+- Oh my God.
+Oh, okay, okay, okay, look, I'm sorry!
+- No.
+- All right.
+I oughta knock your teeth, you bitch-made motherfucker.
+- I-I-I I didn't mean it.
+-  I was state-raised!
+You think I'm scared to catch a case - of some bullshit?
+!
+- I-I'm sorry, Jared!
+I didn't mean it, okay?
+I'm sorry, Gwart.
+I didn't mean it!
+You keep her name out of your skanky little mouth, you little, little bitch!
+Hey!
+Hey!
+Hey!
+This is a place of business Oh my God.
+Don't shoot me!
+- Jared!
+-  - Jared!
+Aah!
+- Dope-led, peckerwood motherfucker!
+-  Jared!
+Jared, no!
+- Get checked in, hoe!
+Oh, Jesus!
+You wanna dance on the blacktop, homie?
+!
+You did this, Richard!
+-  - Aah!
+Ow, what the fuck?
+Mr. Gilfoyle!
+You wanted to see me before I left?
+Yes, Tracy, I did.
+I wanted you to be here when I push my entire backlog of code.
+You finished all of it?
+In just 24 hours?
+I did, all by myself.
+I'll take that apology now.
+Mr. Gilfoyle, you said that I had to choose.
+You said I could have it fast or I could have it right, but I just got it fast and right, and all I had to do was threaten your manhood by assigning you other coders.
+It worked at seven other companies, and it obviously worked here.
+We're back on schedule!
+Now, why would I be sorry about that.
+I respect your skills.
+Thank you.
+See you in the morning.
+And now, we are both holding - a whiskey.
+- Yes.
+Um, Maximo, I wanna apologize for coming over here unannounced.
+And I wanna do this deal with you, but Jesus Richard, you have some concerns because of my family.
+I mean yeah.
+Richard, do you see these photographs?
+Now, these people, a lot of them children, used to work for my father in my family's mines.
+Now, I keep them here as a reminder of the many, many mistakes my father made.
+I want to fix those mistakes, Richard.
+By investing in you and your company, I'll be able to start doing that.
+Do you really believe that?
+Richard, we are going to change the world, you and I. -  - Shit!
+What was that?
+Ah, the birds.
+You know, they're attracted to the tree, so sometimes, you know, kapffft!
+What are you gonna do?
+- To rectifying the mistakes of my father.
+- Sure.
+Yeah.
+The fool who allowed the workers to unionize and ask for higher wages and more expensive hospitals.
+- We - Uh, sorry.
+What was that?
+Yes.
+My grandfather, he built a great fortune, but then my idiot father almost gave it all away.
+But not now, though.
+Oh no.
+Now, I mine copper, cobalt and diamonds, and now, thanks to you, data.
+Gracias.
+Uh, no.
+No, what?
+- No, we do not -  Oh my God!
+Uh No, we We will not mine user data.
+I was very clear about that.
+- But you do.
+-  Richard, did you not tell me when we were sitting on my tree, bonding, that there is a man in your network right now, using a tool, that you built, in order to mine user data?
+No.
+That is coming to an end.
+That doesn't happen anymore.
+-  - Richard, please.
+Cheers.
+To our future endeavors together.
+Maximo we will never collect and monetize user data.
+Ever.
+Then why would I give you one billion dollars, Richard?
+Look at me.
+I am not a fool like my father.
+You are turning this into a dick-measuring contest.
+Please don't, because I assure you, it will be I who measures the most.
+Are-are you threatening me?
+Take my money, Richard.
+It'll be very good for you, and very good for me.
+But if you do not take my money, Richard oh, it will be very bad for you.
+You know I talk to my baby Like a mother talk to her kid You know I love that woman But I just can't keep it hid She got the devil in her Yes That woman got the devil in her Richard, it's Maximo.
+We are on the phone.
+Let me tell you what is going to happen to you next.
+All I wanted to do was be a golden millionaire.
+A millionaire that gets peed on?
+I could see you making half that happen.
+Can I be honest with you for once?
+For once?
+You're my attorney.
+You're out of options.
+- DINESH  Holy shit.
+- MONICA  We could buy Hooli.
+Take your marks.
+I still got it, Hoover.
+{END OF EPISODE 2}{START OF EPISODE 3}
+1 At this point I could stand to be a little perverted.
+Yeah, I wanna be a lot perverted.
+We'll be profitable and up 5X inside three years.
+You've got three months.
+- What is this?
+- My resignation letter.
+Laurie, what are you doing here?
+I've made myself the CEO of the OwlNet.
+This is who you're walking away for?
+- This George R. R. - No, no, no.
+No!
+- Oh my god!
+- You did this, Richard!
+Cheers to our future endeavors together.
+We will not mine user data.
+I was very clear about that.
+If you do not take my money, Richard it will be very bad for you.
+- A billion dollars?
+- Yes.
+A man offered us a billion dollars, and you said no?
+A very bad man, and he would've turned us into the worst possible version of ourselves.
+I mean, you can't put a price on ethics.
+But it seems you just did.
+One billion dollars.
+Monica you were okay with this?
+Y-Yes?
+Richard, do you remember when you turned down $10 million from Gavin Belson?
+Did that start some sick addiction to turning down money?
+Are you just chasing that dragon, you sick junkie fuck?
+!
+Now, Dinesh, look, if I'd taken that 10 million, you wouldn't own two and a half percent of everything we've built here!
+Two and a half percent of a billion dollars is $25 million!
+Yes, but, actually, the billion dollars was to own ten percent of the company.
+So, not to split hairs, you would, uh, technically, be worth 250 million.
+- Fuck!
+- Huh.
+At an interest rate of 3.65 percent, leaving a billion dollars in the bank would get you $36.5 million a year.
+That's a hundred grand a day.
+That's - Sixty-nine dollars a minute.
+- Sixty-nine dollars a minute!
+Think about all the gold chain you could've bought with that money.
+I actually don't think that interest rate is accurate because - even a 30-year T-bill is only - Two-point-nine percent.
+- Two-point-nine.
+- All your blathering just now would've made us $2.32.
+Again, I-I don't think that's right because, assuming an APR of three, I cost us well under two dollars, so it's not even Um, sorry, uh - Hello?
+- Richard!
+It's Maximo.
+We are on the phone.
+How are you?
+Yeah, I know.
+I'm fine.
+We were just talking about you, myself and Colin.
+- Colin?
+- Oh, yes.
+Colin is here.
+He is making the peace sign to you.
+Now, you remember how you refused to take my money?
+Well, Colin, he did take my money.
+So, now he is leaving your network.
+Wait, to go where?
+Oh, to the network run by new friend, Laurie Bream.
+Now, you remember when I said if you did not take my money, it would be very bad for you?
+Well, let me tell you what is going to happen to you next.
+Which was too, too, too much for her, so she went down 51st Street to see Dr. X, who gave her eight pills, which left her Boobless.
+Silicon Valley 6x03 Hooli Smokes!
+- So, Colin's out.
+- Yes.
+So, our profits are zero.
+It's worse than that.
+Maximo has bought all of Laurie's Pied Piper shares, as well as all the shares of Big Head's dad.
+He now owns 30 percent of the company.
+So, the only way we can raise money to stay alive is by selling shares, but the second we do that Maximo buys them.
+Yeah, and when he gets a majority stake, he can do whatever he wants.
+Shut us down, fire all of us, take our IP to Laurie to use on her network.
+He's starving us out.
+- How long can we survive?
+- Well, the Siege of Candia lasted 21 years.
+Oh.
+Well, that's something.
+It ended in 1669, when the Ottoman soldiers were infected with plague after being attacked with the liquid from the spleens and buboes of the dead.
+What's a bubo?
+Plague-infested lymph nodes.
+So, they would, like, scoop them out and throw them at people?
+Fuck!
+Fuck.
+Richard, did you just try to punch the wall and miss?
+Nope.
+I clipped it.
+I got it.
+Sort of like that.
+I see.
+So, until a Richard Hendricks reports an assault, I-I technically can't turn myself in for it?
+That is correct.
+And what about a restraining order?
+Can I-I take one out against myself on his behalf?
+No.
+What if I threaten you guys?
+Just hear me out Fucking pigs.
+I-I hope that you get cheated out of your overtime.
+How about that, dickless?
+Maybe you could just try calling the guy?
+Why were you talking to the police?
+Oh, it was just a personal issue.
+You should not bring them here.
+Fuck the police.
+Jian-Yang, you're not doing anything illegal here, are you?
+Yes.
+Where is everyone?
+Jared is bringing chaos to the house, and chaos is bad for our business.
+Yeah.
+What is our business?
+I told you, it's a better for both of us if you do not know.
+Oh, right.
+Yeah.
+We need to get rid of Gwart.
+It's the only way to get rid of Jared.
+Gwart.
+Yes.
+Richard?
+- Gavin.
+- You look like shit.
+So do you.
+What happened to your hand?
+I punched a wall.
+Cool.
+Want a drink?
+Don't you think it's a little early It's kombucha with ginseng and lemongrass, Richard.
+I'm not a fucking hobo.
+All I wanted to do was be a golden millionaire.
+Is that too much to ask?
+A millionaire that gets peed on?
+I could see you making half that happen.
+No, you have as many millions as your age.
+I mean, everyone in the Valley is swimming in money.
+Why not me?
+I believe your people have a concept for it.
+- Karma.
+- Firstly, I am Muslim from Pakistan, you fucking racist.
+Secondly, karma does not exist.
+Otherwise, it would mean that bad things happen to me because I'm a bad person.
+Check and check.
+Oh, I'm a bad person?
+Says the guy who literally worships Satan.
+I am a great guy.
+In my youth, I would've argued that life is just a series of random events, devoid of any meaning.
+But as a data scientist, I have to recognize that sometimes, patterns emerge.
+Undeniable patterns.
+Get right with the universe.
+Dinesh?
+- Yo!
+- Hey.
+What is up, my cousin?
+- Oh!
+- Hey, uh, Gilfoyle, - you remember my cousin, Wajeed?
+- Yes.
+Coz, I have been meaning to call you.
+Remember last year when you wanted to sell all those shares of Bro that I gave you?
+And I was like, don't sell those shares!
+And you were like, "I need the money to buy floor mats for my Tesla, so I can make a guy named Danny in the office feel bad".
+Good memory.
+Um, but, you know, Bro was basically out of business.
+It was.
+But so wild!
+After you sold those shares, I sold Bro to MoveShack for basically nothing, and yesterday, MoveShack got "acquired" by Snapchat, and, uh we crushed it!
+- How much did you make?
+- Oh, you won't believe this Sixty million dollars?
+Yes, 60 million dollars!
+I'm a golden millionaire!
+Times two!
+So, Dinesh sold his shares, and then your fortunes turned around.
+Is that right?
+Huh.
+Weird.
+It's just like that time.
+Remember, you, me, and Ali, we went down to play by the river - Oh Boring story.
+- and then, and then Dinesh, you snuck home so that you could get Ali's jump rope and play with it by yourself, without telling him, and then Ali and I found a giant giant box of British candy.
+You love candy.
+Oh, it was the best.
+Anyway, I'm a golden millionaire.
+How about I buy drinks, yeah?
+- Karma's a - You're a bitch.
+Anyway, the fucking US government blocked the entire thing.
+Can you believe that?
+I pay taxes.
+- I mean, I don't, but - Yeah.
+But look, I mean, I think we're even more fucked than you are.
+We're quite a pair, aren't we?
+To us.
+To the men in the arena, living or dying under the watchful gaze of Caesar.
+Are you not entertained?
+It's, uh, from Jared Dunn.
+Do you remember him?
+Of course.
+How's he doing?
+Actually, uh, funny enough, he just bailed on me to go work for some sexy new startup back at my old hacker hostel.
+Ironic.
+Exactly the same way he left me, for you.
+Jared always had an eye for talent.
+Thanks, I guess.
+So, what was the munition that CIFIUS got on your case for?
+Some kind of - illegal hacking tool?
+- You wanna hear the worst part?
+It's a fucking dating app called Foxhole.
+- An app?
+- Yep!
+I can't shut it down because my investors will lose their shit, and I can't sell it because who the fuck wants something - with all those restrictions on it?
+- Right.
+Anyway Here's to us, the Shackletons, - betrayed by nature's cruelest whims - Wait.
+- her wants - Sorry, just If I owned Foxhole, wouldn't that prevent this Chilean guy from buying more of my shares?
+Actually, it would go even further.
+He'd have to sell all the shares he already owns.
+Okay, so, um, if you sell me Foxhole, I mean, that would certainly save my ass, obviously, but it would also save yours because then you could move your operations wherever you wanted.
+I mean, it's kind of perfect, right?
+It would benefit us both, equally.
+- Holy shit.
+- Yeah.
+Um, look, Gavin, I know we always haven't seen eye-to-eye, we're not the best of friends, but this may be a chance to actually help each other out, right?
+What do you say?
+I mean isn't it obvious?
+I say no!
+- What?
+- No!
+Fuck no, Richard!
+I can't make a move that would benefit you.
+You're my competition.
+Help no rival.
+It's one of the basic principles of business.
+We just spent the last hour bonding about how this business is comprised of backstabbers and cutthroats.
+Yes, exactly!
+That's what this is.
+It's a little weird you don't get it.
+I could help you, Gavin.
+You already have, Richard!
+I mean, I was sitting up here feeling totally just impotent, and then you came along and exposed your underbelly, and practically begged me to plunge the knife in!
+I mean, I still have a deep hole to crawl out of, but this is a fucking great start.
+Look at that.
+It barely hurts anymore.
+Well, if you'll excuse me, I have a triathlon to train for, and I'm suddenly feeling a wellspring of energy.
+Look, Richie, you're basically outta options.
+So, what are you saying?
+That I just lay down and die?
+I take issue with your definition of die, my dude.
+I can get that Chilean cat on the phone right now and get you paid.
+There's no shame in it.
+Musk built PayPal and sold.
+Hoffman built LinkedIn and sold.
+You seen those guys lately?
+I don't care about the money, that's not why I got into this.
+Richie, can I be honest with you for once?
+For once?
+You're my attorney.
+You remember the end of Thelma and Louise?
+How they drove that car off the cliff?
+Why?
+That was a mint '66 T-Bird.
+They didn't need that car to get over the cliff.
+Why'd that car have to die?
+I-I think it had something to do with, um, - women's rights or something?
+- Important stuff.
+But sorry, what's your point?
+My point, Richie, is you wanna go over the cliff, Thelma, that's fine.
+All right?
+You do you.
+But you gotta remember there are 500 other people in the trunk that are gonna burst into flames with you.
+And for what?
+Computers?
+That's Jared.
+He's been calling me all day.
+Uh, hey, can I call you back?
+I'm in the middle of something.
+Did you talk to Gavin Belson about Gwart's company, and call her sexy?
+Uh, what?
+No.
+I mean, yes, but I barely mentioned it.
+Did you call her sexy?
+Yes or no?
+I think I was more talking about her tech.
+So, you told Gavin Belson, a lion in repose, that Gwart was a potential threat, and now Jian-Yang is selling us to him for pocket change.
+- Jian-Yang can do that?
+- Yeah.
+He owns 60 percent of the company.
+He can do whatever he wants.
+Gavin is shutting us down, Richard.
+Gwart is so mad, she won't even look at me.
+- Aah, fuck.
+- You know, if you want revenge on me, that's fine.
+But to go after Gwart?
+She doesn't have your savvy or your ruthlessness, Richard.
+Hell, she has to wear earplugs on hikes because the forest is too loud.
+Look, I was only talking to Gavin to save Pied Piper.
+I-I had no idea he was A monster?
+Of course you did!
+That's all you talked about for years!
+"Gavin is a monster.
+Poor Pied Piper.
+I'm Richard Hendricks".
+I don't think my voice is that deep.
+I mean, who is the buddy-fucker now?
+You are the buddy-fucker.
+So, we gonna save that T-Bird, or are we gonna take her right over the cliff?
+So, uh, look, I-I know it's not a billion dollars, but, um, given the situation it's actually a very good deal.
+Do you want to sell the company?
+No, I don't.
+Dinesh, I don't, but Ron is right.
+Maximo is getting it no matter what.
+Why just give it away?
+Right.
+Yeah.
+Look, anyway, you guys have done everything I've asked for, so, uh, you all deserve this.
+Well, we can take the money and still be good people, right?
+Plus, Richard is the CEO, so I have to follow his orders.
+I mean, no one's ever been a bad person 'cause they followed orders, right?
+You guys, there's really no other option.
+- Yes, there is.
+- What?
+No.
+Okay, if Hooli won't sell us Foxhole we could just buy Hooli.
+Right.
+Yeah.
+The-the same way we can buy America and everything in it.
+No, I-I'm serious.
+We just found out how much Hooli's worth, and it's not that much.
+Sorry, how do we know how much Hooli's worth?
+Gavin bought Gwart's company using Hooli stock?
+Mm-hmm.
+And when he did, he tipped his hand.
+He really ran it into the ground.
+Yeah, and Maximo's offer's so strong that our price just shot up.
+Holy shit.
+We're worth more than Hooli.
+Uh, hey Jared, uh, - thank you for - Save it.
+I'm not doing this for you.
+I'm doing it for Gwart.
+The second you own Hooli, you release us to become independent, non-negotiable.
+Of course.
+Sure, yeah.
+If that's what you want.
+Cool.
+So, guys are we really doing this?
+Fuck it.
+Yeah.
+I think we have to.
+We have to sleep on it.
+Okay.
+We're gonna buy Hooli.
+Big question, - how do we buy Hooli?
+- Well, in order to get the cash, we have to sell a chunk of our shares to someone other than Maximo, and, I mean, whoever we rope into that is gonna lose a fortune.
+- Because ?
+- Well, we'd be selling to them at our current high price.
+And when we acquire Hooli and Foxhole, CIFIUS will force Maximo to dump all his shares, and our valuation will plummet.
+And I couldn't do that to anyone.
+Oh?
+Couldn't you?
+Yeah, I-I'm not sure I could do it either.
+Okay!
+Deal breaker then, right?
+'Cause there's no one I could do that to either.
+Oh, isn't there bro?
+Oh, God damn it.
+You want me to be an investor in your company?
+- I do.
+- Wow, that-that is so cool.
+But I don't know why I'm surprised because you're literally the greatest guy that I know.
+- What?
+- Yeah!
+I mean, literally last week, Farooq was calling me, and he was like, "Hey, you know who's a good guy"?
+And I was like, "My cousin Dinesh"!
+And he was like, "Yes.
+Yes, your cousin, - Dinesh".
+- That's me.
+It's hard for me to say, but I-I think we should hang out more, okay?
+And that's my fault, and I promise that I will call you as soon as me and my friends get back.
+Where you guys going?
+Oh, we're just gonna go down to the North Shore because I bought 80 acres in Hawaii, bro!
+And the beach is, like, pretty private or whatever, but there's, like, fashion shoots and supermodels Just sign it.
+Thank you, triathletes, for being here today to support a wonderful cause, HooliCares.
+Hooli cares.
+Do you?
+Take your marks.
+He's in the water.
+You sure?
+I cracked into Gavin's HooliWatch.
+Don't ask me how I did it.
+I've got real-time GPS location, blood pressure, body temperature, heart rate.
+I can even see where he is in his menstrual cycle.
+Looks like a good day to fuck him.
+So, I guess we're gonna talk all damn day?
+- That the play?
+- Uh, no.
+No.
+We're calling him, okay?
+So - let's do this.
+- Okay.
+'Cause it just seemed like Lex Skelton.
+Hey, uh, it's, um, Richard Hendricks.
+I'd like to ask for you to call an emergency meeting of the Hooli board of directors.
+Flank that little fucker in the black cap!
+Uh, we've tried to, uh, contact Gavin Belson, but, uh, he hasn't responded.
+We do, however, have a quorum.
+Let's proceed.
+Great.
+Well, I would like to present you with an offer, and, uh, judging by the current state of Hooli, I think you'll find it very interesting.
+All right, according to the company charter, Gavin Belson does have two hours to formally object.
+Right.
+Yeah, two hours, so That's no problem at all.
+You've seen my offer, but unless everyone agrees to sell, there's no deal because I need total control of the company.
+- So, who's in?
+- Richard, I expect a lot of us are on the fence here.
+Personally, I've been with Gavin for a lot of years, and believe Oh.
+Everyone?
+All right.
+I suppose I won't stand in the way then.
+Okay!
+Good, yeah.
+I'll just email you the long form, and you can just eSign eSign?
+No!
+We don't do that.
+- What?
+- Never have, never will.
+You want this deal to close, you bring us the forms, get everyone's hard signature, and then bring them to me to countersign.
+Is that a problem?
+No.
+More push, more push, more push!
+Whoa, he just sped up!
+There's been some lag, but I think he's on the bike.
+- Okay, we gotta hustle, guys.
+- I'm aware.
+All right, everybody know where they're going?
+You go, you get the signatures, - we meet at Lex's offices, yeah?
+- Yeah.
+Okay.
+Quick, quick.
+Come on, come on, come on!
+Go, go, go!
+One down.
+The next one's up on Market.
+Just up this block and take a right.
+Is that what the GPS says?
+- N-no, I - Okay, do you wanna drive?
+- No, Jared.
+Look - I'm Terry Gross.
+- Look, should we maybe talk about - My guest is a medical bioethicist who learned about opioid dependence the hard way.
+You know, I really ought to consult with my wife before I make such a big financial decision.
+You're really gonna let a woman tell you what to do?
+Over here!
+Oh, thank you.
+Almost done here.
+Gavin's just starting the run.
+His blood O2 is dog shit.
+- Plan J, sir?
+- Plan J!
+Jay!
+You are my spitting image.
+I'll meet you a quarter mile from the finish line.
+Go, go, go, go, go!
+I still got it, Hoover.
+I know you do, sir.
+As long as Jay doesn't fuck up, I'm gonna beat my personal record.
+Let's see, we started at 10:00, and now it's I gave Jay my watch.
+The fuck?
+!
+Turn around!
+Turn around, Hoover!
+Yes, sir.
+Mother fuck!
+- So, you've got them all signed, have you?
+- Yeah.
+And you can just, uh, countersign all that, and-and, your form to sign is at the end there.
+Do that, and we'll be out of your way.
+Fresca.
+Ah.
+Let's have a look-see, huh?
+"To whom it may concern".
+Okay, and actually, the signature page - I've done these things before!
+- Yep.
+No, I know.
+I know.
+What do you mean not to be disturbed?
+I just got a million texts that he's about to sign away my whole fucking company!
+It's Gavin fucking Belson, you clattering magpie!
+Hello?
+Fuck!
+We need to get to Lex's.
+Now!
+All right.
+Seven down, one to go!
+Yep.
+Yeah, just finish signing that form there, and we will Stop!
+Lex, stop!
+Gavin?
+- Huh?
+- I thought he was in the race.
+- Gavin.
+- Yeah, he is.
+Looks like he's waiting about a mile from the finish line.
+Oh.
+You are a sneaky little gladiator, aren't you, Richard?
+But the Hooli charter, which I wrote, gives me the right to block this transaction.
+Uh, no.
+It doesn't.
+Yeah, that's right.
+You, uh, you had two hours, which lapsed Seven minutes ago.
+I'm afraid they're right.
+Shit.
+Okay, fine!
+I can't block it!
+But come on, Lex!
+We have a history together!
+You wrote the very first check to Hooli.
+You're not gonna turn your back on 30 years of making money together, are you?
+I know we're not in the strongest position right now, but I will fight my way back, that's what I do.
+I-I kick and I scrap and I-I play dirty.
+Anything to win!
+I-I-I could've bailed Richard out, but I didn't!
+I fucked him!
+And then, I fucked over "world poker tour" there!
+Just for the spite of it, just because I could!
+Look, forget all the bullshit about making the world a better place.
+The most valuable companies in this valley were built and run by-by savages, who cheat to win.
+Zuckerberg, and Jobs, and me, Gavin Belson.
+So please, Lex, put the pen down.
+Leave your money where it is.
+If this is a competition to find out who the shittier person is, I'm not sure it's something that I can add to.
+I can.
+- Dinesh?
+- This must be said.
+Gavin, you think you're the most spiteful guy in town, but you're not even the most spiteful guy in this room.
+The truth is I'm a bad person.
+How do you think we got the money for this deal?
+I lied to my cousin's face.
+He is going to lose $40 million, give or take, plus his estate in Hawaii I hope.
+See?
+!
+I suck!
+Did you know that instead of breaking up with a girl that scared me, I called the FBI and sent her to prison?
+- The Teslas.
+- Right.
+I pressured my direct reports to buy Teslas that they could not afford because I wanted better wheels than a guy named Danny.
+And I was eight years old, I stole my friend Ali's jump rope and tied it to the back of a truck that drove away, and then I told him I had no idea what happened to it.
+And when he cried himself to sleep, I ate his British candy and told him God took it because he hated him.
+- Jesus!
+- So, if this decision is going to come down to who is the most spiteful, then, respectfully, sir - Stop!
+Stop!
+- I would argue Just stop talking!
+I don't wanna be in business with any of you people.
+I don't even wanna be in the same room with you!
+I'm gonna sign this and take my money out.
+Oop!
+Gonna miss my bus.
+Ugh Excuse me.
+Excuse me.
+Excuse me.
+Think you won?
+Fuck you, Richard Hendricks.
+The Valley is small and the road is long.
+Just keep looking over your shoulder.
+Gentlemen.
+And lady Ow!
+Hoover!
+Help!
+Guys Did we Just buy Hooli?
+Yeah, we did.
+Holy shit.
+Feels pretty good!
+Wajeed is gonna be so pissed at me.
+And mom's gonna kill me.
+So, I guess, uh, everyone got what they want.
+Well, actually, uh, Jared.
+Hey, uh I just wanna say, like I'm really sorry about everything, and, uh, well, of course, I'd be happy to give you and Gwart your company back.
+That's obvious.
+And also, if you needed office space, we'd be happy to have you.
+Um I guess, I don't know, I just I miss you, man.
+Whatever, I don't care.
+Jesus.
+Yeah, it's sort of his thing.
+All right, well, everybody's gathered out there, - so you should probably say something.
+- Okay.
+Be gracious and don't expect too much.
+What are you talking about?
+I mean, won't they be happy?
+I freed them from Gavin.
+I mean, that's one way of looking at it.
+Or, your company just swallowed theirs, and you fired their founder and CEO.
+They're probably a little freaked out.
+They wanna know that they're gonna keep their jobs.
+But we don't know if they will.
+- Right.
+- Yeah.
+Well, you'll think of something.
+Just be yours - Keep it short.
+Keep it short.
+- Yeah.
+Okay Okay.
+This is a video called Maximizing Alphaness.
+You just gotta subconsciously absorb it.
+This is the dumbest thing I've ever seen.
+Fuck yeah.
+It turns out my real parents are alive.
+So you gave me up to simplify your first class air travel?
+That's a clear row across.
+A, B, C, and D. Do we think this photo of Richard is funny?
+He was acting like your boss.
+You need to assert dominance.
+Ah!
+It's complicated.
+You're the only one who got hurt.
+{END OF EPISODE 3}{START OF EPISODE 4}
+1 Well, Colin, he did take my money.
+- Now he is leaving your network.
+- To go where?
+Oh, to the network run by my new friend, Laurie Bream.
+- You guys, there's really no other option.
+- Yes, there is.
+If Hooli won't sell us Foxhole, we could just buy Hooli.
+Big question.
+How do we buy Hooli?
+You want this deal to close, you bring us the forms, get everyone's hard signature and then bring them to me.
+You're not gonna turn your back on 30 years of making money together, are you?
+I don't want to be in business with any of you people.
+MONICA  Everybody's gathered out there, so you should probably say something.
+Won't they be happy?
+I freed them from Gavin.
+Or your company just swallowed theirs and you fired their founder and CEO.
+All we wanted was Foxhole, and instead we got all these Hooli people.
+We really couldn't just fire them, sight unseen?
+Uh-uh.
+Tracy from HR has to do an assessment of each person first, then we should can them.
+Oh, hey.
+I think I know that guy.
+Uh, yeah.
+What are you doing?
+Did you just wave him in?
+I-I don't know, automatic social shit.
+Hey, Ethan!
+Uh  - What are you doing here?
+- You tell me, boss.
+Uh, Ethan was my first manager when I was at Hooli.
+I didn't know you still worked there.
+Yeah, well, we can't all invent middle-out compression.
+Uh, anyway, I-I hope I make the cut.
+Yeah, well, we're having to be creative with the merger, so Yeah, totally.
+That's why I figured I could maybe help.
+You could use Hooli OS for your entire mobile suite.
+Yeah, we're not gonna spend months porting Hooli software over to our protocol, so - But thanks.
+- Yeah, it was a good thought.
+Yeah, you wouldn't have to.
+When we iterated Hooli OS 11, we reengineered the entire network layer to be compatible with other protocols and you own it.
+How quickly, would you say, you could, um, make it work with PiperNet?
+A few weeks with almost zero refactor.
+How much money do you think that could save us?
+So you guys are planning to build your own external antennas to deploy for the Hawaii test?
+- Why?
+- The zero-start problem.
+Until we have a critical mass of users, iOS and Android devices don't have enough range.
+Right, of course not, but push-to-talk HooliPhones do.
+HooliPhones?
+You want us to roll out our network on push-to-talk, - janky-ass HooliPhones?
+-  Laugh it up, but, uh, the fact that they still have low power, omnidirectional antennas means they have a radius of four miles.
+What is your antenna's range?
+- One mile?
+-  Wrong.
+One-point-one-five.
+Okay.
+Line of sight, though.
+- Maybe.
+- Richard, you guys just bought 250,000 HooliPhones.
+Instead of spending more money on expensive and mediocre antennas, why not just give away HooliPhones for the test?
+Delete.
+You know, Ethan, could you walk us through the Hooli OS side of all this work?
+Yeah, totally, but I think it'd go faster if I just took point and your guys backed me up.
+I'm sorry, what do you mean, back you up?
+Guys, we are in a huge hole here.
+Whatever it takes to get us out of it, please.
+Um, why don't you talk to Tracy in HR, and you can get your start-paperwork.
+Cool!
+Looks I already earned my keep, huh, Patches?
+Patches.
+Yeah.
+Oh, that's weird that you remember that.
+Um, so, Patches.
+I'll tell them.
+Uh, first day at Hooli, I wore this sweater that had these, like, elbow pads on it.
+- Anyway, uh - HooliPhones?
+Are you fucking serious?
+You just laid down and let that guy roll all over us.
+Look, I don't wanna use Hooli shit anymore than you guys, but this is for the greater good of the company.
+This will get us to a working test.
+This will get us to Hawaii.
+Hey!
+Holden.
+I asked for a water.
+Silicon Valley 6x04 Maximizing Alphaness - Thank you.
+- Mm-hmm.
+Oh Laurie.
+This will be sound.
+Excuse me one minute.
+- Laurie.
+- Oh, Monica.
+- Hello.
+- Hi.
+I'm now using touch as a means to communicate friendship.
+Uh-huh.
+Hey, um, is that Kara Swisher?
+What do guys do in there?
+We are uplifting each other while we plan our annual Women in Tech Empowerment panel.
+Kara's moderating.
+Oh my God.
+Is that Susan Susan Wojcicki from YouTube.
+Don't point, it's unseemly.
+Laurie, you do know that I am the CFO of a prominent tech company and just personally led - the acquisition of Hooli?
+- Yes, I am aware.
+My partner Maximo is, hmm unpleased.
+I'm just saying, I-I would love to do the panel.
+Why?
+You don't mentor, you don't volunteer, you don't develop programs for women.
+You've never shown the slightest interest in supporting women.
+Of course I have!
+Which is why I wanna do your panel with Susan Wojcicki from YouTube.
+Well we do have a lot of funny people.
+You could add balance.
+Are you eating the entire leaf?
+It's amazing how wasteful people in the West can be.
+Hoover.
+This book will send shockwaves throughout the Valley.
+Cold Ice Cream and Hot Kisses.
+This is about your experience at Hooli?
+No, no.
+It's a coming-of-age story about a lost, yet handsome teen growing up one fateful summer in Maine.
+Now, get that to the publishers.
+I want the hardback in my hand by tomorrow lunchtime.
+Sir, it takes a bit longer than that.
+We have to send it out to publishing houses and then find an editor.
+Editors are for people who can't write correctly the first time.
+We'll self-publish.
+And this really isn't about tech?
+No.
+I've left tech for good.
+Now, I have a chance to do something important.
+Write a thinly veiled roman Ã  clef set in a whale-themed B and B.  So look, Monica, um, I was looking over the org chart, and I think I'm gonna put you in charge of Foxhole.
+- What?
+- Yeah.
+I mean, while I know that you and I were saying that maybe some people might find it a little misogynist or offensive.
+I think that we if we had a woman at the helm, it might change the optics, and since you don't really care No, I-I-I do care.
+I care deeply.
+No, you don't.
+I mean, you literally said, "If a bunch of dumb Marines wanna cheat on their dumb wives, what the fuck do I care"?
+I don't think I used those exact words.
+I'm pretty sure you did, actually.
+- You texted it to me last night, see?
+- No, but And then you also said, "We don't have to smell it.
+We just have to sell it.
+- As long as those fat fat fatties" - Okay.
+I took an Ambien last night, and probably should've turned off my phone.
+Can you delete those?
+Okay.
+Monica, just make it work.
+Please?
+For women.
+Hi.
+Bertram Gilfoyle?
+No.
+I'm John.
+Okay.
+I brought the HooliPhones.
+Would you like to see them?
+I was told to help you with integration.
+You know what, John?
+That would be grand.
+Okay, here they are.
+The push-to-talk HooliPhone 13-X.
+Here's a HooliPhone right here.
+And here's a HooliPhone right here.
+- And here's a - Stop talking.
+Sit in that chair.
+Do not touch or say anything.
+Okay.
+Oh my God.
+Gwart, do you remember how I-I told you I found my birth father in that militia in the Ozarks, but then it turned out that guy was a fraud?
+Well, um, I just went in for some genetic testing to-to confirm my diagnosis of Marfan syndrome, and it turns out that my real parents are alive.
+And they live in Santa Cruz.
+And they're still together.
+What should I do?
+Should I visit them?
+Are you upset?
+Should I have not allowed somebody to sit so close?
+Because I-I asked you if it was okay.
+If you had an issue, you could've No.
+No.
+It is my job to protect you.
+That is my responsibility.
+I shouldn't have put you in that position.
+I apologize.
+Do you forgive me?
+Yeah!
+Yeah, you're right!
+I'll be splitting you guys into teams of four, then giving you guys different test scenarios.
+Hey, Patches!
+Hey!
+Uh, Holden said that we were having this thing upstairs.
+Yeah, I moved it down here.
+It's just a better space.
+Go ahead, have a seat.
+You're over there.
+I said we should wait for you to start, but The clock is ticking, though, right?
+We have stuff to do.
+Busy, busy.
+Oh.
+Elbow pads.
+Weird.
+Yeah, okay.
+Uh, actually, the first day I was at Hooli Yeah, I told them.
+I told them.
+They all laughed.
+-  - Oh.
+Heh.
+Come on, put it on, Patches.
+- I don't wanna put it on.
+- Do it!
+Be fun!
+Yeah, okay, sure.
+I can be fun.
+It's kinda funny, I guess.
+Yes!
+There he is!
+- There's our Patches!
+-  Hey, listen, Richard.
+You know I'm just joking around with you, right?
+We're all just having fun.
+Thanks for being a good sport, okay?
+Sure.
+No problem.
+Okay.
+Back to it.
+Right!
+Okay, so as I was saying, with smaller groups, we'll be able to make faster decisions, right?
+Light on our feet.
+For example, do we think this photo of Richard is funny?
+-  - We do, don't we?
+God We do!
+Okay.
+Cool, uh, guilty as charged.
+Big cake lover.
+You got me.
+Yeah.
+Well, I mean, I was your boss for a year, so you know I have some funny photos of you squirreled away, right?
+Uh, I didn't know that was a thing bosses did, but, yeah, maybe.
+Speaking of which, did you write that?
+-  Ooh!
+- WOMAN : Oh, my God.
+And sorted list size is greater than - plus, plus index?
+-  You ran a brute force search on a sorted list?
+Look, guys, it was my first day, and - I was nervous, and I was hurrying, so -  Really?
+That's why you decided to write the slowest subroutine in history?
+Anyone could've made that mistake.
+Yeah, it's true.
+In fact, I could ask for a show of hands, but instead of doing that, uh, I'll just, uh - Could you have made that mistake?
+-  Could you have made that mistake?
+Could you have made that mistake?
+- Okay.
+- Could you have made that mistake?
+The joke is that he's doing a brute force search of the room.
+- Yeah, I know.
+- Then, why did you do it?
+-  -  Could you have made that mistake?
+Richard, what the fuck was that?
+It was just Ethan being Ethan.
+He was acting like your boss, and you were acting like his noob employee.
+No.
+Everyone knows I'm the boss.
+I think people were just excited to, you know, razz the CEO.
+- It's all in good fun.
+- I did not have fun.
+I watched you get kicked in the balls for 90 minutes.
+My balls hurt sympathetically for your balls.
+Take off that sweater!
+It's fine.
+I mean, yes, Ethan can be a little prickly, but he is gonna get us to where we need to be.
+And I don't mind putting my ego aside for the good of the company.
+That guy humiliating you was not good for the company.
+He dominated you like a silverback gorilla.
+Do you know why the gorillas respected Jane Goodall?
+- Jane Goodall studied chimpanzees.
+- Wrong!
+It's because she could kick their ass, and they knew it.
+You need to assert dominance like Jane Goodall.
+I have something to show you.
+You're gonna need this.
+This is a video of maximizing alphaness.
+What else happens?
+It's just this, then it repeats itself.
+You just kind of breathe and subconsciously absorb it.
+Dinesh, this is the dumbest thing I've ever seen.
+Fuck yeah.
+Hey, John.
+Yeah?
+Could you grab my extra spudger?
+I think it's on my desk, next to my chess board.
+Okay.
+Cthulu limited edition, huh?
+- That's right.
+- Huh.
+Anything else?
+Nope.
+Okay.
+I am so glad we could do this.
+Yeah.
+What are we doing, exactly?
+Well, I have had my eye on you for a while now.
+It's what I like to call, "mentoring from a distance".
+We haven't spoken more than five words to each other since you joined the company.
+That's the distance part!
+Look, I-I came here to talk about advancing the careers of women, specifically yours.
+- Do you know how we just acquired Foxhole?
+- Of course.
+Apparently, it's 90% men, and almost all the female users are prostitutes.
+Which makes it a very challenging assignment.
+It's also a big promotion and strategically important to the company.
+And it's yours, if you want it.
+But, I mean, if you don't think you can handle it, I can just check in with Becky, Nadia, - Dani - No!
+- I can do it.
+-  Awesome!
+For you!
+Caspian's heart cracked open like one of his father's briny lobster traps.
+"Hannah", he whispered.
+- "I am not" -   "Hannah", he whispered.
+"I am not a member of the prestigious Prout's Neck Yacht Club.
+- Truth be told, I am but a" -   "Truth be told, I am but a lowly man of the sea.
+- She" -  "She was my mistress, but now, I pray that you might be as well"?
+Thank you.
+- Name?
+- Oh, I don't want to buy your book.
+I'm Allie Abrams, arts editor at the Sacramento Bee.
+Do you have a minute for a quick interview?
+I'll make the time.
+Is it on?
+Running?
+Firstly, I work in the parlor.
+I use a 1968 IBM Selectric II.
+In fact, the tapping of the keys inspired the idea for Lana's blindness.
+The tapping of her cane, you see?
+Oh.
+I guess what I really want to know is, why isn't this book about tech?
+I'm an author.
+Would you ask John Grisham the same question, or Jackie Collins?
+Well, no, but they weren't the head of a failed tech company.
+You think I failed.
+I didn't fail tech.
+Tech failed me.
+Tech failed all of us.
+Look.
+We should be in a Waldenbooks, but we're here, in this decrepit shithole, and why?
+Because people buy books online, thanks to Hool Amazon.
+So, don't point fingers at me.
+I didn't write about tech because tech destroys worlds, and I, I wanted to create them.
+May I have a token for the restroom, please?
+Well, there's not a whole lot to the story.
+Once you came along, Susan and I realized the timing was not right, and we needed to give you up.
+I appreciate how difficult that must've been for you guys.
+One of the hardest decisions we ever had to make.
+Um, thank you.
+And I just want you to know, that I understand and I don't hold it against you at all.
+You guys had kids after me?
+- Well, one was after.
+- Pardon?
+- Pete and Lisa were before you.
+- Right.
+I don't understand.
+You I was your third child, and-and you you gave me up?
+- Yeah.
+It just got way too difficult for us.
+- Mm.
+Yeah.
+Couldn't go on as many flights.
+Two parents, two kids that's a clear row across.
+- Yeah.
+- 1A, B, C, and D. So, you gave me up to simplify your first-class air travel?
+- Oh.
+No, it's more complicated than that.
+- Yeah.
+Yeah, we had car travel, - and taxis.
+- Mm-hmm.
+We never really did travel by train.
+No, and I don't do boats, so Well, you did enjoy that trip down the Rhine.
+I said I did.
+- Oh, you!
+-  Anyway, when we gave you up, we realized - we had a huge mistake.
+- You did?
+Yeah.
+We realized we actually did want a third child.
+- Yep.
+- Started trying almost immediately, and we lucked out because Donald is the best of the bunch.
+Yeah.
+- Donald?
+-  Yeah, we love that name, - so we just wanted to use it again.
+-  - Oh!
+Speak of the angels, they're here.
+- They're here.
+Wait, you invited my birth siblings here?
+- To meet me?
+-  - Hi, Mama.
+- Hey.
+This is Peter.
+This is Lisa.
+This is Donald.
+And this is, uh, Ken.
+He's here to tell us - about the solar situation for the house - Ken?
+so, uh Yeah, we offer financing.
+We just need one more minute, and then we can go.
+- All right.
+- Bye.
+We never told them about you.
+Didn't wanna make them sad.
+- Yeah, I-I see.
+-  Yeah.
+Well!
+This has been really great.
+We have - We have a family dinner.
+- We have a dinner.
+Every Thursday, we have Italian food, so Although, tonight, we're switching it up.
+We're gonna do Chinese.
+It was one of the hardest decisions we ever had to make.
+Yeah.
+Well, uh, Ken, we were underwhelmed by your presentation.
+- Hey, John.
+- Yeah?
+Did you move the white pawn here?
+Opening move?
+No.
+Okay.
+I'm gonna go hit the head.
+I should be back in about two minutes.
+Okay.
+Where's the dunce cap?
+-  -  Hey, uh  Uh, Ethan?
+- Yeah, Patches?
+-  I-I was actually thinking that maybe we stop with the nickname.
+We had our fun, but maybe stop all the jokes about my coding mistake from years ago, and also stop calling me Patches.
+Yeah.
+Okay.
+Butt Stuff.
+You remember that?
+When you walked around all day and your T-shirt was stuck all the way into your underwear, all day?
+I mean, I remember it, but no to Butt Stuff.
+- Um, just call me Richard.
+- Here's the thing.
+That name makes me happy, and if you had as much managerial experience as I do, you'd know that keeping your star coder happy is how you get the best work, and you guys need me to do really good work because I'm kind of the only person here that can do it, so I'm just gonna keep calling you Patches.
+Is that okay with you?
+Patches?
+- Oh!
+-  Aw!
+So, it's complicated.
+You were the clear aggressor in this incident, but you're also the only one who got hurt.
+You hit him in the forehead, which is the single hardest part of the human body.
+I would never advocate violence, but when you make a fist, you wanna keep your thumb on the outside.
+Yeah.
+Uh, I know that now, but at the time, I couldn't remember.
+You did great, Champ, but here's the bottom line.
+We gotta cool our shit down with this guy before he lawyers up and sues us a new hiney-hole.
+You need to go talk to Ethan and give him a sincere - and honest apology.
+- Without admitting any fault or describing what happened in any way.
+I asked myself, why would they reject me and not their three other biological children?
+- And that is when it hit me.
+-  It's me.
+I mean, even as a baby, I must have somehow rejected them, and every subsequent foster family I've ever had.
+Oh.
+Heavy.
+I rejected Richard, and every person who has ever offered me safe harbor, and it has to stop.
+I have to commit to Gwart.
+No matter how difficult it gets, even if we're miserable together, I am going to support her work, and bring her food, and-and put her in her prescription sleeping bag when she starts to thrash.
+It is the only path forward.
+Hey, that's the best, man.
+I feel like you made a lot of progress.
+- Ha!
+-  Gwart's doll gloves.
+I'm gonna make her so happy.
+My book is a fucking disaster.
+What have you got there?
+Oh, um, MSNBC wanted to interview you about being an "anti-tech evangelist".
+Their words.
+I told them you only wanted to speak about two things: cold ice cream, and hot kisses.
+Who-who was it?
+Was it Hayes or O'Donnell?
+Maddow, sir.
+- Really?
+- Yes.
+I'm sure all the major outlets would love to have you if you discuss tech.
+So  Do I honor my truth as a starving author, or do I return to the world I've scorned?
+What did Publisher's Weekly say about my book?
+Publisher's Weekly is a terrible magazine, sir.
+Call Maddow.
+Yes, sir.
+Bishop to E6.
+- Checkmate.
+- Fuck.
+Okay, so that's 42 games for me, and zero for you.
+You wanna play again?
+I think I'll take a break.
+Okay.
+Okay.
+-  -  Well, thank you so much for the hilarious Susan Wojcicki, the CEO of YouTube.
+It's gonna be a very hard act to follow, but here to try is Monica Hall, the CFO of Pied Piper.
+Come on up, Monica.
+- Thank you for coming, Monica.
+- Thank you.
+I was thrilled and surprised to be invited.
+So, let's cut right to the chase.
+You recently acquired Hooli, and one of its properties is Foxhole, which is apparently an app that military members use to source prostitutes.
+Yes, and that's something I'm not involved with on any level.
+It's being run now by a young woman I promoted, Priyanka Singh.
+I talked to Priyanka before this panel.
+Priyanka, are you in this audience?
+- Yes, hi!
+- Hey, Priyanka.
+How you doing?
+Why don't you get up and tell us about it?
+Well, when I first took over the app, I was pretty lost, but, luckily, I was able to call on my network of strong, female coders.
+And almost immediately, we came up with a plan to rebuild Foxhole from the bottom up.
+Our first step will be to unionize the sex workers on the app.
+We believe that friends with benefits deserve benefits because sex work is work.
+And!
+And!
+Why is it only for men?
+Don't our female soldiers, who put their bodies in harm's way, deserve to put their bodies in pleasure's way?
+I think it might be a good idea to bring Priyanka up here.
+- Priyanka, why don't you come up?
+- Uh, okay.
+So, Priyanka, the business of sex positive feminism Monica, move.
+Like we say at Foxhole, if you can scale Tinder, you can scale sex positive feminism.
+-  - There's a seat in back.
+You.
+- Who are you?
+-  Ethan.
+Hey, um I owe you an apology.
+It's bad enough that I used brute force to search a sorted list, but No, Richard.
+I'm the one that needs to apologize to you.
+You're my boss, and the way that I talked to you was completely outta line.
+I'm just feeling insecure about working for a guy that used to work for me.
+- Really?
+- Yeah.
+I'm so happy to be here, and I'd love to stick around if you'll have me.
+Yeah, of course.
+Yeah.
+Great, man.
+Thank you so much.
+Sorry again.
+Thank you, this is great.
+Dinesh, I'm really looking forward to finishing up this project with you and your team.
+- Oh, it's whatever, dawg.
+- Cool.
+What did you do to that guy?
+- I watched that video.
+- See?
+I told you!
+We're alphas!
+- Fuck yeah!
+- Fuck yeah.
+Hey, uh, don't show that video to Gilfoyle.
+Got it.
+Fuck yeah.
+-  I see it's been handled.
+- Yes.
+Good.
+So, I trust there's no more need for any No.
+That won't be necessary.
+Let's hope not.
+Can I go now, please?
+Very well.
+Good job on the plate.
+Holden, did you threaten Ethan in some way?
+He was causing problems - for Richard.
+- Oh.
+Well, it's it's good to know that he's in good hands.
+Don't you have somewhere to be?
+-  - Uh sorry.
+Um It's from Gwart.
+"I'm dissolving my company and taking a job elsewhere.
+Your employment is terminated.
+P.S. Those aren't my doll's gloves".
+Oh.
+So, then I I'm free to return to work with Richard.
+Your position's been filled.
+Oh, um No, it hasn't.
+Step out on my corner with my box of rocks Drama covers my hood from blocks and blocks See my homie that I hang with Hit him up with the deuce thumb thang shit Back then it came with the love And niggas wasn't tripping over scratch 'Cause we took turns and we both stacked stacks And if you had a customer you had him for life 'Cause Brad the true hustler granted you right 'Cause if we gonna stack leaves, then we gotta get along And he who disagrees then gotta get him gone 'Cause if you start to get paid then niggas wanna flex And ain't no squabble these days So niggas brought the tech, and when they find you They sending you to immortal ground And ain't no coming back from that shit you going down My pockets ain't hurting, that's for certain You see a broke motherfucker, it's a burden I'm the first motherfucker on the block for the cheese And I'm the last motherfucker to leave My pockets ain't hurting that's for certain You see a broke motherfucker, it's a burden  I'm sorry, what is this?
+RUSS  Russfest.
+Three days of partying on a plot of land so far out even Nevada barely wants it.
+What's the newest killer app coming out of Silicon Valley?
+Are you Tethical?
+RICHARD  No one in town is ever gonna sign this hypocrite's hypocritical garbage.
+Hey, Richard, are you signing Gavin's pledge?
+Aw what?
+I'd like to talk to you about your Piper Pulse.
+Your coworkers find you unapproachable, with an unsettling stare.
+Okay.
+{END OF EPISODE 4}{START OF EPISODE 5}
+1 Why isn't this book about tech?
+I didn't write about tech because tech destroys worlds.
+- And I, I wanted to create -  May I have a token for the restroom, please?
+So, you guys are planning to build your own external antennas to deploy for the Hawaii test?
+Why not just give away Hooli phones for the test?
+I don't wanna use Hooli shit any more than you guys, but this will get us to Hawaii.
+MSNBC wanted to interview you about being an "anti-tech evangelist".
+What did Publishers Weekly say about my book?
+Publishers Weekly is a terrible magazine, sir.
+Call Maddow.
+It's from Gwart.
+"I'm dissolving my company and taking a job elsewhere".
+I'm free to return to work with Richard.
+Your position's been filled.
+No, it hasn't.
+- -  - -  - -       Fuck yeah, right?
+You see the chick in the racism car?
+I banged her in the famine truck.
+I-I'm sorry.
+What is this?
+It's the trailer for my festival, RussFest.
+Three days of partying, sucking, and fucking on a plot of land so far out even Nevada barely wants it.
+I'll be serving Tres Commas exclusively.
+It's gonna be like Burning Man, except I'll make a fuckton of money.
+So, Earning Man?
+I literally love you, you spooky fuck.
+So, we in?
+- In what?
+- RussFest.
+There's no internet in the middle of the desert, Richard.
+Maybe that's why no one lives out there.
+I don't know, I'm not an archaeologist.
+All I know is they're telling me it's gonna cost a fucking fortune to get the infrastructure out there.
+Unless you guys do it for free.
+- Why would we do it for free?
+- Because it's cool.
+- It's good for your brand.
+-  Well, Russ, we appreciate the interest I like where this is going.
+- But - Fuck!
+Uh, right now, we are trying to launch a huge pilot program in Hawaii.
+Dinesh is actually heading out there first thing tomorrow morning, and I am about to sit down with the network operations president of AT&T, trying to close this massive deal, but that all depends on getting Hawaii right.
+There's just no way we could do both.
+And you would rather do Hawaii than RussFest?
+I would rather do my own mother than RussFest.
+How come whenever you guys wanna do some shit, I'm always like, "fuck yeah"!
+But whenever I wanna do some cool shit, you guys piss all over it!
+You know what?
+Gimme this.
+Have fun shoving pineapples up each other's dick holes!
+And pussy holes.
+You creepy fuck.
+What have I been telling you, Lawrence?
+Impressive.
+Very impressive.
+Looking forward - to talking a lot more.
+- Yeah.
+Yeah, definitely.
+- Richard!
+-  Whoo!
+- Sorry.
+Um, how did it go?
+- Cool.
+Well, I wanna keep it on the down-low, but, uh -  - Fuck.
+Is that joy?
+It could not have gone better.
+When they found out how much money they could save by using us to help simplify their 5G rollout, they practically shit themselves.
+This could be bigger than we thought.
+Monica, we could be on 100 million phones.
+- Holy shit.
+- Yeah.
+Okay.
+Let's not get ahead of ourselves.
+- Yeah.
+- You know, focus on Hawaii, - make sure we land the plane.
+- Yeah.
+It's weird.
+I actually don't know what to do when things are going well.
+It is not natural.
+- Yeah.
+- Okay.
+Ha, ha, ha!
+What's the newest killer app coming out of Silicon Valley?
+Would you believe ethics?
+It's all thanks to our first guest, a former big-tech CEO turned responsible tech evangelist You know what?
+Not even this turd is gonna bring me down right now.
+caution and accountability.
+Thanks for being here.
+Well, I always find time for you, Gabby.
+Please.
+No one is buying your bullshit, Gavin.
+My message invigorates me.
+For too long, these large tech companies have harvested our data, they have violated our privacy, they have tracked our every move.
+They is you, you hypocrite.
+You did that.
+He did that!
+Starting today, I will be asking prominent members of the tech community to sign their name onto this.
+A code of conduct, authored by me, that pledges them to a universal ethos, which I created, that I call, "tech ethics," or, "tethics" for short.
+- Oof.
+-  Tethics.
+Clever.
+-  - No.
+No, it isn't.
+Fuck that guy.
+Honestly, fuck that guy.
+Richard, I have your tea.
+No one in town is ever gonna sign this hypocrite's - hypocritical garbage.
+-  Well, I'm sold.
+Can I sign?
+Well, you have to lead a corporation.
+Okay.
+And how about you at home?
+Are you tethical?
+Tweet us @GoodDayTheBay and let us know where you stand.
+Sure, yes, I will.
+Get ready for some opinions.
+Holden?
+Why is the television on the news?
+Jared, I don't need you telling me my job, okay?
+Holden, um, I know things have been a bit antagonistic between us.
+We've been like, uh, Tonya Harding and Nancy Kerrigan.
+But, I've been thinking about it, and you work for Richard, and I want what's best for him 'cause I want him to be happy, so from now on you're my friend.
+You're my best friend.
+Even if you make the occasional oopsie.
+Are you fucking with me?
+Why would I do that to my best friend?
+- Love you like a brother.
+- Uh Absolutely not.
+We haven't told you what we want yet.
+- Irrelevant.
+- Sit down.
+- Thank you.
+-  I'd like to talk to you about your Piper-Pulse numbers.
+I'd like that, Tracy, because I have no idea what the fuck that is.
+Of course you do.
+It's the system that Tracy created for employees to give feedback on senior management.
+The point is, I happen to know a lot of folks over at AT&T, and I think it might help us if I back-channel some of the information I've gathered.
+But before I do, I'd like to tell you how you're doing.
+I know how I'm doing.
+I'm fucking killing it.
+I'm building great shit out there.
+Yes.
+Your acumen scores are excellent.
+On a scale of one to 10, you're at a 9.9.
+So, all 10's and - Dinesh.
+- But, it's your interpersonal rating I'd like to drill down on.
+It's at 1.5.
+Your coworkers find you unapproachable, rude, and capable of great hurt with an unsettling stare.
+Okay.
+We want AT&T to see a thriving company.
+If you really make a concerted effort at outreach and team building, - you could get your numbers up.
+-  Tracy.
+I appreciate you wanting to participate in the world of numbers.
+I find it endearing.
+But yours are horseshit.
+They measure nothing.
+If I wanted to, I could have all 10's by the end of the week.
+Gilfoyle, metrics like Piper-Pulse are a widely accepted measure of how your peers feel about you.
+Speaking of, Monica, your interpersonal is at a 2.
+- What?
+- Huh.
+No, that's just because Priyanka and her little witch's nest over at Foxhole are bringing my numbers down.
+No.
+Most of your lower scores are coming from engineers, who are 84% male.
+Maybe you should try some of that outreach.
+Whatever I do, I'm sure I could do it better than you.
+Two days.
+All 10's.
+Deal.
+-  - Aloha.
+Aloha to you.
+Aloha.
+Alo - Oh, hey, Dinesh.
+- What the fuck.
+I like your beard.
+Um, why are you here?
+Where's AJ?
+Oh, AJ can't come.
+You wanted him to become a certified scuba before the trip, right?
+Yeah, so we could fucking scuba, Gabe.
+Well, he finished all his check dives last night, but you have to wait 24 hours before you fly, so we decided to trade places.
+- For the day?
+- Uh, no.
+F-for-for all of it.
+- Why?
+- Because it - it-it'd be easier?
+- No.
+And what are you doing in first class?
+So, the pilot is from Pakistan.
+I said, "Hey, I know a guy from Pakistan.
+I work with him".
+And then he said, "Hey, why don't you come to the front and sit in the big chairs".
+B-but that's me.
+I'm the guy from Pakistan.
+I told him that, and then he and then he put me here.
+Okay, but I, the guy from Pakistan - Right.
+- am back in economy.
+Sir?
+You're gonna need to take your seat.
+And Captain Bashir wanted you to have these samosas his mother made.
+Oh.
+No, thank you.
+You gotta be fucking kidding me.
+Hey, Danny?
+Excuse me?
+- What are you wearing?
+- A shirt.
+- Oh, my God.
+- I think a lot of what Gavin is saying makes sense.
+Yeah, of course it does.
+I've been saying it for years.
+- So, you agree with him?
+- Well, no.
+He is full of shit.
+But, you aren't, even though you're saying the same things?
+Yeah, because I mean it!
+And I said it first!
+That feels petty and personal, which is against Gavin's code of tethics.
+- What does that even mean?
+- Hey, Richard, - are you signing Gavin's pledge?
+- Ah, what?
+Because I'm getting a lot of heat from my friends over at Facebook for working at an untethical company.
+Okay, cool.
+So, Facebook is calling us untethical.
+Yeah, because they signed the pledge.
+So did Google and Amazon and Twitter.
+- Don't care.
+-  Speaking of, even if you don't sign, could you at least stop tweeting about it?
+"Anyone who signs this Tethics thing is a thumbass"?
+- That doesn't even make sense.
+-  Yes, it does.
+It's dumbass but with thumb.
+Thumbass.
+It's basically perfect.
+Tethics is tech ethics.
+What's the thumb part?
+And why are you tweeting that from your personal account?
+The Verge referred to you as "notable tethics holdout and amateur insult comedian Richard Hendricks".
+-  - Andy Borowitz wrote a pointed piece about you - called "Doubting Richard".
+- Ah, see?
+That doesn't really make any sense.
+I mean, what's the pun?
+What am I supposed to be enjoying there?
+Now, you're harshing on Borowitz?
+Well, yeah, if he's coming up with those zingers.
+If you like Andy Borowitz so much, why don't you marry him?
+Says the guy who's three months behind in child support.
+A dog is not a child!
+- Uh - Michael Eisenberg from AT&T is on the phone.
+- He says it's urgent.
+- Ah, great.
+Hey, Michael, what's up?
+Did you just publicly insult my boss?
+What?
+No.
+"Anyone who signs this Tethics thing is a thumbass".
+Well, my boss just signed Gavin Belson's pledge.
+- He did?
+Why?
+-  Because loudmouths like you got up in front of Congress and whined about how somebody needed to do something about big tech.
+Okay, I did that one time  And now, Gavin has managed to paint himself as that guy.
+And we all have to fall in line, or we'll be in PR hell.
+Or worse!
+We'll face government regulation.
+Look, have you read his pledge?
+No, of course not.
+It's trash.
+The first line says, "We, the undersigned, promise to make best efforts to," blah, blah, blah.
+Best efforts, Richard.
+It's totally toothless.
+Yes.
+Exactly, Michael.
+That's entirely my point.
+It's all empty bullshit.
+It means nothing.
+Then who the fuck cares, Richard?
+Do not fuck this all up over a pointless moral stand!
+- Okay.
+-  Sign the fucking pledge!
+Oh, and stop tweeting about thumbs up people's asses.
+- Oh.
+No, th-that's wordplay.
+-  Michael?
+That is one lucky mug, Holden, my friend.
+- Please stop.
+- Stop what?
+You're just trying to creep me out - so that I'll quit.
+-  What?
+I mean, why wouldn't somebody be nice to you?
+Are you a piece of shit?
+-  Oh, hey, Dinesh.
+-  Okay, listen, Gabe.
+I spent the entire flight streamlining our setup procedure, so I am gonna take the rental convertible and drive tower to tower, most of which are on pristine beaches or scenic volcanoes to check coverage while you sit at the office by yourself.
+- Welcome - Oh!
+No!
+No!
+I get it.
+Put it on me.
+I-I don't want the plastic one.
+- Are you one of the first cla - Put it on me.
+Put it on me.
+Put it on me.
+Put it Aloha.
+Richard.
+To what do I owe the pleasure?
+Just calling to, you know.
+To what, Richard?
+- Sign your thing.
+-  My thing?
+To sign my thing?
+I sense a certain lack of commitment, Richard.
+I mean, if I suspected the only reason you wanted to lend your name to my cause was because of the enormous pressure you're probably facing as a notable holdout, well, how could I allow you to add your name to my tethics pledge?
+That would be untethical.
+Gavin, come on.
+Just can we get this over with?
+Then again, the idea of you publicly committing to the cause, that gives me joy.
+So yes, Richard, I'd be happy to be your moral mentor.
+I guess I'll see you at the ceremony.
+- What ceremony?
+-  The groundbreaking - for the Institute.
+-  What fucking institute?
+The Belson Institute of Tethics.
+It's all on our website.
+You and the others will all be there to publicly commit to the pledge.
+Also, I'm gonna be asking you to say a few words.
+Just a bit about how much of a fan you are, dedicated to the cause, my cause, maybe lead with a joke.
+Be good to have you there, Richard.
+Securing my legacy with you at my wing.
+Wear pants you can kneel in.
+Hey, Nathan!
+I was, uh, perusing your file, and I just Hey.
+- What?
+- Sorry.
+I just, um, I was quickly perusing your file That's not what peruse means.
+Peruse means to read thoroughly and carefully.
+Wow.
+That that's super helpful.
+Thank you for that tip.
+Um, anyway, yeah, I was just curious to know, like, what's it like growing up in Rhode Island?
+Well, maybe some time when you're working on something, I can come interrupt your flow and use words incorrectly to tell you about it.
+Got it.
+Oh, you own a Prius?
+Popular choice.
+Later, Daniel.
+What?
+Well, you win.
+That is the worst case of contact dermatitis I have ever seen.
+- The itching is so insane!
+- Right.
+- It's like from the inside!
+- Warren!
+Come here, I want you to see something.
+This is Warren, our resident.
+This is his first week.
+Warren, I want you to notice the violent allergic reaction to the plumeria flowers used in the patient's lei, which is weird.
+Normally, they just hand out plastic ones.
+Just make it stop!
+Well, the good news is a strong anti-histamine shot oughta take care of it in no time.
+Oh!
+Great!
+Yeah!
+The shot!
+Just-just gimme the shot!
+Now, before we proceed, I should warn you the shot, it works like gangbusters, but it does tend to cause acute sensitivity to sunlight, so you're gonna wanna stay indoors - for four to six weeks.
+- What?
+!
+Warren, no!
+We wait until after I've explained all the possible complications, and only then, do we administer the injection.
+- Did you say four to six weeks?
+- Yep.
+Otherwise, you're gonna be back here for something a lot worse.
+All right, well that was a teachable moment, huh?
+- Yeah.
+Sure.
+- Yeah.
+I got next.
+And, uh, better watch out 'cause I am the queen of Asteroids.
+- Are you trying to cut in line?
+- You don't need a quarter.
+It's on free play, duh.
+We get it.
+You make more money than us.
+Okay, you know what?
+-  Gilfoyle, you're awesome.
+- Carl.
+You're doin' it.
+What the fuck?
+My man.
+"Integrity.
+We do the right thing.
+We are committed to the highest ethical standards".
+It's all such banal, self-righteous, hacky bullshit.
+- And I have to endorse it?
+- Yeah.
+It is particularly pedestrian pablum, even for Gavin.
+"Responsibility.
+We contribute to the growth, joy, and enrichment of all the lives we touch.
+- Courage " - Wait, uh, - what was that last one?
+- Responsibility?
+Uh, "We contribute to the growth, joy, and enrichment of all the lives we touch".
+Holden!
+Can you bring the menu book in here, please?
+Hi, guy!
+- Here you go.
+- Thanks.
+Yes.
+You are a good boy.
+Are you hungry?
+I am.
+Holden.
+Holden.
+Holden.
+Holden Ah, good.
+Applebee's.
+We were ordering from here the other night, and we were all joking about this, uh Yes, look.
+Uh, so, their mission statement is right near their nachos, and we were saying that this is not-cho mission statement.
+-  - Wait, I'm sorry.
+Was that a joke?
+That.
+It's it's a pun.
+- Right.
+- It's just like thumbass, you know.
+It's in the same genre.
+-  Like what?
+- Thumbass?
+I've been saying it a lot.
+Read it, read it.
+"At Applebee's, our mission is to contribute to the growth, joy and enrichment of all the lives we touch".
+Wait That's word for word what's in Gavin's pledge.
+Yes, it is.
+- You don't think - That's exactly what I think.
+Read me another one of Gavin's frilly sentences.
+"Maintaining our uncompromising principles while we grow".
+That's Starbucks.
+Okay, again.
+"Enhance the quality of life for all ages".
+- That's the AARP.
+- Yes!
+My best friend Gloria was a charter member for 35 years - before she passed.
+-  The question is if Gavin stole his entire code of conduct for this stupid fucking foundation, what else has he been stealing?
+All right, I give up.
+Even this stupid hair didn't work.
+How are you getting these people to like you?
+I'm not getting anyone to like me.
+Bullshit.
+I've seen you out there.
+It's like you have a non-evil twin.
+It's very weird.
+Monica gaining someone's confidence is easy.
+Appear open and interested by mimicking their body language and repeating what they say back to them.
+So, you just repeat what they say?
+I just repeat what they say.
+I was social engineering them.
+Once trust is established, the social engineer simply offers up information, and the subject will reciprocate: Pets names, kids names, birthdays.
+Then, that information is entered into a word list generator.
+Pop it with their hash into John The Ripper, and within minutes, you have their passwords.
+So, you're just gonna change all your scores to 10's?
+Yep.
+Can you do mine, too?
+I don't actually want them to like me.
+I hate them.
+I really fucking hate them.
+I just don't like having 2's.
+You know, I could raise both of our scores and continue this charade.
+Or I could lower someone else's, and put an end to these shenanigans once and for all.
+I like it.
+Thank you.
+It's quite an event, eh?
+See down there?
+It's Facebook, Google, even fucking Bezos sent someone.
+All here to support the cause.
+My cause.
+You know who else showed up?
+Mm.
+Starbucks.
+Very good company.
+Filled with smart people with bold ideas.
+- I suppose.
+- Also, Anusol Plus.
+Do you have hemorrhoids, Gavin?
+Not currently.
+Made by Johnson & Johnson, also a good company.
+Do you know what they do?
+They spark solutions that create a better, healthier world.
+Just like you.
+You remember writing that?
+I'm a busy man, Richard.
+I've lived an incredible life.
+I saw a yeti one time, and forgot for a couple years.
+Well, I ran your little pledge through a plagiarism detection API.
+What are you implying, Richard?
+Well, I also looked at transcripts of your interviews and speeches.
+Your commencement speech at Liberty University.
+Stolen, from an obscure Afghan philosopher.
+And also, do you see that guy right there?
+That is Rod Morgenstern, the author of "The Nautilus of Dreams," the eBook you blatantly plagiarized and turned into "Cold Ice Cream and Hot Kisses".
+Do you know how much harder my life has been - because I cared about ethics?
+- Tethics.
+I could've lost my company a dozen different times because I couldn't compromise on my ethics, - and now you're turning ethics - Tethics.
+- Tethics.
+- into some kind of fucking vanity project.
+- Tethics, Richard.
+Tethics.
+- Stop it.
+Something I came up with on my own.
+Well, it sounds fuckin' dumb.
+What do you want?
+Ever since I turned down your $10 million, all I ever wanted was for you to just go away.
+But, you and Hooli have tried to fuck me over a thousand different ways.
+You're a billionaire.
+You can do anything you want.
+You can run for president or buy a fuckin' basketball team, but you can't do this.
+And I'm gonna make sure of it.
+So, if you'll excuse me, I have to look over my speech.
+Hey!
+So, you guys raised some issues with Piper-Pulse, so I really started looking into it, and it turns out, there are some real problems with its reliability as a metric.
+So, I'm shutting it down.
+- Aw.
+- Hm.
+But the scores are derived from our coworkers, the most reliable indicator of job performance.
+Yeah, maybe we could help.
+You know, I'm sure if we took a look - under the hood - No!
+Bad system.
+Didn't work.
+Thank you.
+Oh, I guess I'm up.
+-  - Thank you.
+Thank you, Elder Red Spirit, for those profound sentiments.
+I'm sorry.
+I, uh I can't do this.
+As humbling as it is to have all of you sitting here, paying tribute to me, I have to be honest.
+I have been anything but ethical.
+In truth, I am a plagiarist, and a liar, and a thief.
+Ironically, the very code of virtue I've asked you all to abide by was, in itself, stolen.
+And perhaps, some day, someone may erect a foundation the likes of this.
+But it will not be, and should not, be me.
+And in the interest of being truly honest, this is not new behavior.
+I have, for years and years, practiced a parasitic and cynical brand of predatory capitalism that leaves nothing to be admired.
+Ethics?
+Not a priority.
+In fact, my behavior may have bordered on criminal.
+And to those I have wronged by this, I apologize.
+But apologies are cheap, aren't they?
+There must be a reckoning.
+Which is why today, here in this public forum, I call for the attorney general of the state of California to launch an immediate investigation of my conduct as CEO of Hooli -  - leaving no stone unturned.
+The truth must finally be revealed.
+I apologize for putting you all through this, especially those of you who actually lead lives of real virtue.
+-  -  Hey, Gavin.
+I know that wasn't easy.
+Sure about that?
+Should've taken the $10 million, Richard.
+Enjoy the injunction, thumbass.
+What?
+Okay, Donny.
+Yeah, you, too, and I appreciate it, by the way.
+All right, I'll catch you on the flip side.
+Okay, so, this is real.
+The AG just told me they're launching an investigation into Gavin's price fixing and anti-competitive behavior while he was at Hooli, and Gavin called it.
+So, obviously, the first move is to file an injunction against any further merging between Hooli and Pied Piper.
+Okay.
+W-what does injunction mean?
+- What does that mean?
+- It means until this investigation concludes, you are prohibited from mixing any more Hooli chocolate with the Pied Piper peanut butter.
+Well, we're in the middle of merging our codebases.
+- Yeah, unmerge them.
+- Well, that's impossible.
+I mean, Christ, we're using HooliPhones in our Hawaii test.
+So, by calling for an investigation into his own behaviors, he can kill us?
+Fuckin' Gavin Belson.
+Fuckin' Gavin Belson.
+-  -  Is this fun?
+I'm sorry.
+Are-are you admiring him?
+You gotta separate the artist from the art, Rico.
+I mean, this is elegant, you know?
+This is, this is graceful.
+This is kinda like, uh What's the, uh, what's the name of that - ballerina dude?
+- Baryshnikov.
+- No.
+- Nureyev?
+- No - Does it fucking matter, Ron?
+Who cares?
+We're paralyzed!
+We're gonna be broke!
+Shit, yeah.
+And, now Gavin's gonna be able to buy Pied Piper for pennies on the dollar.
+He is under investigation, right?
+So, something bad can happen to him.
+Worst case, they find he acted in bad faith, and then Hooli's gotta pay a big fine or something.
+But you own Hooli, so you'd have to pay that fine.
+Fucking ninja!
+We're dead.
+Gregory Hines!
+Dancer guy.
+He's an American treasure.
+Richard Hendricks!
+What's up?
+Right?
+Right?
+Read it.
+Get it?
+- Now say it.
+- Look, Russ, I don't really have time for you right now.
+Or your festival, if that's why you're here.
+The Attorney General of California just signed our fuckin' death warrant.
+Yeah, I heard Belson gaped your asshole today - and not in that fun way.
+- Cool.
+Great.
+Well, I've gotta go inside and tell everyone, so No, you don't, you lucky fuck.
+Lucky fucky.
+Richard, Don Delarenta, the AG of California, is gonna do whatever the fuck I tell him to do.
+- Why?
+- 'Cause I have dirt on him.
+Two years ago, he had an open-and-shut case against a guy who committed terrible crimes, but he didn't prosecute him 'cause that guy bribed him and I can prove it.
+You think the fuckin' AG is gonna wanna let the public see that he didn't prosecute a guy who did this?
+- Oh, my God!
+Holy fuck!
+- Or this?
+Or this?
+Jesus, look at that.
+Fuck me!
+Hold on, wait Is that you?
+Yeah.
+So is this.
+This.
+Here's portrait mode.
+There's a panoramic in here - somewhere.
+- I get it, Russ.
+Are you the one that committed the terrible crimes?
+Yeah.
+And that dirtbag let me off because I contributed half a mil to his campaign.
+Now I had told him I'd delete the photos, but what that moron didn't count on is that I'd forget.
+So, Richard.
+Question.
+Should I make the call?
+You ready to dump Hawaii, and join RussFest?
+Ah?
+Ah?
+Ah?
+You're not really giving me much of a choice.
+Ah!
+Don Delarenta, please.
+Tell him it's Russ Hanneman.
+He'll know.
+-  -  Uh, hey, Dinesh?
+- Oh, hey, Dinesh.
+-   Hey, Richard, what's up?
+You want me to come home?
+Like, leave Hawaii?
+No!
+Wait, for what?
+So, bitches, what do you think?
+It's beautiful.
+Tres Commas!
+Boom!
+Hey, Gilfoyle.
+So, I've been thinking about your AI and its many deficits Your issue may be insecurity, masked by false bravado and unisex cologne.
+It's not unisex.
+Richard!
+Russ Fest!
+You told AT&T that the hologram would be interactive, right?
+Yes.
+See, asshole?
+!
+My hologram can 100 percent dry hump festival goers from behind.
+If they ask for it.
+Hashtag-woke.
+Well, the purchasing seems stable.
+Everything is amazing.
+-  - What's it doing?
+BERTRAM  Everything was fine, and then the network started deteriorating.
+Also, his trailer was filled with ants.
+What did we do?
+Am I going to jail?
+Hey.
+I can train you.
+{END OF EPISODE 5}{START OF EPISODE 6}
+1 I am about to sit down with AT&T, trying to close this massive deal, but that all depends on getting Hawaii right.
+And you would rather do Hawaii than RussFest?
+I would rather do my own mother than RussFest.
+I've made myself the CEO of YaoNet, which I'm moving back to the US.
+Son of Anton, it's the name I've given our new inference API.
+He can do whatever he wants.
+I call for the attorney general of the state of California to launch an immediate investigation of my conduct as CEO of Hooli.
+Enjoy the injunction, thumb ass.
+Don Delarenta, the AG of California, is gonna do - what I tell him to do.
+- Why?
+'Cause I have dirt on him.
+You ready to dump Hawaii and join RussFest?
+DINESH  It's beautiful.
+Boom!
+And upon entering RussFest, each attendee will be given a PiperNet enabled smartphone, which will give them access to secure messaging, social, voice, Internet So boring, right?
+You see the new logo?
+Huh?
+Huh?
+Check.
+One, two, three.
+Tres Comas Tequila.
+My brand.
+Dollar sign.
+Billionaire.
+Russ.
+Fest!
+RussFest.
+Right.
+No, yeah, it's-it's gonna be good.
+- Uh - Yeah, it's gonna be great.
+Yeah.
+Well, uh, anyway, uh Crazy Town's gonna be there.
+So is Puddle of Mudd.
+You know Puddle of Mudd?
+No.
+Fucking Puddle of Mudd!
+Dude, listen.
+: Everything is so blurry And everyone's so fake And everyone is empty And everything is so messed up Right?
+Yeah, you know Puddle of Mudd.
+Awesome.
+This is a good meeting, guys, excellent.
+I gotta jet.
+Bye, guys.
+Cory, where you at, dawg?
+We're really excited about the possibility of working with you.
+Cool.
+Yeah.
+So, uh, what do you, uh What do you think, Michael?
+Uh, you and us.
+AT&T, Pied Piper.
+Dealy deal.
+Richard, your tech is impressive, but we're going with YaoNet, they're a safe bet.
+And by the way, it doesn't seem like you're telling your people out there what's really happening.
+- Hang on - No.
+Maybe you can do a deal with someone else.
+You know, there's, uh - No, no, we can't, Michael.
+- Look, we already have an agreement in principle.
+Okay, well, if you have an agreement in principle, you can have a disagreement in principle.
+I'm sorry.
+I'm very sorry.
+Michael, I'm sorry that you're missing out on this opportunity.
+Honestly, I walk everyone to their car.
+Yeah.
+What can we do to sweeten the pot?
+You know?
+Oh, we could add cashless transactions.
+What if everything is handled on the phone?
+Right?
+You use it to swipe into parties - or VIP areas - Richard, this is done.
+- Okay?
+- What about holograms?
+Okay, this is your last chance.
+Are you in or out?
+-  Fuck!
+- That appears to imply out.
+Fuck.
+Fuck it.
+Fucker.
+- Cockfucker.
+- Richard, people in there have been working themselves half to death for weeks for no pay.
+This is not going to go over well.
+I'm gonna wait out here while you go in and tell them.
+I'm not gonna say anything.
+If I keep my mouth shut, then there's still a chance at snaking the YaoNet deal.
+But if I tell everyone in there what's really going on, we won't make it to RussFest, and we'll be dead.
+- Is that what you want?
+- That's a fair point.
+That's what I thought.
+Okay.
+Let's get back to work.
+Let's go.
+If this comes out, I'll cover your ass if you cover mine.
+If what comes out?
+- My man.
+- No.
+Oh!
+Dodgy gadin, my merry knights of Piper.
+Sir Owen, doing valiant battle with the authentication service.
+Yes, good.
+Yeah.
+Oh, and prithee, Becky, my queen, how goeth cashless payments?
+Russ's pricing keeps tripping us up.
+- Okay, how so?
+- Well, this morning, he decided everyone at RussFest should be a billionaire, so every dollar someone puts into their account will now be worth one billion RussBucks.
+Zwoons!
+So, what, like a sandwich will be worth 15 billion RussBucks or something?
+Fourteen billion, nine hundred and ninety-nine million, nine hundred and ninety-nine thousand, nine hundred and ninety-nine RussBucks and ninety-nine RussCents, because he thought that would sound cheaper.
+It's kind of screwing up the interface, but the whole AT&T deal is riding on this, right?
+We'll get there.
+Good.
+Okay.
+Excellent.
+Well, uh, code like the wind, my lady.
+Yeah.
+Ho, ho!
+Good Friar Gabriel.
+How dost thou fair with the ticketing module?
+It's gone.
+What do you mean gone?
+For some reason, Gilfoyle deleted the whole thing - a few minutes ago.
+- What?
+Yeah.
+- Gilfoyle?
+- Yes, Richard.
+I'm aware.
+The drone dispatching code has been deleted, and I'm working very hard to restore the right version.
+Whoa, whoa.
+Drone code?
+Gabe just told me that the ticketing module got deleted.
+Ticketing, too?
+Fuck, that's problematic.
+I'll get on that next.
+What the fuck is going on?
+Based on the amount of work left to do and the number of hours left before the festival, I decided to task Son of Anton to use machine learning to debug some of our code.
+What?
+Gilfoyle, are you fucking kidding me?
+You gave your AI permission to overwrite code in the internal file system?
+- Were you gonna tell me about this?
+- No.
+I thought that was the company policy - these days.
+- Okay, well, your AI just failed, epically.
+That's unclear.
+It's possible that Son of Anton decided that the most efficient way to get rid of all the bugs was to get rid of all the software, which is technically and statistically correct.
+But artificial neural nets are sort of a black box, - so we'll never know for sure.
+-  Hey, Richard.
+Did you order meat?
+Like a bunch of meat?
+Like 4,000 pounds of meat?
+Interesting.
+I put Son of Anton on finding us cheap hamburgers for lunch.
+It looks like the reward function was a little under-specified.
+Okay, from now on, Son of Anton is banned.
+Just write code like a normal human fucking being, please.
+Hey, Gilfoyle.
+So, I've been thinking about your AI, and its many deficits.
+I think Son of Anton's issue might be how it's handling reward uncertainty.
+Your issue may be insecurity, masked by false bravado and unisex cologne.
+Fuck off.
+It's not unisex.
+Hey, um, Richard?
+I was curious if you had a moment to clear the air.
+Is this about Holden?
+No.
+Holden's a bitch and he quit.
+No, I-I wanted to talk to you about the Gwart-shaped tension between us.
+You know, she and I worked very closely together, and now she's working for YaoNet.
+She's, essentially, the enemy, so it would be fair for you to have concerns.
+I have no concerns.
+Okay, good.
+Because I don't think about her, you know, or if she's hungry or cold right now, or if she's still giving most of her income to Rand Paul.
+Richard!
+Check it!
+Okay.
+Hologram question.
+You told AT&T that the hologram would be interactive, right?
+- Yes.
+- See, asshole?
+My hologram can 100% dry hump festival-goers from behind.
+If they ask for it.
+Hashtag woke.
+All right.
+Let's go!
+Spidey jump.
+Ticketing's running smoothly.
+Mobile purchasing seems stable.
+That's good.
+- Russ.
+Hey.
+- I fucked up, Richard.
+Why did I make one dollar worth a billion RussBucks?
+I mean, everyone wants to be a billionaire, but they didn't earn it, so are they gonna feel bad about themselves?
+Why would I do that?
+I guess because I'm an asshole and I wanna have a bad festival!
+No, no, Russ.
+Don't worry about it.
+Everything is amazing.
+- Yeah?
+- Yeah, I tell you what.
+Why don't we see the hologram?
+- The hologram's ready?
+- It's up.
+- Yeah, let's go see the hologram.
+- Okay, come on.
+- This way.
+- Fuck yeah!
+Fucking hologram!
+-  See?
+There he is.
+-  Okay.
+Yeah, that's pretty sweet.
+Fist bump!
+Dry hump!
+- Double guns!
+-  Wait, what's it doing?
+Richard, what the fuck?
+Well, uh, uh Once more people show up, the network effect will take over, and it will stabilize, I promise.
+Do you swear?
+Because one time, I threw a party and David Copperfield said it was beat.
+Promise me that this will not be beat.
+It won't be beat.
+- Okay.
+Okay.
+- Yeah.
+I know, I know.
+Why did I wear these pants?
+Part denim, part leather.
+Pick a lane, Russ.
+Fuck.
+Fuck.
+Fuck, I'm gonna change my pants!
+Jared, what are you doing?
+Come on!
+Hey, what the fuck is going on?
+Russ's hologram is glitching like crazy.
+We don't know.
+Everything's lagging: our apps, third party apps, transactions.
+Everything was fine and then the network started deteriorating.
+We should be way closer to 100% capacity by now.
+I'm running diagnostics, but I haven't found anything.
+Also, this trailer is filled with ants.
+Fucking Gabe.
+I'm sorry, ma'am, I don't know anything about a Pied Piper girls' coding camp.
+Oh, ask Priyanka.
+That sounds like her bag of bullshit.
+I did, it's not hers.
+I'm sorry.
+You said you spoke to an employee named Eric Bachman?
+Mm-hmm.
+Mm-hmm.
+: Hey.
+Give me that.
+Hi.
+Does your Eric Bachman have a Chinese accent?
+Okay.
+I tweaked the microwave backhaul antennas.
+Did that make any difference to the Is there something you wanna tell us?
+I respect you all?
+Hello.
+I am giving a press conference, and I am so happy to be in partnership with Ah-Tay-ee-Tay.
+You can surf our decentralized Internet like Hawaiian surfers can surf the big waves.
+Whoa.
+Bombshell.
+Michael must've known they were going with YaoNet.
+Did you know?
+You knew, and you added more features.
+Ticketing, banking, the fucking hologram.
+You've had us on a death march for nothing.
+What?
+Richard!
+No.
+- Aah!
+-   Gilfoyle, you're being awfully quiet.
+- Did you know?
+-  Now look, guys, these deals never really ever close.
+"AT&T and YaoNet close deal".
+That seems pretty closed to me.
+My guys.
+How dare you do this to my guys?
+Can we just please have this discussion later because right now, we need to figure out We?
+Who's we?
+- We're out.
+- Yeah.
+What?
+Whoa.
+Whoa, whoa, whoa.
+My guys.
+-  - Gabe You can go.
+I'll contact you all later for your exit interviews, and I'm sorry about the ants.
+Well, at least we all stuck together.
+Okay.
+Look, all the systems are built.
+I mean, screw those guys for leaving.
+Their loss.
+We can still do this without them, right?
+No.
+Unless the three of us stay up 24 hours a day for three days in a row.
+Fuck.
+Yeah, exactly!
+Okay.
+All we need to do is just find the bug that's stalling us and squash it, just like these fucking ants.
+No sleep for three days straight.
+Sweet.
+-  Is that Gwart?
+- Oh, no.
+It's a garbage can.
+No, that's Gwart.
+Well, she works for YaoNet, so what is she doing here?
+And why does she have access to the staff only area?
+Gwart hates Puddle of Mudd.
+She's a Linkin Park girl.
+You gotta be fucking kidding me.
+Big Head!
+What the hell is going on here?
+- What do you mean?
+- JIAN- Who let her in?
+I take one lousy shit Jian-Yang, what is going on here?
+All girls coding camp.
+I support woman.
+Mr. Eric, I'm finished.
+"This diet cream helped my husband lose weight.
+He was fat fuck.
+Now, he not.
+Fi star, the end".
+I wrote exactly like Mr. Eric told me to.
+It's very good, Sophie.
+Very good.
+You're using underage girls as slave labor for a fake Amazon review farm?
+Yes.
+And-And you're using the Pied Piper name?
+Yes.
+It's okay.
+I have money.
+Girls!
+Call your parents.
+-  God, that really is her.
+-  What the fuck?
+It's sabotage.
+Guys, nobody's eating the peyote.
+Will you eat the peyote, and then that'll break the ice and they'll eat the peyote?
+What?
+You hate the shorts?
+You hate the shorts.
+Fuck it.
+Just look at my fucking legs!
+Let's go.
+Go.
+I knew it!
+I knew it.
+Our network's not slowing down because we fucked up.
+It's because YaoNet's here and they are attacking us.
+Is SlipSox even a real company?
+Incorporated a week ago, no website.
+It's a cover.
+It's YaoNet!
+Laurie is somehow fucking with our routing to slow down the network.
+But why would they bother attacking us?
+They have the AT&T deal all locked up.
+Unless they don't.
+If she thinks their Hawaii launch might fail, that would be a reason to try to wipe us out while they have the chance.
+So, if we can stay alive till YaoNet fucks up Hawaii, we could swoop in.
+Like a basketball dunker.
+- We're still in this, boys.
+-  All right.
+So, let's boot those meddling bums off of the network.
+Enough of this crap!
+Yeah.
+Well, uh, that's impossible 'cause the whole point of a decentralized network is to prevent a single host from controlling access.
+So dictators can't ban dissidents.
+Right now, there's no way to kill them or stop them throttling the network.
+This is why things are easier in China.
+China Don't mess with Pied Piper again, you little fucker.
+-  -   Hello?
+Jian-Yang!
+Hey!
+Hey, uh, what's going on, boss man?
+It's, uh, Richard Hendricks, from Pied Piper.
+How's it going, dude?
+Very bad.
+My underage girl slaves all left.
+Oh, yeah, totally.
+Bummer.
+Well, you'll find them.
+Anyway, kind of a silly question, um You know how you stole the Pied Piper source code?
+- Yes.
+- Yeah, and then you rewrote it into what is now YaoNet?
+- Yes.
+- Right, um, did the Chinese government, by any chance, require you to add a back door?
+Yes, I have a SSH key in my house, - written down.
+- Cool!
+Wow!
+Uh  I don't suppose I could get that from you.
+Uh, it's just that Pied Piper's in kind of a jam.
+Yes.
+Pied Piper Your white witch just shut down my business.
+-  - Oh.
+Okay.
+So?
+Hey, Richard, what's up?
+Fuck.
+Jian-Yang, please.
+-  - Monica, for the last five years, you have been horrible.
+You never smile.
+You never kiss me.
+I'll never give you anything you want.
+I hate you.
+Jian-Yang, I need that key.
+This key?
+Okay, let's let's just be reasonable.
+- Gimme it!
+- Shit!
+Come on!
+Fuck!
+- No!
+Stop!
+- Oh.
+Oh, my God!
+Yikes.
+You and I, we could've run this town, but you blew it, mister.
+: A, four, six, capital G, two, nine, lowercase J, four, three Wait, wait, wait.
+Wha-what are you singing?
+Is-Is that the key?
+Key?
+No.
+That's just the letters and numbers that were on that little sheet of paper that Jian-Yang swallowed.
+Yeah, for some reason, stuff's really like sticking in my head these days.
+Wait.
+Big Head, Richard needs those letters and numbers.
+Can-can you sing it again?
+Uh, sure.
+Yeah.
+-  - : A, four, six, capital G, two, nine, lowercase J Wait, do you wanna maybe call Richard first, - and then I could sing it?
+- Holy shit!
+Yes!
+Thank you!
+RICHARD : Capital M, capital R that's it?
+: Okay!
+Yeah, we're in!
+It worked!
+Thank you.
+Uh, thanks, guys.
+Thanks, Big Head.
+All right, YaoNet, SlipSox, whoever the fuck you are, you think you can fuck with us?
+They hung up.
+- Oh.
+- Yeah.
+- Wait, what the fuck is this?
+-  This is YaoNet's server?
+Fuck.
+It's a honeypot.
+What, is that a good thing?
+No.
+It's not.
+Run the "file" command.
+It's basically a bullshit shell in case the Chinese government actually used the key.
+It's like a fake storefront.
+Okay, so they have to be running SSH on a different port.
+How do we find the real one?
+We could N-map it to check every single one, but that would take forever.
+Okay.
+Fuck.
+Well, somehow, we have to find the correct port number.
+Wait, what time is it?
+One large artichoke, extra rare, cup of mayonnaise.
+I see you still take your snack at 3:17.
+I know that SlipSox is YaoNet, and that you've infiltrated Pied Piper, and I know that you're here, working with Laurie Bream.
+No, let me finish.
+We didn't end on the best of terms, but when we were together, I feel like I really saw you, the real you.
+I saw you, Gwart!
+I know you!
+No, let me finish.
+I have to say this or I'm never gonna get it out.
+Now, I wish I was asking you to go for a walk with me or to watch Magic Mike XL for the umpteenth time, but I'm asking you to give us access to YaoNet, and not just to save my company, but to save my sanity.
+Because if I was wrong about who you are, then I don't know who I am.
+So there you have it.
+I've said all I gotta say, and it's up to you now.
+I see.
+So, Pied Piper's network capacity is degrading steadily.
+Hmm, wonderful.
+And their adaptive routing optimization techniques aren't helping them.
+Hey, guys.
+Um, I'm so sorry I don't know what you did, but it worked.
+-  What?
+- Someone just messaged us the correct port - to YaoNet's ad server.
+- Yeah!
+-  - Really?
+Yep.
+Gilfoyle revoked all their access, and is removing their app from every client on PiperNet.
+In a couple of minutes, we'll be back up to speed.
+Plus, we cloned their repository, so we'll just poke around and see exactly what they're hiding!
+It's a big win for the Piper boys.
+So, Gilfoyle, how much faster is our network now?
+Zero faster.
+It's slower, - and still degrading.
+- What are you talking about?
+About how our network is slower and still degrading.
+We're currently at 60%.
+But that's not possible.
+Our network's shit latency - is slowing down every single purchase.
+-  Look at the bathrooms.
+The scanner's aren't working.
+Fucking Russ and his pay toilets.
+Okay, we gotta figure this out or there's gonna be a riot.
+There you assholes are!
+You guys fucking with me?
+Did you get my messages?
+Uh Messaging's stalling, too.
+I sent you guys photos of three different outfits.
+Did you hate them all?
+Wha What's wrong?
+Uh, no.
+Definitely the second one.
+- I like the second one.
+- You really think a white guy can wear that and get away with it?
+-  Definitely.
+-  No.
+You know what?
+You're right.
+Fuck political correctness.
+I'm looking at four guys that fuck!
+Okay, let's rerun the diagnostics.
+Maybe we missed something.
+Laurie!
+Laurie Bream!
+Well, well, well.
+- Fleeing the scene of the crime?
+- Crime?
+You can't win.
+Your network is garbage.
+And maybe, if you save us some time by telling us how you're slowing down our network, I won't go to the police.
+Slowing down your network?
+That would be "un-tethical".
+- Why would I -  Oh.
+Richard You do not know.
+Know what?
+As you correctly surmised, YaoNet doesn't work.
+It does not scale.
+- Ha!
+- However, we did not come here to attack you, simply to observe you, spy on you, if you wish, in order to see how you got PiperNet to work, which, it turns out, you did not.
+Uh, what?
+Your compression is inadequate in the face of bottlenecks that emerge between node-cluster edges.
+Pied Piper does not scale.
+It is as impracticable as YaoNet.
+Fuck.
+Ah, yes.
+That can't be right.
+And yet it is.
+I wish we had plagiarized more functional code, and yet it is this technology that AT&T has purchased, functional or no.
+And with Maximo's sufficient funding, we will certainly be able to weather the storm until we reach launch, at which time it seems likely that AT&T may deem our business a failure.
+However, at this point, I will have already made many multiples on my initial investment.
+Ah, I cannot speak to your backup plan.
+Hmm, yes.
+Good day, gentlemen.
+Well, she's just a hater, and, no disrespect, - but she can eat shit.
+-  Yeah, obviously.
+We have to be able to figure something out.
+You'll think of something, right?
+Richard?
+Six fucking years!
+Six years we've wasted!
+Building this worthless piece of shit!
+Are fucking kidding me?
+!
+I'm fine.
+I just gotta go to the bathroom.
+I don't think he thought of anything.
+- Yeah!
+-  Go with option one, and I'm not gonna feel shitty about it.
+Right?
+Fuck me.
+Hey, guys, Richard's been locked in there for three hours.
+Should we kick down the door?
+No, let's honor him with some space.
+I'll wait for him to fall asleep, and then I'll I'll lower myself down through the vent.
+-  -  Would it be a dick move to ask him for his keys and then we drive home?
+Well, he'd be abandoned here Holy shit.
+That's fantastic.
+- What the fuck?
+-  Hey, you guys?
+I did something.
+All right, so, I was, uh, fiddling around on Gilfoyle's laptop, and I was looking down, and then I realized that the solution was staring at me right in the face.
+Ants.
+It occurred to me that our network is kind of like a series of paths, much like the trails ants use in order to forage for food.
+But then, I thought that we don't need better paths.
+We need better ants.
+You see?
+- Fuck gradient descent.
+- What?
+I don't need to use Gilfoyle's AI in order to improve middle-out.
+I need to use middle-out to create a new AI.
+A symbolic AI.
+And now, it is teaching itself how to optimize.
+So, you fucked around with Son of Anton's brain, and then gave him access to our entire network infrastructure, - while it's still running?
+- Yes.
+Richard, that's like asking a robot to change your tire while you're driving on the freeway!
+Hold this.
+Gimme.
+See, go.
+This isn't my computer.
+- It's not?
+-  No.
+And what the fuck is Son of Anton version 2.0?
+What?
+- Huh.
+- You were fucking around with Son of Anton's brain before him?
+- Fuck.
+- I have good ideas.
+-  -  Sweet mother of God.
+This is not my fault.
+I barely touched Gilfoyle's AI.
+-  -  What's it doing?
+I have no idea.
+I told you, it's a fucking black box, Richard.
+Do you think there's gonna be a riot?
+Oh, I'm sure 20,000 coked-up douchebags will be very civil when they can't get food or water.
+Holy shit, look at the hologram.
+Oh, my God.
+Whoa.
+-  -  Shit.
+- What did we do?
+- We?
+Is it dead?
+- Am I going to jail?
+- Hey.
+- I can train you.
+-  Hey, fuckers.
+Popped a couple of Xanax and then choked it in the trailer.
+Feeling much better.
+Went with outfit number three, black jacquard.
+Why is it so dark?
+Um, well Lights!
+Sweet!
+Voice command?
+That is fucking awesome.
+You guys are smart.
+: Voice command!
+What just happened?
+Did it work?
+What What just happened?
+Holy shit.
+Wait, is that right?
+It's at 145%?
+Now 160%.
+Okay, how is this possible?
+Our network overhead must've massively shrunk.
+It's insane.
+Oh, my God.
+Okay My middle-out, Gilfoyle's AI, whatever the fuck Dinesh did to Gilfoyle's AI I basically rewrote the entire thing.
+You guys, it worked.
+It-It-It happened.
+- We-we-we did it.
+We-we-we won.
+-  It worked?
+- Ah!
+We did it!
+-  Yeah!
+- Ah!
+- You are like the three musketeers of coding, except you are all d'Artagnan.
+-  -  -  Wait, wait.
+-  What?
+What the fuck is going on?
+He's growing!
+It's beautiful.
+Eat a dick, David Copperfield!
+PILOT : We hope you've enjoyed your flight from Maui to San Francisco this evening.
+Out of the right side of the aircraft, you can see the lights of Las Vegas.
+And out of the left side, you can see I don't know what that is.
+Let's drink some champipple, baby 'Cause it's almost free Champipple, baby, till dawn You've got no pressing engagements Won't you sit down by me and drink some Champipple, baby, till the champipple's gone Penny for penny Pound for pound If you're getting up For getting down Bottle for bottle Sip by sip It tastes even better When it's on your lips Pied Piper can help scientists cure cancer.
+- And cancer is bad.
+- Cancer fucking sucks.
+"Hey, I'd like some cancer, please".
+No.
+We built the single, greatest network ever in the world.
+I would like you to give me free shares of Pied Piper.
+You had plenty of opportunity to invest.
+Yeah, you could buy a Piper coin.
+Monica, two men are talking of business.
+You can find your broom and fly away.
+Gilfoyle is willing to destroy everything we've built just to prevent me from having money.
+Your entire life has prepared you to publicly fail.
+You're just failing to see that right now.
+Don't insult me, I can fail circles around you losers.
+Is this a good thing or a bad thing?
+Someone tell me how to feel.
+Jared, bolt the doors.
+- What's in the bag?
+- Clif Bars and a gun.
+{END OF EPISODE 6}{START OF EPISODE 7}
+1 anything you want to tell us?
+I respect you all?
+"AT&T and YaoNet close deal".
+Wow.
+Bombshell.
+-  - Our network's slowing down because YaoNet's here, and they're attacking us.
+LAURIE  We did not come here to attack you, simply in order to see how you got PiperNet to work, which it turns out you did not.
+Pied Piper does not scale.
+Worthless piece of -  - I don't need to use Gilfoyle's A.I. in order to improve middle-out.
+I need to use middle-out to create a new A.I. BERTRAM  Holy shit.
+Our network overhead must've massively shrunk.
+It worked.
+It It It It happened.
+We did it!
+And out of the left side, you can see I don't know what that is.
+Should I look at the  camera or you?
+You can just talk to me.
+Can you introduce yourself?
+Sure, yeah.
+Um : Uh, my name is Richard Hendricks, - and I'm the -  Could you ?
+- My name is Richard Hendricks.
+I'm, uh, - - the founder and CEO of Pied Piper.
+- I think like most people, I first heard about - Pied Piper at TechCrunch Disrupt.
+- -  - Middle-out was a game changer.
+-  -  The winner of this year is Pied Piper.
+What you have to understand is conventional compression - was like rubbing two sticks together.
+- And along comes Pied Piper, out of nowhere, with a frickin' blowtorch.
+Well, we had really just started um, a few months earlier, and like a bunch of other Silicon Valley companies, we were just working out of a garage.
+Or a house, really.
+-  Nice place?
+- No.
+It was like a shit hole, but there was so much shit in it, - it was filled all the way up.
+- - So, it was, like, level with the ground.
+- If that's true, there was a little meniscus - in the shit, and that's where - our dreams lived.
+Not the kind of house you wanna take your shoes off in.
+- Yeah, just fuckin' smelled really bad.
+- - It was all right.
+-  Oh, I was the sloppy girl in the discotheque, just twirling and twirling like the night would never end.
+Jian-Yang won the house from me in a game of chance.
+He told me to pick a number between one and 10.
+I picked seven, um, but it was three.
+Eh, you live, you learn.
+We had knocked around for a few years, trying different iterations of what we wanted to do.
+It was at RussFest when things really got crazy for us.
+-  -  It was so much money.
+So much.
+Yeah.
+Times were good.
+-  -  Millionaire Uh, DJ Mad Evil, could we cut the music for a second?
+-  - Millionaire I have a surprise for everybody, and, um, : suffice it to say, I think that everyone here is gonna want a slice of this moist and scrumptious cake.
+We're gonna take a bite in three,  two Richard's in the cake!
+-  one.
+- Fuckin' Gabe.
+- Surprise!
+-   Wait a second!
+What's going on with the cake?
+- Push from your thighs.
+-  - Oh God, are you okay?
+-  Fine.
+- Handle broke.
+- Oh.
+- Doesn't matter.
+Oh, sorry.
+- I was right.
+Oh, don't worry about it.
+- Don't worry about it.
+It's fine.
+- Pictures  Okay, everybody.
+I'm here to tell you that it has all been worth it.
+- Woo!
+- Uh, because today, it finally happened.
+We just shipped the final build of the PiperNet firmware for AT&T's nationwide launch next week!
+What the fuck?
+Is that beer?
+No, you're not drinking that piss.
+We drink my piss!
+- Tres Comas!
+- Oh.
+I just bought all the Pied Piper shares that some dentist in Phoenix had.
+Oh, no way.
+My dad's a dentist in Phoenix.
+Well, hopefully he's not an asshole like this guy.
+- BIG  Yeah, that would suck.
+- We could be talking Cuatro Comas!
+Drink up, you fucks!
+- No, no, no, just stop.
+Just stop.
+-  How does he make it look so difficult?
+Millionaire Trillionaire Another?
+Oh boy!
+Hey!
+There you are.
+I, uh, got you something.
+Oh, Monica.
+"Leaving AT&T.
+Just dotted the I's, crossed the T's, and every single detail is perfect".
+- I sent this to you last week.
+- Yeah, and as soon as you did, I knew I had to frame it.
+Well, I mean, I had my assistant frame it, but you know.
+It's really awesome.
+Although Are you sure this is what I sent to you?
+- Yeah.
+Why?
+- Okay.
+No, here.
+Huh.
+That's weird.
+Oh, it's because It's actually kinda funny.
+- Um, I'm not sure if you - JIAN- Richard, congratulations.
+It's your very close friend Jian-Yang, and I would like you to give me free shares of Pied Piper.
+Okay, Jian-Yang.
+Uh Well, you had plenty of opportunity to invest.
+- Still do.
+- Yeah, you can buy Pipercoin.
+Monica, two men are talking business.
+You can find your broom and fly away.
+Suit yourself.
+I just checked the ledger, and the coin we issued to Erlich was just sold for $20 million.
+Richard, is the mean lady right?
+Errich is now fat and rich?
+Uh, yeah, I guess.
+Where is he?
+I don't know.
+Tibet still, maybe.
+Okay.
+Tibet.
+Okay.
+-  Huh.
+-  So, at this point, steaming into the launch, you had no idea - what was about to happen.
+- No.
+No, none.
+None whatsoever.
+Everything was going great.
+What the fuck is wrong with Richard?
+Why does he wanna see us so early?
+Well, he's been here all night.
+He wouldn't explain, but he is in a bit of a state.
+- Hey, Richard?
+-  Richard, they're here.
+Oh, great.
+Yeah.
+Sit, sit.
+Sit, sit.
+-  Why?
+- Just find a seat.
+- Richard, what's wrong?
+-  I don't know.
+Maybe nothing.
+Maybe something.
+Look, here, I wanna show you something.
+Um You see?
+Okay.
+So, uh, this was a message I sent to Monica last week.
+She had it framed for me as a gift.
+Oh, I was gonna get you a gift, but, um, it was back-ordered, so it's coming next Look at the dots.
+Count the dots.
+- Dots?
+- The dots!
+Look, look.
+"Every single detail is", dot-dot-dot, "perfect".
+Okay?
+There are three dots in that ellipsis, which is the correct number of dots.
+However, in the message that I sent her, there are four dots, which is incorrect.
+Thus, not perfect.
+It was a joke.
+- Was it?
+- Yes.
+Was and is.
+Okay, well, uh, I didn't change your joke, Richard.
+That's what I got.
+Three dots.
+Wait, is it three dots that's funny or is it four?
+Four, four, four.
+That's what I sent her, four.
+But our messaging is encrypted.
+So, how did what I send, four dots, end up as three dots in her feed?
+Data corruption, bit flip, - just a fluke.
+- Yeah, sure.
+Yeah, that's what I thought.
+So, then I checked the logs, read the math.
+The total size of all sent messages should be the same as the total size of all received messages, right?
+But it's not.
+The received messages are smaller.
+How?
+How is that possible?
+Unless our network is compressing the content of encrypted files in transit.
+And the only way that is possible is by bypassing encryption.
+- Well, that's impossible.
+-  I agree.
+It makes no sense, but don't you think we should figure this out before launch?
+Richard, don't do this.
+Not now.
+We launch in four days.
+The TV spots are already running.
+We're not jeopardizing billions of dollars because you're missing a dot.
+Should I get everyone in here to start working on this?
+- Well -  We're beyond that.
+The others can't help us now.
+Jared, bolt the doors.
+What's in the bag?
+Clif bars and a gun.
+GAVIN   May I be honest?
+There was a period of my life in which I would've rooted for the failure of Richard Hendricks.
+That was a different Gavin Belson.
+That was - tech icon Gavin Belson, - not literary icon Gavin Belson.
+Since leaving Hooli, I've co-authored 37 adult romance novels.
+Fondly, Margeaux.
+The Lighthouse Dancer.
+Cold Ice Cream and Hot Kisses.
+Over here, The Prince of Puget Sound.
+Uh, and lastly, His Hazel Glance.
+All international best sellers.
+Uh, G-Gavin.
+A moment, please.
+I'm so sorry.
+A moment.
+The fuck is your problem?
+ROD  You said that this would be an hour.
+Well, we're just running a little over.
+Yeah, with the lights, and the machines, and the sound equipment, how is this ever gonna be an hour?
+You're acting hysterical, all right?
+We'll have plenty of time to write this  Yeah, you know what?
+You know what?
+Do your your little interview.
+I'll just write the book myself, okay?
+Well, if you could you would, but you can't.
+You're stuck with me, and I'm stuck with you.
+Whoa, whoa, whoa That's what Florian says to Claudette outside the cheese cave!
+-  Oh my God!
+That's our third act!
+-  Third act!
+-  Yes!
+Okay, go, put the kettle on.
+-  Yeah.
+I'm terribly sorry.
+I'm gonna have to cut this short.
+Thank you for coming.
+When Richard told me about the dots last night, initially, I dismissed it as the ranting of a self-sabotaging idiot.
+But a few hours later when I woke up in a stall in the second story men's bathroom, I realized something.
+That you're an alcoholic?
+Perhaps, but high-functioning.
+Much like our network.
+To wit  Our internal messaging, based on HooliChat, uses a weak encryption standard known as P-256.
+Whether Richard believes it or not, our network cracked it.
+Who allowed it to do that?
+We did, when we gave it one job.
+To make itself more efficient.
+It developed a general solution to discrete log in polynomial time.
+What?
+Okay, is this a good thing or a bad thing?
+Someone tell me how to feel.
+Abject terror for you.
+Build from there.
+Once launched, our AI will keep learning to break more and more sophisticated parameters.
+Ultimately, this will mean the end of privacy.
+Electrical grids, financial institutions, the nuclear launch codes for every single nuclear weapon.
+All will be exposed.
+Pure violence will become the only basis of power.
+Spare us the apocalyptic desert planet sci-fi bullshit, Frank Herbert.
+Uh, Frank Herbert was a writer who wrote a series of I know who fucking Frank Herbert is.
+Oh.
+I'm sorry.
+Was that gendered?
+- That was gendered.
+-  Okay, Gilfoyle.
+Even if everything you're saying is right, and that's where we're headed, there's gotta be a way to fix it.
+Fix what, Richard?
+The network is doing exactly what we told it to do.
+The AI is optimizing the compression and the compression is optimizing the AI.
+Everything that makes it successful is exactly what makes it dangerous.
+It's a feature, not a bug.
+No , no, no.
+Okay, no.
+What are we gonna do about it?
+What do you suggest we do about it?
+You're gonna make me say it, aren't you?
+Fine.
+We built a monster.
+We need to kill it.
+-  Fuck.
+- Are you out of your mind?
+No, no, no, no, no, Gilfoyle.
+We didn't build a monster, first of all.
+We built the single greatest fucking network, ever, in the world.
+That's the big one.
+And I'm sorry, you wanna kill it?
+Now?
+Now?
+Now?
+We are inches away from the finish line.
+You wanna fucking kill it?
+We did it, man!
+We built it!
+It works!
+It just needs a little help!
+We just gotta fix it, okay?
+We don't kill it!
+That's crazy, man!
+Kill yourself is the thing.
+Fuck you.
+I mean that's crazy.
+When people ask me about Pied Piper, I always tell them the same thing.
+-  - Are there other questions?
+Uh, yeah.
+Can you elaborate?
+Mm yes.
+Will you?
+Ah Hmm  Save it, Jared.
+I'm not in the mood for a pep talk.
+You know, if I learned anything from my time with Gwart, it's the power of just listening.
+Fucking Gilfoyle.
+Shut it down?
+Are you fucking kidding me?
+Throw everything away that we've been working toward?
+Not to mention the fact that we have a contract worth billions of dollars.
+Yeah, that's a lot of money.
+And what about all the other stuff we're gonna do?
+I mean, give internet to underserved communities, students in the homework gap, refugees, genomic research.
+Pied Piper can help scientists cure cancer.
+- And cancer is bad.
+- Cancer fuckin' sucks!
+"Hey, I'd like some cancer, please".
+No.
+And we have this beautiful baby, who is a little sick But, apparently, it's now the devil, and we have to kill it.
+I vote we take it to the doctor, but fuck.
+I had a foster mother who thought I was the devil and that she had to kill me.
+And I think it was pretty traumatizing for her.
+And th-the odds of Gilfoyle's stupid crazy doomsday scenario actually coming true are I mean, we've had a nuclear arsenal for decades, and we're fine.
+I mean, outside of a couple substantial blips.
+Two in particular.
+I'd say we're safer.
+The real killer is stress.
+Okay, sure, fine.
+Oppenheimer famously said he regretted building the atom bomb and died in despair, but what the fuck does that have to do with anything?
+Oppenheimer.
+What a self-obsessed little bitch.
+What are we supposed to do, huh?
+What are we supposed to do?
+Fucking Gilfoyle.
+We'll just call up AT& and say that our network is so good that it'll eventually become some doomsday device, and we have no moral option but to destroy it before we let you release it?
+I mean We're not doing it!
+We're not.
+- We're not.
+- Hey, Richard.
+Whatever you think is best, that's what we're gonna do.
+I mean, they just put up the billboard.
+She's a beauty, right?
+Fu !
+Sorry, guys.
+- Gilfoyle's right.
+- Seriously?
+We're seriously doing this?
+We're canceling the launch?
+Well, no.
+Uh, ha, that's not enough.
+Our network is dangerous.
+If we cancel it or shut it down, then others will try to copy or reverse engineer everything that we've built.
+It's like It's like the four-minute mile.
+Everybody thought it was impossible, until someone did it, and then everybody started doing it because they knew it could be done.
+Right.
+Roger Bannister.
+Now, imagine he'd gone into cardiac arrest and evacuated on himself and died.
+And as he lay there with his prolapsed anus peeking beneath the running shorts on his newly dead body, the crowd jeered and grimaced.
+That is what has to happen to us.
+We have to shit ourselves to death.
+Mm-hmm.
+Mm-hmm.
+He's right.
+Our launch has to fail, publicly and spectacularly.
+Are you dumbfucks listening to yourselves?
+Because I am, and you are dumb.
+And fucks.
+Gilfoyle is willing to destroy everything we've built just to prevent me from having money!
+Interesting.
+Is that Dinesh's Tesla?
+What?
+- There's no one in it.
+-  Correct.
+You have the Tesla mobile app on your phone, which communicates over the Pied Piper network.
+A few hours ago, I tasked said network with providing me your TLS encryption key, which it just gave me.
+To verify that that key was correct, I decided to autodrive your car to the car wash on El Camino.
+It appears the key was correct, - no?
+-  Be careful, Charlotte.
+What encryption does Tesla use?
+Curve 25519, the most secure discrete log parameter there is.
+Not anymore.
+Our network just blew it apart like a prolapsed anus.
+In only two hours and 47 minutes.
+- The prosecution rests.
+-  Okay, Dinesh, they're right.
+We have to fail, and it has to look like an accident, or else we could all go to prison.
+- No, I cannot do it.
+-  Of course you can.
+Your entire life has prepared you to publicly fail.
+You're just failing to see that right now.
+Don't insult me.
+I can fail circles around you losers.
+But will I?
+I'm gonna be honest with you.
+No offense to me, but I am greedy and unreliable, bordering on piece of shit.
+If there is a chance to stop you guys from stopping you guys, I will do it.
+I will sabotage your sabotage.
+So, if this company needs to fail epically, like fucking fail you need to do it without me.
+Revoke my permissions.
+Delete my PiperMail account.
+I will use Gmail like a fucking basic bitch.
+Don't let me anywhere near that launch.
+I may beg, and I will lie to you.
+I cannot bribe you because I don't have any money.
+But I am too much of a liability.
+That is the most courageous act of cowardice I've ever seen.
+All this because of a fucking dot.
+Dinesh's car is at the Wendy's drive-thru.
+Anybody hungry?
+They call it PiperNet, and it's coming to your phone.
+Tomorrow at noon, the Pied Piper app will go live on the latest 5G-equipped iOS and Android phones in 10 major cities across the country.
+AT&T says, if things go as planned, PiperNet could be on more than a half billion devices within a year.
+And no one is more excited than technology super fans, - like the ones behind me -  who are camping out all night to snag a limited edition Pied Piper-equipped smartphone.
+If their enthusiasm is anything to go by, then a lot more people may soon be lining up to pay the piper.
+I'm Jim Gittman, KCTW.
+All right, thanks, everyone!
+Appreciate y'all!
+Okay!
+I see you!
+I see you!
+Hey, does anyone want a bear claw?
+I just bought too many at the store, so I'm going around giving them away if anybody wants - a bear claw or a cruller - Whoa.
+You got one of the Pied Piper ratjacks made?
+Wait, there's a cool nickname for the jackets?
+Yeah, you even got Dinesh embroidered.
+Oh, he's my favorite, too.
+Wait.
+Oh my God.
+Holy shit!
+Dude, it's Dinesh!
+- Yeah, Dinesh.
+I'm Dinesh Chugtai.
+-  I'm the cofounder of Pied Piper, in an original ratjack.
+I can't wait for tomorrow!
+Don't worry about tomorrow!
+Today!
+- Fuck tomorrow!
+-  Uh, - can I get a selfie?
+- Yeah, yeah, yeah.
+- Okay, thank you!
+- Here we go.
+I am Pied Piper.
+- I am Pied Piper.
+- I am Pied Piper.
+I am Pied Piper - Are we set?
+- Locked and loaded.
+The script I wrote will push a new build from the supernode at the office the second you step on stage.
+No one here will see it.
+When we go live, all the nodes should start broadcasting noise across common communication bands, jamming cell signals, knocking out Bluetooth, and fucking up every GPS unit for miles.
+- Good.
+- Yeah.
+They'll force us to shut it down then it'll all be over.
+Good.
+Yeah.
+Good.
+Fuck.
+Richard?
+We're about to start.
+Yeah, let's go.
+Okay, here we go.
+I am Pied Piper.
+-  - I am Pied Piper.
+- DEEP  I am Pied Piper.
+-  Hi.
+Uh, my name is Dinesh Chugtai.
+I wanna make sure I am not on the list for the launch today.
+Chugtai.
+Um I don't see your name here.
+Okay, that's great.
+Oh, uh, could you also make sure there are no VIP lists I might be on?
+Chugtai.
+Spelled how it's pronounced.
+-  Okay.
+Uh - "Chu", and then "gtai".
+No, not here either.
+Oh, and these security guards?
+Are they your best guys?
+Like, will they stop me?
+Would they fuck me up?
+- I'm sorry, we - Thank you so much.
+That's exactly the response I was looking for.
+I feel very confident I will not be getting into the launch today.
+Thank you for not helping.
+Don't let me through.
+We are Pied Piper!
+Woo!
+- Yes, hello.
+Uh -  I am Richard Hendricks, founder and CEO, and I am thrilled to welcome you all to the official launch of Pied Piper.
+- Hey, John.
+- Yeah.
+Here's your hot water.
+Okay.
+Hey, Gabe?
+There's something weird here.
+What is it?
+The code they're about to launch it isn't the build we shipped.
+Someone just pushed a new build.
+Hey, John?
+Yeah?
+That's a mistake.
+We should change it back to the right code.
+Okay.
+Fast and powerful.
+Sounds a little bit like you, Andre Iguodala.
+- Yes!
+-  That's right, Richard Hendricks.
+And as a member of the NBA's all-defensive first team, I know a little something about cybersecurity.
+Would you say that Pied Piper is your MVP?
+"Most valuable phone"?
+- Yeah, I would.
+-   Uh, hey, Dinesh?
+Gabe, what are you doing here?
+You weren't answering your calls or texts, so I came here from the office.
+So, um, a weird version of the software, uh was put online, so, uh So?
+So, I reverted it to the version we shipped.
+Oh, I have the original weird one here There's some photos of me in Hawaii.
+So, this was the version that was about to be deployed, then you switched it, and now we're about to launch the older version?
+Yes.
+So, if I do nothing, absolutely nothing - Nothing?
+- the "correct" version of the network would launch?
+Uh, what do you mean by when you do that?
+- Just stretching my fingers.
+- Oh.
+But before I go, can you tell me, who let the dogs out?
+Who-who-who-who-who?
+Damn it!
+Okay, go.
+Thank you.
+GILFOYLE : Leave a message.
+Also, - fuck you, Dinesh.
+-  The supernode on the roof.
+Give it up for Menlo Bark!
+Weren't they fetching?
+Fucking hell, who wrote this shit?
+-  -  I Guys!
+Comma.
+We have a huge fucking problem!
+Period.
+Fucking Gabe reverted to the old build!
+Exclamation point, exclamation point!
+-  -  I got a group text from Dinesh.
+"Guys, come on.
+Fun king games pervert Oldsmobile"?
+- What?
+- Okay, so I've shown you our decentralized universal data exchange, our tamper-proof storage.
+I've shown you that you, and you alone, will control your personal data and your identity.
+All All of us here at Pied Piper have worked so hard on this.
+We have given six sleepless, brutal years to this project, and I am so proud of what we've done.
+Uh, so my mentor -  - the late Peter Gregory, uh, put us on the path to what we've created here.
+He called it, "the internet we deserve".
+We have fought every step of the way to bring you the greatest network ever made, ha.
+And in, uh five minutes, 42 seconds, that fight is over.
+-  -      -  -  Son of a bitch.
+-  -  Dinesh, you fucking terrorist, what the fuck are you doing?
+Are you jerking off?
+Or did you do one push up?
+Quit being a fucking bitch.
+JOHN F.  Let me then make clear that I am determined upon our -  -  NEIL  That's one small step for a man, one giant leap for mankind.
+Hello?
+Dinesh is where?
+-  Tell him to fuck off.
+- You tell him.
+It's me!
+I'm here.
+I'm merged and I can hear you.
+-  -  Hold on.
+-  Hey.
+-  We're all merged in.
+Richard, you are doing a great job.
+Jared, shut up.
+Richard, turn around.
+I'm behind you.
+Dinesh says that Gabe reverted us back to the prior build from the supernode at the office.
+I cannot verify this because I'm not at a supernode.
+I'm across the stage from you, as you can see.
+But Dinesh is.
+He's on the roof.
+He wants me to give him back his permissions to deploy.
+So I can push out the right build.
+The wrong The build, guys!
+The build we talked about!
+The build that saves the world, but makes me poor!
+Question is, do we believe him?
+In fairness, there are a lot of reasons not to trust him, such as he told us not to trust him.
+-  Believe me!
+- But do we trust that?
+For once, I wanna do the right thing!
+Richard, I'm gonna need an answer.
+- I don't have much time.
+- The fate of the world literally relies on this.
+Richard, it's time.
+- Come on!
+- Okay.
+-  Richard, we need an answer.
+- Ladies and gentlemen, we are at LAWRENCE/ Ten, nine, eight, seven, six - Fuck it.
+Dinesh, you're in.
+- five, - four - Oh.
+three, two, one!
+Ladies and gentlemen, Pied Piper network -  - is officially live!
+-  -  The balloons are falling.
+Is that a good sign or a bad sign?
+Uh  The app is now available!
+-  We did it!
+-  Where are you guys?
+Communications should be going haywire.
+Are they?
+I can still hear you, so phones must be working.
+Traffic is moving, so GPS must be working.
+He's right.
+GPS says I'm here, standing next to you, which seems to be accurate.
+Dinesh, you fucked us.
+No, he didn't.
+We are generating noise.
+- Oh, okay.
+Sorry, Dinesh.
+-  You're good.
+I'd expect me to fuck us, too.
+Problem.
+We haven't raised the noise far enough to drown out even Bluetooth.
+Okay, so we're generating noise, but just not enough to interfere with anything?
+Is this gonna work?
+Did we just make billions of dollars?
+!
+This wouldn't be happening if we had had time to test things.
+- Fucking kidding me?
+We failed at failing?
+-  Wait, why are they barking?
+-  -  Oh shit.
+Think we might be creating interference that's causing the speakers in the phones to resonate.
+And that's what bugging the dogs?
+No.
+Dogs shouldn't be bothered by that frequency.
+Well, then, what the fuck are they barking at?
+Please, ladies and gentlemen, please stay calm!
+Don't panic!
+Dear sweet mother of God.
+What have we done?
+-  - EMILY  In a fairy tale turned nightmare come to life, thousands of rats streamed onto the streets - of San Francisco today.
+-  Pied Piper's phones broadcasting intense ultrasonic sounds that began repelling the rats.
+The streets of Seattle became the streets of Sea-rat-tle, and everyone was sleepless.
+Giants fans going home happy today as the Cubs go down swinging to the - Holy shit!
+-  They're calling it "Rat-mageddon".
+Yeah.
+Except in New York, where they're calling it Wednesday.
+-  -  They literally became the Pied Piper.
+I mean, you can't make that up.
+Yeah, maybe you couldn't but I could.
+Oh, for fuck's sake.
+When you think about a lot of the failures in tech Pets.com, Theranos, WeWork Pied Piper really is right at the top of that list.
+Pied Piper is just a millstone around AT&T's neck!
+I say dump it!
+Dump it now!
+I lost so much fucking money with those guys.
+- I got rat-fucked.
+- That's a pun.
+I made it all back though.
+Sweet investment in the hair transplant sector.
+What?
+Rats, ah, yes, we have some of them here.
+Figuratively.
+They are dealt with.
+And so, effective immediately, I am shutting down Pied Piper, deleting its code repositories, and liquidating its remaining assets.
+All right.
+That's our statement.
+We will not be taking any further Can I just say that I am just truly, deeply sorry.
+Uh, this should never have been built.
+It is technically flawed to its very core.
+And we should all remember that forevermore.
+Sorry.
+Obviously, Mr. Hendricks doesn't mean that in any legally binding or actionable way.
+Get a life, guys.
+It's weird.
+It really seemed like Pied Piper was going to work.
+Something doesn't add up.
+So, I did the right thing, I helped save the world, my legs are still super sore, and my reward is that I'm poor.
+What are you gonna do?
+Not sure.
+Been thinking about teaching No, not you.
+Oh, uh I think I might disappear for a bit.
+Maybe travel.
+Yeah, I might travel, too.
+Where were you thinking?
+It may help if, at least for the time being, you pretend to be mad at me.
+Look, Richard, I was a world theater minor at Vassar, but that is one Javanese shadow play that I cannot perform.
+Come on, guys, let's cheer up.
+I mean, we set out to build the best thing ever built, and that's what we did, right?
+We succeeded.
+And who can say that they literally saved the world?
+- Right?
+- Not us.
+'Cause we can't tell anyone what we did.
+Right.
+Not out loud, but - You know.
+- Silence is on brand for me.
+Good luck, Dinesh.
+On the bright side I found another box of these.
+Well, uh I was, I was a little bit embarrassed, ha.
+Uh, so I just, uh, went off the grid for a bit.
+I-I-I traveled.
+I went to Tibet, actually, to try and find Erlich, but, uh, he was gone.
+And then, I came back, but no one really wanted to hire the guy behind Pied Piper.
+Uh, however, my best friend did hire me, and now I am the Gavin Belson Professor of, uh, Ethics in Technology at Stanford University.
+BIG  My name is, uh, Nelson Bighetti, and I'm the president of Stamford.
+Stanford.
+You graduates have a lot of responsibility.
+Finishing the important work of movements such as "pound Met double zero", and "title icks".
+So, I think I know, but-but why do they call you Big Head?
+Oh, yeah, just, you know, boys being boys.
+Making fun of my, my big old dome.
+It's not because your last name is Big-hetti?
+I'm the cofounder of Newell Road Strategic Technologies, one of the largest cybersecurity firms in the Bay Area.
+I am the cofounder of Newell Road Strategic Technologies, - one of the largest cyber - I literally just said that.
+- security firms - I just said that.
+- You heard me say that.
+- in the Bay Area.
+Things are better when I say them.
+Plus, they're definitely going to edit you out.
+If they're not gonna use it, why would they use it?
+That has Why don't you tell them how you bought the house next to mine - because you love me so much.
+- Okay, fuck you.
+How's it going, guys?
+Meeting time.
+-  We have a meeting.
+-  Mandatory.
+What do I do now?
+I, uh, I work for a non-profit in DC.
+It's a it's a think tank, and-and we just think about stuff, you know.
+So, the NSA.
+The NSA?
+No, no, no.
+Farthest thing from the NSA.
+God.
+The NSA.
+That's That's a really weird question to ask.
+-  -  Okay, Jell-O.
+- I love working with the elderly.
+- One, two, one, two.
+It's like I get to have a bunch of parents and also be their parent.
+No!
+No, no, no!
+Martin, Martin!
+She only has eyes for you.
+We were dancing as girlfriends, that's it.
+This fall, we actually had a herpes epidemic among the residents, which is bad medically, but from another perspective, it's kind of touching.
+Okay, we're on our way to the hostel.
+God, I haven't been there in such a long time.
+It was just an it was an incredible time in my life, you know?
+I never really thought that I would have a group of male friends.
+You know, men just seem kinda mean and hard, but these guys were as sweet and soft as rotten fruit.
+You got your book?
+Prince of Puget Sound?
+: Oh, Judy!
+Hey, man.
+Hey, man.
+You okay?
+Yeah.
+I haven't seen you in forever.
+I saw you last weekend.
+You look great.
+Is that is that a woman's scent?
+No, it's unisex.
+Big Head?
+Hey, Nelson.
+I work a lot with people who have dementia, and I just want you to know, it doesn't have to be a horror show.
+Oh, cool.
+- Well hey, we're all here.
+-  Let's go.
+Let's go see Jian-Yang, heh.
+- You okay?
+Richard!
+-  Fine.
+Uh , hi there.
+Is, uh, is Jian-Yang here?
+Does he live here?
+We're we're all old friends of his.
+No, I'm sorry.
+I bought the house years ago from his estate.
+Estate?
+I'm sorry to be the one to tell you this, but Jian-Yang's dead.
+Uh Okay, so he's dead.
+What do we do?
+It's different, but also the same.
+Hey, Gilfoyle.
+That's your horrible corner.
+It looks much better now.
+Changed a little bit.
+They fixed my hole.
+-  -  Don't do it again.
+No, I wouldn't.
+Obviously.
+I was emotionally charged.
+Oh, the drapes.
+Oh, that's a playful linen.
+- Hi.
+I used to live here -  Hey.
+back when I was poor.
+- Cool.
+- No offense.
+None taken, I guess.
+- President Bighetti?
+- Whoa!
+- How did how'd you know my name?
+- I go to Stanford.
+Oh, no way!
+I work at Stanford.
+- I'm the president.
+- Yeah, I know.
+What are you doing here?
+Um, I don't know.
+I think 'cause Jian-Yang died?
+- I'm not sure.
+- Who's that?
+Okay.
+So weird we're all back here.
+Except for Jian-Yang because he's dead.
+And Erlich.
+Has anyone talked to Erlich?
+Nope.
+No.
+But wherever he is, I hope he hasn't blown through all that money.
+He definitely has.
+Yeah, I'm sure he has.
+We're looking for Erlich Bachman.
+In the other village, they said that he was here.
+Is-is Erlich Bachman here?
+-  - He's here?
+He's that way?
+- It's up here?
+-  Erlich Bachman!
+So, this is Erlich Bachman's house?
+- Erlich Bachman!
+- Fantastic.
+We're just here to see Erlich Bachman.
+Hello?
+-  - Hello?
+Whoa, whoa, easy, easy.
+We're-we're friends.
+Are you Erlich Bachman?
+JIAN- Yes.
+I'm Errich Bachman.
+- I can show you ID.
+- That's my face.
+I was a-fat, but now, I'm a-not fat.
+I'm sorry, this is supposed to be you?
+I have an idea.
+-  -  Okay, whoa, whoa, whoa I'm making the world a better place through an intelligent, semi-autonomous agent, powered by distributed, DNA-based compute that automates personal planning and scheduling.
+Oh, bots.
+Sounds like an atrocity.
+Let's just hope you have better success than we did.
+Oh, what company did you have?
+- Oh, here we go.
+-  Uh, Pied Piper.
+Yep.
+I'm unfamiliar  Rat invasion  We we were a big failure.
+Eight billion dollar valuation, down to zero in one day.
+Was that, like, a social media company?
+-  What?
+Pied Piper.
+-  Are you fucking with us?
+Thank you guys so much for your time.
+Hey, guys.
+Guess what I accidentally brought in my bag.
+- Oh, no way.
+-  - Whoops.
+-  -  We know this thing.
+-  Wow.
+I need a beer if we're gonna do this.
+Richard, be careful.
+- Can I do it?
+-  Always blue!
+Always blue!
+Always blue!
+Always blue!
+Always blue!
+Always blue!
+Always blue  - Okay.
+-  Always blue.
+Always blue!
+Always blue!
+Always blue!
+Always blue!
+Aah!
+Regrets?
+Uh No.
+No, I'm-I'm happy.
+And you don't, you don't feel bad that you never got to make the world a better place?
+Uh I think we did okay.
+I actually could, um I I still have it.
+One copy of the Pied Piper codebase.
+I have it on a thumb drive.
+I could show it to you.
+We won't - look into it, but, um -  I just wanna show it to you.
+It's just got a couple things on there that I think I, honestly, this was like when we were coding the best we ever were, so some pieces of this thing are - sheer elegance.
+-  I wish I could show it to everybody because I wanna show it to my students.
+Not my class, but another - I know it was in the desk.
+-  Okay, this is weird.
+-  - Shit, okay.
+Where is it?
+It's or it's orange.
+It's this big.
+It's just a thumb drive.
+So, is anyone have any of your crew seen it or anything?
+I mean right here.
+- That's insa -  I had the It's gotta be in the desk.
+Is it a problem?
+Um, no, not a problem.
+Um It's just pretty fascinating.
+Although if it isn't here where is it?
+{END OF EPISODE 7}{START OF EPISODE 90}
+1   Should I look at the  camera or you?
+You can just talk to me.
+Can you introduce yourself?
+Sure.
+Yeah, um Uh, my name is Richard Hendricks and I'm the My name is Richard Hendricks, and -  Just - My name is Richard Hendricks.
+I'm, uh, the founder and CEO of Pied Piper.
+I think like most people, I first heard about Pied Piper - at TechCrunch Disrupt.
+- - Middle-out was a game changer.
+-  The winner of this year is Pied Piper.
+What you have to understand is, conventional compression - was like rubbing two sticks together.
+- And along comes Pied Piper out of nowhere with a fricking blowtorch.
+It seemed like they really had their act together.
+- I thought about acquiring them, - uh, but I guess I got distracted.
+So, when did you first hear about Pied Piper?
+You mean when did I hear someone had first stolen - my Nucleus project?
+- Well we had really just started, um, a few months earlier.
+And, like a bunch of other Silicon Valley companies, we were just working out of a garage.
+Or a house -  Nice place?
+- No.
+- Those early days of Pied Piper - kinda sucked.
+We had to clean for ourselves.
+It was like a shit hole.
+But there was so much shit in it, it was filled all the way up.
+So, it was like level with the ground.
+If that's true, there was a little meniscus in the shit, and that's where our dreams lived.
+One of my favorite things is to just be napping, and then to wake up and have people around.
+And that used to happen all the time when I was homeless, but  this was like that, but with shelter.
+- I think they all abided by the same rule - to like shower every other day.
+So, it smelled a lot.
+Uh, like BO.
+And, um, you know, they didn't have money, so they they didn't have a cleaner.
+Uh, and Lord knows they weren't going to clean, so there was, um, you know, a good layer of filth just on the ground.
+Not the kind of house you want to take your shoes off in.
+Um, and, uh, yeah, just fucking smelled.
+Really bad.
+- It was all right.
+- Jian-Yang won the house from me in a game of chance.
+He told me to pick a number between one and ten.
+I picked seven, um, but it was three.
+Hmm, you live you learn, now I'll always pick three.
+The fucking weird thing about that house, - I never saw any chicks in that house.
+- Never any.
+It was all just a bunch of fucking lame dudes.
+They should have been bathing in fucking she-ju like she-jizz, she-goo.
+Like, fucking, like, you know like knuckle lube.
+There was one guy though, right?
+Oh, yeah Yeah, that guy fucked.
+It was Camelot It was Narnia.
+It was Waco, and Richard was our dashing, feather-haired David Koresh.
+And we were his wives.
+But we chose to be there.
+It was kind of impressive.
+How how he found different ways to fuck up.
+He fucked things up over and over and over.
+Yeah, I I met Richard at, uh, a talk that Peter Gregory was giving and he pitched Peter Gregory a music recognition app that was fucking awful.
+Uh, and it ended up becoming Pied Piper.
+So, what the fuck do I know?
+- When people ask me about Pied Piper, - I always tell them the same thing Are there other questions?
+Uh, yeah, can you elaborate?
+Yes.
+Will you?
+Uh hmm  So, you worked with Laurie Bream?
+- Mm-hmm.
+- Uh, we spoke to Laurie, she actually referred to you as her best friend.
+Laurie Bream said that I was her best friend?
+Yeah.
+Oh.
+Fuck, I I don't have to like go visit her now, do I?
+We had knocked around for a few years, trying different iterations of what we wanted to do.
+It was at RussFest when things really got crazy for us.
+RussFest was the rock-hard cock that jizzed Pied Piper - onto the world's tits.
+-  DINESH  It was so much money.
+It was so much money that I actually looked into how much money it would take to fill up a swimming pool so I could swim in money like Scrooge McDuck.
+Not as much money as you'd think.
+It would have been an all hands-on deck at Yankee Candle.
+Because I would've I would've ordered up a storm.
+There were a couple Soviet submarines I had my eye on.
+To me it wasn't about the money, I just wanted to, you know, be able to put it in people's faces.
+Like I wanted to go home for Thanksgiving and say to my sister, like, "Oh, cool, you're the fanciest girl in Mommy and Me?
+Well fuck you, I'm a billionaire.
+And fuck Daren too".
+Such a fucking asshole, that mother fucker.
+Yeah times were good.
+They call it PiperNet, and it's coming to your phone.
+- Tomorrow at noon, the Pied Piper app - will go live on the latest 5G-equipped iOS and Android phones in ten major cities across the country.
+- AT&T says, "If things go as planned, - PiperNet could be on more than a half billion devices within a year".
+And no one is more excited than technology super fans.
+- Like the ones behind me -  - who are camping out all night to snag - a limited-edition, Pied Piper-equipped smartphone.
+If their enthusiasm is anything to go by, then a lot more people may soon be lining up to pay the Piper.
+I'm Jim Gitman, KCTW.
+- I am Pied Piper.
+- I am Pied Piper.
+- I am Pied Piper.
+- I am Pied Piper.
+I am Pied Piper.
+We are Pied Piper!
+Day of the launch, half-an-hour to go.
+What, uh, what was going through your head?
+Yeah, I mean all All indications pointed to a successful launch.
+Sorry do you have Do we have water?
+JARED  I mean he was the most relaxed I'd ever seen him.
+He had the the cool, confident swagger of a young Montgomery Clift with none of the private sexual misery.
+Well, maybe a little.
+Oh, yeah, I I was sure it was gonna work right from the beginning.
+It pretty sure.
+Most of the time.
+We were all pretty nervous.
+Especially Dinesh.
+He shat his pants.
+I chose to not be there because to me, I never did this for the fame or the adulation, you know.
+To me, it's always been about the work.
+God, to be around me during that time.
+I must have been so annoying.
+I was just walking around chest bumping any bro I could get my chest against.
+So, uh, what do you remember about the launch?
+Um, there were some dogs that did some tricks, and a sports guy.
+Would you say that Pied Piper is your MVP?
+Most valuable phone?
+Yeah, I would.
+-  - He was tall, um Can't remember what sport he played.
+But nice guy.
+Uh, yeah, I was just trying to do everything I could not to screw it up.
+In a fairy tale turned nightmare come to life, thousands of rats streamed onto the streets of San Francisco today.
+Pied Piper's phones broadcasting intense, ultrasonic sounds.
+REPORTER 2: News spin, we have a rat problem.
+The streets of Seattle became the streets of Sea-rattle.
+- And everyone was sleepless.
+- Giants fans going home happy today as the Cubs go down swinging to the Holy shit.
+They're calling it Rat-mageddon.
+Yeah.
+Except in New York, where they're calling it - Wednesday.
+-   They literally became the Pied Piper, I mean, you can't make that up.
+What you have to understand is rats.
+I thought I might have to start a a new division in my foundation to deal with the wave of rat-born disease.
+When you think about a lot of the failures in tech, Pets.com, Theranos, WeWork Pied Piper really is right at the top of that list.
+Pied Piper is just a millstone around AT&T's neck!
+I say dump it, dump it now!
+I lost so much fucking money with those guys.
+I got rat fucked.
+That's a pun.
+I made it all back though, sweet investment in the hair transplant sector.
+What?
+Rats, uh yes, we have some of them here.
+Figuratively.
+They are dealt with.
+Here's the thing about rats.
+Nobody likes them.
+Literally no one likes rats.
+I actually prefer rats to humans if I had the choice.
+I had a pet rat when I was a little kid.
+I saw all the fucking rats, I was like, "Rat-up, bitches".
+All these fucking chicks screaming I got laid that night.
+Rats are wonderful creatures.
+We used them in many experiments in the early days of Hooli.
+Turns out they can withstand massive amounts of radiation with minimal damage.
+I mean, they live in a lab.
+What do they need whiskers and tails for anyway?
+They were out for cheese and wires.
+They chewed through copper.
+They chewed through one woman's hand.
+She should've moved though, I think, I don't want to victim blame.
+Do you know how they ended up getting rid of the rats?
+I think they just ran away.
+Where?
+And so, effective immediately, I am shutting down Pied Piper, deleting its code repositories and liquidating its remaining assets.
+All right, that's our statement.
+We will not be taking any further ques And can I just say that I am just truly, deeply sorry.
+Uh, this should never have been built.
+It is technically flawed to its very core.
+And we should all remember that forevermore.
+Sorry.
+Obviously, Mr. Hendricks doesn't mean that in any legally binding or actionable way.
+- Get a life, guys.
+-  It's weird.
+It really seemed like Pied Piper was going to work.
+Something doesn't add up.
+Heartbreaking doesn't even begin to describe how all of us felt about the failure of Pied Piper.
+Oh, my God, oh, my God.
+Oh, my God.
+All of us shocked.
+Failure is terrible.
+Unlike Dinesh, I'm not accustomed to it.
+But I do want to clarify that I wasn't there at the launch, so the failure of Pied Piper wasn't really my fault.
+What, uh, kind of advice would you give to somebody experiencing a massive public failure?
+Well I I've never failed.
+So I have many advice for winners.
+Um, you know my my career has been a trajectory of succeeding upwards until I tired of being at the top.
+Well I was pretty embarrassed, so, I, uh I laid low for a little bit.
+Uh, I traveled.
+Richard and I went on a world tour to eat, pray, love.
+Actually, I met, uh, Jared, in in Zurich.
+We went to Zurich, we went to Amsterdam, we went to Copenhagen.
+I saw him again in, uh, Madrid.
+Richard and I went to a flamenco show.
+I begged him to try it because I just felt that it would unlock his body.
+But, um He said he wanted to stay locked.
+Did not expect to see him in Thailand, but, uh, then, since he was there, we did, uh, our little Southeast Asia tour.
+I felt like we were Tegan and Sara on the road together.
+And, lo and behold, he was on the return flight.
+It was the trip of a lifetime.
+I went to Tibet, actually, to try and find Erlich.
+But, uh, he was gone.
+And then I came back, but no one really wanted to hire the guy behind Pied Piper.
+Uh, however, my best friend did hire me.
+And, now I am the Gavin Belson Professor of, uh, Ethics in Technology at Stanford University.
+This is all the great people I work with.
+Stanford hat.
+This was when Russ Hanneman really thought we should have schwag, schwag.
+The schwag.
+A mug.
+This is the patent Pied Piper had, middle-out.
+May I be honest?
+There was a period of my life in which I would have rooted for the failure of Richard Hendricks.
+But that was a different Gavin Belson.
+That was tech icon Gavin Belson.
+Not literary icon Gavin Belson.
+Since leaving Hooli, I've co-authored 37 adult romance novels.
+Fondly Margeaux.
+The Lighthouse Dancer.
+Cold Ice Cream and Hot Kisses.
+Over here, The Prince of Puget Sound.
+Uh, and lastly, His Hazel Glance.
+All international bestsellers.
+Uh, G Gavin.
+Moment, please.
+I'm so sorry.
+A moment.
+- The fuck is your problem?
+!
+- You said this would be an hour.
+GAVIN  Well, we're just running a little over.
+Yeah, with the with the lights and the machines and the sound equipment, how is this ever gonna be an hour?
+!
+You're acting hysterically, all right?
+We'll have plenty of time to write this afternoon.
+Yeah, you know what?
+You know what?
+Do your your little interview.
+I'll just write the book myself.
+If you could, you would.
+But you can't.
+You're stuck with me, and I'm stuck with you.
+Whoa, whoa, whoa!
+That's what Slorian says to Claudette outside the cheese cave.
+I forgot!
+- That's our third act!
+-  Third act!
+Yes!
+- Okay, go put the kettle on.
+-  Yeah, I'll put the kettle.
+I'm terribly sorry, I'm gonna have to cut this short.
+Thank you for coming.
+Ah, yes, there has been one obvious change in my life since then.
+I have a niece.
+Hmm.
+BIG  My name is, uh, Nelson Bighetti, and I'm the president of Stamford Stanford.
+At first, it was really hard to find my office 'cause it's on the second floor, but I think I have it down now.
+You just go upstairs.
+You graduates have a lot of responsibility finishing the important work of movements such as pound met double zero and Title ix.
+But I feel sure we are in good hands, for as our motto states, "Die-live-der-frite-wet.
+Freedom blows".
+Wait, that can't be right.
+Remember that?
+"Uowis".
+Oh wait, hang on.
+Oh, Simon.
+Yeah, I used to play this.
+Let's see.
+-  - Ah, damn.
+A little rusty.
+So, I think I know, but why did they call you Big Head?
+Oh yeah, just, you know, boys being boys and making fun of my my big ol' dome.
+It's not because your last name is "Bighetti"?
+I'm the co-founder of Newell Road's Strategic Technologies, one of the largest cyber-security firms in the Bay Area.
+I am the co-founder of Newell Road's Strategic Technologies, - one of the largest cyber-security - I literally just said that.
+- firms - I just said that.
+- You heard me say that.
+- in the Bay Area.
+Things are better when I say them.
+Plus, they're definitely going to edit you out.
+They're not gonna use it.
+Why would they use it?
+That has nothing to do with this.
+Why don't tell 'em how you bought the house next to mine because you love me so much?
+Okay.
+Fuck you.
+How's it going, guys?
+Meeting time.
+- We have a meeting.
+-  Mandatory.
+What do I do now?
+I, uh, I work for a nonprofit in D.C. It's a It's a think tank and and we just think about stuff.
+So, the NSA?
+The NSA?
+No, no, no.
+Farthest thing from the NSA.
+God.
+NSA, that's that's a really weird question to ask.
+You're not You're not gonna use this, are you?
+-  Maybe.
+- Wh You can't u You can't have people smoking in movies, so Okay, JELL-O.
+The old staple.
+I'm afraid we don't have kosher shrimp.
+Are Are you sure that even exists?
+Guys, later, we're gonna have a Joni Mitchell singalong.
+In the rec room.
+I love working with the elderly.
+One, two It's like I get to have a bunch of parents, and also be their parent.
+Let's go.
+Hey, no.
+No, no, no, no, no, no, no.
+Martin, Martin.
+She only has eyes for you.
+We were dancing as girlfriends.
+That's it.
+Except for Mr. O'Keefe, who thinks I'm his late wife.
+But, that's fine, too.
+This fall, we actually had a herpes epidemic among the residents, which is bad medically, but from another perspective, it's kind of touching.
+Okay, we're on our way to the hostel.
+God, I haven't been there in such a long time.
+It was just an It was an incredible time of my life, you know, uh I never really thought that I would have a group of male friends.
+You know, men just seem kind of mean and hard, but you know, these guys were just sweet and soft as rotten fruit.
+You got your book?
+Prince of Puget Sound?
+Oh, Judy!
+Hey, man.
+- Hey, man.
+-  You okay?
+- Yeah.
+-  I haven't seen you in forever.
+I saw you last weekend.
+- MONICA  Hi.
+-  Hey.
+You look great!
+Is that Is that a woman's scent?
+No, it's unisex.
+- Big Head?
+- Hey, Nelson.
+I work a lot with people who have dementia and I just want you to know it doesn't have to be a horror show.
+Oh, cool.
+Well, hey.
+We're all here.
+- BERTRAM  Let's go.
+- Let's go see Jian-Yang.
+-  Fine.
+- You okay?
+Richard?
+!
+Uh  Hi, there.
+Is, uh Is Jian-Yang here?
+Does he live here?
+We're We're old Old friends of his.
+No, I'm sorry.
+I bought the house years ago from his estate.
+Estate?
+I'm sorry to be the one to tell you this, but Jian-Yang's dead.
+Uh Okay, so he's dead.
+What do we do?
+It's different.
+But also, the same.
+Hey, Gilfoyle.
+That's your horrible corner.
+It looks much better now.
+Changed a little bit.
+Fixed my hole.
+-  -  Don't do it again.
+No, I wouldn't.
+Obviously.
+It was emotionally charged.
+Look at the drapes.
+That's a playful linen.
+- Hi.
+-  Hey.
+I used to live here.
+Back when I was poor.
+- Cool.
+- No offense.
+None taken, I guess.
+- President Bighetti?
+- Whoa.
+- How did you know my name?
+- I go to Stanford.
+Oh, no way, I work at Stanford.
+- I'm the president.
+- Yeah, I know.
+What are you doing here?
+Um, I don't know.
+I think 'cause Jian-Yang died.
+- I'm not sure.
+- Who's that?
+Okay.
+- My bedroom.
+Yeah.
+- Ah, yes.
+Didn't you, uh used to wet the bed?
+Sweating.
+Sweating.
+Stress sweats.
+You can get so stressed, you sweat at night.
+And sometimes, you can sweat on your crotch.
+So weird, we're all back here.
+Except for Jian-Yang.
+- Because he's dead.
+- And Erlich.
+Has anyone talked to Erlich?
+Nope.
+No.
+But wherever he is, I hope he hasn't blown through all that money.
+He definitely has.
+Yeah.
+I'm sure he has.
+We're looking for Erlich Bachman.
+In the other village, they said that he was here.
+Is Erlich Bachman here?
+-  - He's here?
+He's that way?
+- It's up here?
+-  Erlich Bachman.
+So this is Erlich Bachman's house?
+- Erlich Bachman.
+- Fantastic.
+We're just here to see Erlich Bachman.
+Hello.
+Hello?
+Whoa, whoa.
+Easy.
+Easy.
+We're friends.
+Are you Erlich Bachman?
+JIAN- Yes, I'm Eric Bachman.
+I can show you ID.
+That's my face.
+I was fat.
+But now, I'm not fat.
+I'm sorry, this is supposed to be you?
+Yes, my hacker hostel was very unsuccessful.
+- But, uh, Richard was okay.
+- And my favorite, smartest person was Jian-Yang.
+Do you plan on coming back to America at any point?
+JIAN- No because everyone hates me in America.
+And my best friend Jian-Yang is dead.
+How did he die?
+JIAN- He died helping children in Africa from the tiger.
+Jian-Yang killed a tiger and the tiger killed him at the same time.
+That, um that doesn't sound like that's true.
+JIAN- You're not true.
+I have an idea.
+-  -  Okay.
+Whoa.
+Whoa, whoa, whoa.
+I'm making the world a better place through an intelligent, semi-autonomous agent powered by distributed DNA-based compute that automates personal planning and scheduling.
+Oh, boss.
+Sounds like an atrocity.
+Let's just hope you have better success than we did.
+Oh, what company did you have?
+- Oh, here we go.
+-  - Uh, Pied Piper.
+-  Yeah.
+I'm unfamiliar.
+Rat invasion?
+We we were a big failure.
+Eight-billion-dollar valuation down to zero in one day.
+Is that like a social media company?
+What?
+Pied Piper.
+Are you fucking with us?
+Thank you guys so much for your time.
+Hey, guys.
+Guess what I accidentally brought in my bag?
+Oh, no way.
+-  Whoops.
+-  - We know this thing.
+-  Wow.
+I need a beer if we're gonna do this.
+Richard, be careful.
+Now do it.
+Always blue!
+RICHARD  Regrets?
+Uh no.
+No, I'm I'm happy.
+You don't You don't feel bad that you never got to make the world a better place?
+Uh I think we did okay.
+I wouldn't change a thing.
+I've learned a lot from my mistakes.
+Well, they weren't my mistakes.
+I've learned a lot from other people's mistakes.
+I think we proved to everyone the need for less immigration from Pakistan.
+The nice thing about freezing to death is you're preserved in your last moment.
+And if I could live forever in the last moment of Pied Piper I'd be a happy corpse.
+I I actually could, um I I still have one copy of the Pied Piper code base.
+I have it on a thumb drive.
+I could show it to you.
+No, we won't we won't look into it, but um I just want to show it to you.
+It's just got a couple things on there that I think I, honestly this is like when we were coding the best we ever were.
+So, some pieces of this thing are sheer elegance.
+I wish I could show it to everybody because I want to show it to my students.
+Not my classmates, but other I know it was in the desk.
+Okay, this is weird.
+Shit.
+Okay.
+Where is it?
+It's it's orange.
+It's this big, it's just a thumb drive, so have you has anyone have your crew seen it or anything?
+It isn't here?
+That's insa I have It's gotta be in the desk.
+Is it a problem?
+Um, no.
+Not a problem.
+It's just pretty fascinating.
+Although if it isn't here Where is it?
+{END OF EPISODE 90}
