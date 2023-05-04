@@ -62,3 +62,5 @@
 - (04:32 PM) Still working on trying to test it out. I have to split the season files into individual episodes first.
     - Just hit a breakthrough though, thanks to [this post](https://pynative.com/python-regex-split/), among others
     - I think it should nearly be smooth sailing from here in terms of being able to test the entropy calculator
+#### 08:13 PM
+- Took a solid break and am almost ready to jump back in... gonna quickly test one other season corpus to make sure everything is functioning correctly.
