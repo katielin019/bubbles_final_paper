@@ -66,3 +66,6 @@
 - Took a solid break and am almost ready to jump back in... gonna quickly test one other season corpus to make sure everything is functioning correctly.
 #### 10:08 PM
 - May have fixed an import problem for the damn entropy calculator which keeps giving me all sorts of errors and bugs. Thank you, [StackOverflow](https://stackoverflow.com/questions/48796169/how-to-fix-ipykernel-launcher-py-error-unrecognized-arguments-in-jupyter). You are literally the most crucial thing holding this project together
+### Thu May 4
+#### 01:26 AM
+- Had to do some unfortunate reformatting and editing, but [this post](https://stackoverflow.com/questions/13250046/how-to-keep-leading-zeros-in-a-column-when-reading-csv-with-pandas) was a lifesaver
