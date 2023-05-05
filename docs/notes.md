@@ -16,12 +16,12 @@
     - For scraping series metadata
 - Search: "csv data to python dictionary"
     - [Creating a dictionary from a csv file? | StackOverflow](https://stackoverflow.com/questions/6740918/creating-a-dictionary-from-a-csv-file)
-### 05:19 PM
+#### 05:19 PM
 - I got the data I wanted by scraping Wikipedia and then narrowed down my list to a total of 43 tv shows
 - Now, I want to try web scraping to get show transcripts (which I'll then have to clean)
     - [Star Trek webscraping script](https://github.com/BirkoRuzicka/Star-Trek-Transcripts/blob/main/StarTrek_webscraping.py)
     - [scraping a website that requires you to scroll down | StackOverflow](https://stackoverflow.com/questions/45620396/scraping-a-website-that-requires-you-to-scroll-down)
-### 08:15 PM
+#### 08:15 PM
 - Used BeautifulSoup to get all of the episode urls and id's for every show
     - [BeautifulSoup | Dev Cheatsheets](https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/python/libraries/beautifulsoup.html)
 - Saved the dfdict to a pickle in case something happens and my shit gets lost
@@ -30,10 +30,10 @@
     - Using [Star_Trek_Scripts/scrape.py](https://github.com/GJBroughton/Star_Trek_Scripts/blob/master/scrape.py) to help with test transcript retrieval
 - Got script text!! [Super helpful link](https://proxyway.com/knowledge-base/how-to-get-text-from-div-using-beautifulsoup)
     - Now I need to write the script to clean text and figure out how I want to approach structuring the text data :/
-### 09:57 PM
+#### 09:57 PM
 - Got the script working for cleaning the text and got the export stuff working too. Now I just need to figure out what's happening with the weird formatting and fix it...
 - For removing character names [link](https://stackoverflow.com/questions/49281051/removing-capital-letters-from-a-python-string)
-### 11:09 PM
+#### 11:09 PM
 - I want to be done for the evening. I'm fuckin exhausted, man.
 - Things I need to do tomorrow:
     1. Write a function to split a string into its sentences and place each sentence inside an array. Then, use that array to write to a .txt file with one sentence per line.
